@@ -2,7 +2,7 @@
 layout: default
 title: Profile
 ---
-<li><a href="{{site.baseurl}}">Home</a></li>
+<li><a href="{{site.baseurl}}/index">Home</a></li>
 <li><a href="{{site.baseurl}}/profile">Profile</a></li>
 <li><a href="{{site.baseurl}}/publications">Publications</a></li>
 <li><a href="{{site.baseurl}}/research">Research</a></li>
