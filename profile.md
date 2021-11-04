@@ -8,4 +8,4 @@ title: Profile
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>
 
-Profile
+**Profile**
