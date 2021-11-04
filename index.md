@@ -8,6 +8,7 @@ layout: default
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>
 
-
 Hi, nice to see you here!
+
+*This is the personal home page of Dr Varun Kumar Ojha*
 
