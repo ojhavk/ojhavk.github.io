@@ -8,5 +8,5 @@ title: Research
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>
 
-This is a research page
+**Research**
 
