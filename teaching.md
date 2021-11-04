@@ -8,4 +8,4 @@ title: Teaching
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>
 
-##Teaching
+**Teaching**
