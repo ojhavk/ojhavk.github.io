@@ -13,7 +13,7 @@ title: Profile
 IEEE Senior Member, Fellow of the Higher Education Academy, UK
 
 ### Emplyment
-Lec<br>
-P<br>
-M<br>
-R<br>
+Lec
+P
+M
+R
