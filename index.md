@@ -15,7 +15,7 @@ Lecturer (Assistant Professor) of University of Reading, United Kingdom
 
 **Research Interests**
 
-Artificial Intelligence, Machine Learning, and Interdisciplinary Research
+Artificial Intelligence, Data Science, and Interdisciplinary Research
 
 **Hi, nice to see you here!**
 
