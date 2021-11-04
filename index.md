@@ -9,7 +9,7 @@ layout: default
 <a href="{{site.baseurl}}/teaching">Teaching</a>
 
 
-**Varun Kumar Ojha, PhD**
+## Varun Kumar Ojha, PhD
 
 Lecturer (Assistant Professor) of University of Reading, United Kingdom
 
