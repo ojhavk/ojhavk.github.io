@@ -20,5 +20,5 @@ Research Fellow, _Visva-Bharati University_, India <br>
 
 ### Education
 Ph.D. in Computer Science, Technical University of Ostrava, Czech Republic <br>
-Thesis | _Feature Selection and Function Approximation Using Adaptive Algorithms_ <br>
+_Feature Selection and Function Approximation Using Adaptive Algorithms_ <br>
 Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR Labs, United States <br>
