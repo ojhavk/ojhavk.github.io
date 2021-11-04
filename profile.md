@@ -13,7 +13,7 @@ title: Profile
 IEEE Senior Member, Fellow of the Higher Education Academy, UK
 
 ### Emplyment
-Lec
-P
-M
-R
+1. Lecturer in Computer Science, _University of Reading_, UK, 2018 – present
+1. ETH Zürich Postdoctoral Fellow, _ETH Zürich: Zürich_, Switzerland, 2017 – 2018
+1. Marie Curie Fellow, _Technical University of Ostrava_, Czech Republic, 2013 – 2016
+1. Research Fellow, _Visva-Bharati University_, India, 2011 – 2013
