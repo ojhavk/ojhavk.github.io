@@ -20,5 +20,5 @@ IEEE Senior Member, Fellow of the Higher Education Academy, UK
 
 ### Education
 Ph.D. in Computer Science, Technical University of Ostrava, Czech Republic, 2016<br>
-Thesis | Feature Selection and Function Approximation Using Adaptive Algorithms (PDF) <br>
-Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham,MIR Labs, United States <br>
+Thesis | _Feature Selection and Function Approximation Using Adaptive Algorithms_ (PDF) <br>
+Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR Labs, United States <br>
