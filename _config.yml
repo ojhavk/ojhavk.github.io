@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Varun Ojha
-
+logo: /imgs/image_vko_bw.png
 description: It's the personal page of Varun Ojha
 
 permalink: /:title
