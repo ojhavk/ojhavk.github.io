@@ -13,10 +13,10 @@ title: Profile
 IEEE Senior Member, Fellow of the Higher Education Academy, UK
 
 ### Emplyment
-1. Lecturer in Computer Science, _University of Reading_, UK (current)
-1. Postdoctoral Fellow, _ETH Zürich: Zürich_, Switzerland
-1. Marie Curie Fellow, _Technical University of Ostrava_, Czech Republic
-1. Research Fellow, _Visva-Bharati University_, India
+Lecturer in Computer Science, _University of Reading_, UK (current) <br>
+Postdoctoral Fellow, _ETH Zürich: Zürich_, Switzerland <br>
+Marie Curie Fellow, _Technical University of Ostrava_, Czech Republic <br>
+Research Fellow, _Visva-Bharati University_, India <br>
 
 ### Education
 Ph.D. in Computer Science, Technical University of Ostrava, Czech Republic <br>
