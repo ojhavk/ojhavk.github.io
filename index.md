@@ -10,5 +10,5 @@ layout: default
 
 Hi, nice to see you here!
 
-*This is the personal home page of Dr Varun Kumar Ojha*
+This is the personal home page of Dr Varun Kumar Ojha
 
