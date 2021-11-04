@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
+
 title: Varun Ojha
+
 description: It's the personal page of Varun Ojha
+
+permalink: /:title
+
+baseurl: ""
