@@ -10,6 +10,14 @@ title: Publications
 
 ## Publications
 
+### Select Five Papers
+1. Pravin C, Martino I, Nicosia G, **Ojha V** (2021). Adversarial robustness in deep learning: Attacks on fragile neurons. _The 30th Int. Conf. on Artificial Neural Networks_, ICANN (pp 16-28), Springer, LNCS, Bratislava, Slovakia. (<a href="https://centaur.reading.ac.uk/99457/" target="_blank">PDF</a>)
+1. **Ojha VK**, Snášel V, Abraham A. (2018). Multiobjective programming for type-2 hierarchical fuzzy trees, _IEEE Transaction on Fuzzy Systems, 26_(2), 915--936. (<a href="https://arxiv.org/abs/1705.05769" target="_blank">PDF</a>)
+1. Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25(8)_ 4435--4453 (<a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Data, PDF</a>)
+1. **Ojha VK**, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G. (2019). Machine learning approaches to understand the influence of urban environments on human's physiological response, _Information Sciences, 474_, 154--169. Elsevier. (<a href="https://arxiv.org/abs/1812.06128" target="_blank">PDF</a>)
+1. **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016) Predictive modeling of die filling of the pharmaceutical granules using the flexible neural tree,  _Neural Computing Application 29_(7), 467--481. Springer. (<a href="https://arxiv.org/abs/1709.04318" target="_blank">PDF</a>) 
+
+
 ### Edited Proceedings	
 1. Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565) (<a href="https://www.springer.com/gp/book/9783030645793" target="_blank">Link</a>)
 
@@ -19,7 +27,7 @@ title: Publications
 1. **Ojha V** Abraham A, Snášel V. (2019). Heuristic design of fuzzy inference systems: A review of three decades of research, _Engineering Applications in Artificial Intelligence, 85_, 845--864. Elsevier. (<a href="https://arxiv.org/abs/1908.10122" target="_blank">PDF</a>)
 1. **Ojha VK**, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G. (2019). Machine learning approaches to understand the influence of urban environments on human's physiological response, _Information Sciences, 474_, 154--169. Elsevier. (<a href="https://arxiv.org/abs/1812.06128" target="_blank">PDF</a>)
 1. Bielik M, **Ojha VK** Griego D, Kuliga S, Schneider S, Konig R, Donath D, Schmitt G. (2019). Examining trade-offs between social, psychological and energy potential of urban form, _International Journal of Geo-Information, 8_(2), 1--52 (<a href="https://doi.org/10.3390/ijgi8020052" target="_blank">PDF</a>)
-1. **Ojha VK**, Snášel V, Abraham A. (2018). Multiobjective programming for type-2 hierarchical fuzzy trees, _IEEE Transaction on Fuzzy Systems, 26}(2), 915--936. (<a href="https://arxiv.org/abs/1705.05769" target="_blank">PDF</a>)
+1. **Ojha VK**, Snášel V, Abraham A. (2018). Multiobjective programming for type-2 hierarchical fuzzy trees, _IEEE Transaction on Fuzzy Systems, 26_(2), 915--936. (<a href="https://arxiv.org/abs/1705.05769" target="_blank">PDF</a>)
 1. **Ojha VK**, Snášel V, Abraham A (2017) Metaheuristic design of feedforward neural networks: a review of two decades of research, _Engineering Applications in Artificial Intelligence, 60_, 97-116. Elsevier. (<a href="https://arxiv.org/abs/1705.05584" target="_blank">PDF</a>)
 1. **Ojha VK**, Abraham A, Snášel V. (2017). Ensemble of heterogeneous flexible neural trees using multiobjective genetic programming, _Applied Soft Computing, 52_, 909-924. Elsevier. (<a href="https://arxiv.org/abs/1705.05592" target="_blank">PDF</a>)
 1. **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016) Predictive modeling of die filling of the pharmaceutical granules using the flexible neural tree,  _Neural Computing Application 29_(7), 467--481. Springer. (<a href="https://arxiv.org/abs/1709.04318" target="_blank">PDF</a>)
