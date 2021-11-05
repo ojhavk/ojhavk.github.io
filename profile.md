@@ -133,7 +133,7 @@ perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (<a hre
 1. University of Surrey, Guildford, UK, 05/2015
 1. Indian Institute of Engineering, Science and Technology, Shibpur, India, 2011--2013  
 
-~~~### Professional Membership
+<!---### Professional Membership
 1. Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
-1. Member, Association for Computing Machinery (ACM)
-~~~
+1. Member, Association for Computing Machinery (ACM)--->
+
