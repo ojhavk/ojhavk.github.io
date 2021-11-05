@@ -10,7 +10,7 @@ title: Teaching
 
 ## Teaching
 
-My teaching interests are in Artificial Intelligence and Data Science areas. I like to teach project-driven programming, algorithms and data structure, and engineering mathematics.
+My teaching interests are in _Artificial Intelligence_ and _Data Science_ areas. I like to teach project-driven _programming, algorithms and data structure, and engineering mathematics_.
 
 ### Lectures
 1. Lecturer of Artificial Intelligence, UG/PG, University of Reading, 2020–2021 (Lecture Slides)
