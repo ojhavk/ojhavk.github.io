@@ -15,8 +15,6 @@ title: Publications
 1. Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565) (<a href="https://www.springer.com/gp/book/9783030645793" target="_blank">Link</a>)
 
 ### Journal Papers
-1. **Ojha V**, Nicosia G. (2021). Backpropagation Neural Tree, _Neural Networks_, Elsevier. (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code, Preprint</a>)
-1. **Ojha V**, Greco A, Timmis J, and Nicosia G (2021) Assessing ranking and effectiveness of evolutionary algorithm hyperparameters using global sensitivity analysis methodologies, _Swarm and Evolutionary Computation_ (<a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code, Preprint</a>)
 1.  Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25(8)_ 4435--4453 (<a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Data, PDF</a>)
 1. **Ojha V**, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G. (2021). Design and characterization of effective solar cells, _Energy Systems_, 1--28. Springer (<a href="https://arxiv.org/abs/2109.07279" target="_blank">PDF</a>)
 1. **Ojha V** Abraham A, Snášel V. (2019). Heuristic design of fuzzy inference systems: A review of three decades of research, _Engineering Applications in Artificial Intelligence, 85_, 845--864. Elsevier. (<a href="https://arxiv.org/abs/1908.10122" target="_blank">PDF</a>)
