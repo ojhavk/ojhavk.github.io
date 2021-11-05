@@ -28,7 +28,7 @@ Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR
 1. Chair of Board of Studies and Student Experience, Department of Computer Science, University of Reading, (2021– )
 1. Degree Project Coordinator, Department of Computer Science, University of Reading, (2019– )
 
-### Awards & Honurs
+### Awards & Honors
 1. Recived two Innovate UK funding for industry projects, 2019, 2021 
 2. Received two EPSRC (UK) Doctoral Training Program, Univerisity of Reading, 2018, 2019 
 4. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
