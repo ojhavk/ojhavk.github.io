@@ -27,7 +27,7 @@ title: Teaching
 1. Module reviewer of Text Mining and Natural Language Processing, Neurocomputation, Data Science,
 Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 1. Lecturer of Artificial Intelligence Teasers Lectures on Open days, 2019 (Slides)
-1. Lectuere of Huwaie -Artficial Intelligence Certification
+1. Invited Lecturer of Huawei HCIA-AI course on Artificial Intelligence
 
 ### Teaching & Learning Activities
 1. Technology Enhanced Learning: ABC Module DesignWorkshop, UoR, 10/2018
