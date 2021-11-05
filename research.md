@@ -28,9 +28,9 @@ RemyVandaele (2020–), Machine learning for high impactweather and flood predic
 with Prof Sarah Dance of Mathematics Department), UoR, UK. (a paper and a journal)
 
 #### Current PhD Student Projects
-Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)
+Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)<br>
 
-**Questions**: We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. Our aim is to answer questions relating to what and why adversaries target some specific features from a learned representation instead of others.  We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalization loss. We aim to apply signal processing techniques to perturb neural synapses, both globally and locally, to analyze how the network response varies for the perturbed and unperturbed inputs.
+**Questions**: _We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. Our aim is to answer questions relating to what and why adversaries target some specific features from a learned representation instead of others.  We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalization loss. We aim to apply signal processing techniques to perturb neural synapses, both globally and locally, to analyze how the network response varies for the perturbed and unperturbed inputs_.
 
 Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (status: a poster and a near submission journal)
 
