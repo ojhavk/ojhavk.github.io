@@ -10,7 +10,7 @@ title: Research
 
 ## Research
 
-<sub>[Research Supervision](#research-supervision)</sub>
+<!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
 I investigate and innovate in the areas of _artificial intelligence_ (neural networks) and _data science_. Though my research I try to answer the following questions:
 
@@ -21,8 +21,7 @@ secure networks, and cost and energy efficient networks.
 data (e.g. hydrology), climate data (e.g., chaotic systems).
 1. How biological neurons behave and how to inform design of biologically plausible neural networks?
 
-Following are examples of my works toward answering these questions:
-
+Following are examples of my work towards answering these questions:
 
 ### Research Supervision
 #### Current Postdoc
