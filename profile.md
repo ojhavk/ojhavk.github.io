@@ -24,9 +24,9 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR Labs, United States <br>
 
 ### Administration
-1. Deputy Director of Undergraduate Studies, University of Reading, 2021–present
-1. Chair of Board of Studies and Student Experience, 2021–present
-1. Degree Project Coordinator, UG,PG, University of Reading, 2019 – 2021
+1. Deputy Director of Undergraduate Studies, Department of Computer Science, University of Reading, 2021–present
+1. Chair of Board of Studies and Student Experience, (2021 – )
+1. Degree Project Coordinator, Department of Computer Science, University of Reading, (2019 – )
 
 ### Awards & Honurs
 1. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
