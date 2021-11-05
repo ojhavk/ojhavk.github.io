@@ -29,7 +29,7 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 1. Lecturer of Artificial Intelligence Teasers Lectures on Open days, 2019 (Slides)
 1. Invited Lecturer of Huawei HCIA-AI course on AI, 09/2020, 02/2021
 
-### Teaching & Learning Activities
+### Teaching & Learning Workshop Participations
 1. Technology Enhanced Learning: ABC Module DesignWorkshop, UoR, 10/2018
 1. Assessment and Feedback Workshop (School Based), UoR, 09/2019
 1. Final Year Projects and Dissertations: From Design to Delivery, UoR, 06/2019
