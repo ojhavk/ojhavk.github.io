@@ -69,7 +69,7 @@ urban environment, ETH Zurich, Zurich (Thesis)
 1. Braund, T (2019) Analysing and presenting the general public opinions of feature films through data
 mining from social media feeds and a chatbot, UoR, UK (Report)
 
-### Code repoository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
+### Code repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
 1. Backpropagation Neural Tree (BNeuralT) (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>)
 1. Neural-Tree-Software (<a href="https://github.com/vojha-code/Neural-Tree-Software" target="_blank">Code</a>)
 1. Neural-Network-Predictor Software(<a href="https://github.com/vojha-code/Neural-Network-Predictor" target="_blank">Code</a>)
