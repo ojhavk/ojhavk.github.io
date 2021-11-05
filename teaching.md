@@ -9,6 +9,8 @@ title: Teaching
 <a href="{{site.baseurl}}/teaching">Teaching</a>
 
 ## Teaching
+
+### Lecturs
 1. Lecturer of Artificial Intelligence, UG/PG, University of Reading, 2020–2021 (Lecture Slides)
 1. Lecturer of Data Mining, UG, University of Reading, 2019
 1. Lecturer of Artificial Intelligence, PG, Visva-Bharati University, 2012
@@ -16,13 +18,16 @@ title: Teaching
 1. Lecturer of Fundamentals of Computer Science, UG, Reading, 2020 – 2021 (Lecture Slides)
 1. Lecturer of Professional Skills, UG, University of Reading, 2019 – 2021 (Lecture Slides)
 1. Lecturer of Programming Java (filliped lecture), UG University of Reading, 2020 – 2021
-1. Lecturer of Creative Data Mining, UG/PG, ETH Zürich, Switzerland, 2017–2018 (Lectures | Projects)
+1. Lecturer of Creative Data Mining, UG/PG, ETH Zürich, Switzerland, 2017–2018 (Lectures, Projects)
+
+### Other Teaching Activities
 1. Guest Lecturer of Artificial Intelligence, Henley Business School, 2019–2020 (Lecture Slides)
 1. Educator of Massive Open Online Course, Begin Programming, Reading, 2019 – 2021 (FutureLearn)
 1. Tutor of C++ Programming, UG, Visva-Bharati University, 2011
 1. Module reviewer of Text Mining and Natural Language Processing, Neurocomputation, Data Science,
 Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
-3. Lecturer of Artificial Intelligence Teasers Lectures on Open days, 2019 (Slides)
+1. Lecturer of Artificial Intelligence Teasers Lectures on Open days, 2019 (Slides)
+1. Lectuere of Huwaie -Artficial Intelligence Certification
 
 ### Teaching & Learning Activities
 1. Technology Enhanced Learning: ABC Module DesignWorkshop, UoR, 10/2018
