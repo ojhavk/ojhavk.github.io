@@ -33,7 +33,6 @@ Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR
 1. Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
 1. Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
 
-
 ### Community Services
 1. Program Chair of the 7th International Conference Machine Learning, Optimization, and Data Science,
 LOD 2021, Lake District, United Kingdom, October 04–08, 2021. (<a href="https://lod2021.icas.cc/" target="_blank">LOD2021</a>)
@@ -46,15 +45,28 @@ LOD 2020, Siena, Italy, July 19–23, 2020. (<a href="https://lod2020.icas.xyz/"
 1. Session Chair of 5th Int. Conf. on Innovations in Bio-Inspired Computing and Applications, Ostrava,
 Czech Republic
 1. Reviewer of PhD Thesis at the University of Reading, 2020
-1. Reviewer of Grant Proposals of UK, Natural Environment Research Council,2019
-1. Reviewer of Grant Proposals of Czech Science Foundation, 2017
-1. Reviewer of Grant Proposals (internal) of MPCS University of Reading,
-1. Reviewer of Journals of IEEE Transaction of Neural Networks, IEEE Transaction of Fuzzy Systems,
+1. Reviewer of Grant Proposals of UK, Natural Environment Research Council,2019, 
+Grant Proposals of Czech Science Foundation, 2017, 
+and Grant Proposals (internal) of MPCS University of Reading,
+3. Reviewer of Journals of IEEE Transaction of Neural Networks, IEEE Transaction of Fuzzy Systems,
 IEEE Transaction of Evolutionary Computation, IEEE Access, Applied Soft Computing, Elsevier, Engineering
 Application of Artificial Intelligence, Elsevier, Artificial Intelligence Review, Springer, and
 Pattern Analysis and Application, Springer.
 1. Guest Editor of Data-Driven Modeling for Smart Cities, Frontiers in Sustainable Cities, 2021
 1. Program Committee Member of KDD (2019,2020, 2021), ACM SDM22
+
+### Administration
+1. Deputy Director of Undergraduate Studies, University of Reading, 2021–present
+1. Degree Project Coordinator, UG,PG, University of Reading, 2019 – 2021
+1. Chair of Board of Studies and Student Experience, 2021–present
+1. Steering Committee Founding Member of Thames Valley Artificial Intelligence Hub (TVAI Hub), 2019–present
+1. Chair of a Curriculum Review Working Group, Department of Computer Science, UoR, 2019
+1. Member of aWellbeing, Inclusion, Diversity and Equality Committee, UoR, 2020 – present
+1. Chair of PhD Monitoring Committee, Department of Computer Science, UoR, 2018–present
+1. Co-organiser of BCS open source AI workshop, 2019
+1. Co-Developer of an Industry-Academic Certification, Department of Computer Science, UoR, 2019
+1. Member of Center for Mathematics of Planet Earth, University of Reading, 2020–2021
+1. Co-host of UKIEPC - The UK & Ireland Programming Contest 2018 at UoR
 
 ### Research Visits
 1. Jagiellonian University, Krakow, Poland, 11/2015
