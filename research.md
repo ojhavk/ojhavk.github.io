@@ -28,9 +28,14 @@ Following are examples of my works toward answering these questions:
 with Prof Sarah Dance of Mathematics Department), UoR, UK. (a paper and a journal)
 
 #### Current PhD Student Projects
-1. Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)
-1. Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (status: a poster and a near submission journal)
-1. Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK. (1 paper)
+Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)
+**Questions**: We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. Our aim is to answer questions relating to what and why adversaries target some specific features from a learned representation instead of others.  We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalization loss. We aim to apply signal processing techniques to perturb neural synapses, both globally and locally, to analyze how the network response varies for the perturbed and unperturbed inputs.
+
+Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (status: a poster and a near submission journal)
+**Questions**: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent linear model and orthogonalization algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_.
+
+Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK. (1 paper)
+**Questions**: _We investigate novel approaches to ranking and understanding the influence of deep learning (DL) hyper-parameters through the application of sensitivity analysis (SA). We investigate how shallow and deeper models are susceptible to hyper-parameters affecting their convergence profiles. We try to understand how the stochasticity of the learning process of deeper models showed sensitivity to hyper-parameters and how hyperparameters influence the convergence speed. Additionally, we try to understand how the complexity of the dataset can affect the margin of separation between the sensitivity measures of the most and the least influential parameters_.
 
 #### Current Master and Bachelor Student Projects
 
