@@ -24,17 +24,17 @@ Following are examples of my works toward answering these questions:
 
 ### Research Supervision
 #### Current Postdoc
-1. RemyVandaele (2020–), Machine learning for high impactweather and flood prediction (co-supervision
+RemyVandaele (2020–), Machine learning for high impactweather and flood prediction (co-supervision
 with Prof Sarah Dance of Mathematics Department), UoR, UK. (a paper and a journal)
 
 #### Current PhD Student Projects
-1. Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)
+Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)
 
 **Questions**: We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. Our aim is to answer questions relating to what and why adversaries target some specific features from a learned representation instead of others.  We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalization loss. We aim to apply signal processing techniques to perturb neural synapses, both globally and locally, to analyze how the network response varies for the perturbed and unperturbed inputs.
 
-2. Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (status: a poster and a near submission journal)
+Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (status: a poster and a near submission journal)
 
-**Questions**: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent linear model and orthogonalization algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_.
+**Questions: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent linear model and orthogonalization algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_.
 
 3. Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK. (1 paper)
 
