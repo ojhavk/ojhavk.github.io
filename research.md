@@ -10,7 +10,7 @@ title: Research
 
 ## Research
 
-I investigate and innovate in the areas of artificial intelligence (neural networks) and data science. Though my research I try to answer the following questions:
+I investigate and innovate in the areas of _artificial intelligence_ (neural networks) and _data science_. Though my research I try to answer the following questions:
 
 1. How to design fast, robust, optimal, efficient learning systems? For example, lightweight or distilled
 networks, explainable and inferable neural networks and learning systems, adversarially robust and
