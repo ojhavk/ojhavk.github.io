@@ -24,10 +24,10 @@ Following are examples of my works toward answering these questions:
 
 ### Research Supervision
 #### Current Postdoc
-RemyVandaele (2020–), Machine learning for high impactweather and flood prediction (co-supervision
-with Prof Sarah Dance of Mathematics Department), UoR, UK. (current output: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and a <a href="https://hess.copernicus.org/articles/25/4435/2021/" target"_blank">journal</a>)
+Remy Vandaele (2020–), Machine learning for high impactweather and flood prediction (co-supervision
+with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a> of Mathematics Department), UoR, UK. (current output: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and a <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>)
 
-**Project** (in Collaboration with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof. Sarh Dance</a>): _We investigate how Transfer Learning and Semantic Segmentation can be applied to predict flood events. We use river Camra Images of FasonDigital Watercams as our data source and the past flood events of the UK as case studies.  Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91%  when compared to data available for the flood event on the rivers Severn and Avon, UK. Now we try to investigate a large volume of data by combining river gauge data time-series with image data time-series and offer an automated flood monitoring system_.
+**Project**: _We investigate how Transfer Learning and Semantic Segmentation can be applied to predict flood events. We use river Camra Images of FasonDigital Watercams as our data source and the past flood events of the UK as case studies.  Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91%  when compared to data available for the flood event on the rivers Severn and Avon, UK. Now we try to investigate a large volume of data by combining river gauge data time-series with image data time-series and offer an automated flood monitoring system_.
 
 #### Current PhD Student Projects
 Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)
