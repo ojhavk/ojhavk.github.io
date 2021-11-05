@@ -71,7 +71,7 @@ urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.
 1. Ford J (2020) Reading bus time prediction - A data science approach, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
 1. Braund T (2019) Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
 
-### Code repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
+### Code Repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
 1. Backpropagation Neural Tree (BNeuralT) (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>)
 1. Neural-Tree-Software (<a href="https://github.com/vojha-code/Neural-Tree-Software" target="_blank">Code</a>)
 1. Neural-Network-Predictor Software(<a href="https://github.com/vojha-code/Neural-Network-Predictor" target="_blank">Code</a>)
