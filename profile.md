@@ -23,6 +23,11 @@ Ph.D. in Computer Science, Technical University of Ostrava, Czech Republic <br>
 _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)  <br>
 Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR Labs, United States <br>
 
+### Administration
+1. Deputy Director of Undergraduate Studies, University of Reading, 2021–present
+1. Chair of Board of Studies and Student Experience, 2021–present
+1. Degree Project Coordinator, UG,PG, University of Reading, 2019 – 2021
+
 ### Awards & Honurs
 1. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
 1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas to support studes in their degree projects, UoR, UK, 2019
@@ -32,11 +37,6 @@ Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR
 1. Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering cunducted by Indian Institute of Sciences and seven IITs.
 1. Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
 1. Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
-
-### Administration
-1. Deputy Director of Undergraduate Studies, University of Reading, 2021–present
-1. Chair of Board of Studies and Student Experience, 2021–present
-1. Degree Project Coordinator, UG,PG, University of Reading, 2019 – 2021
 
 ### Community Services
 1. Program Chair of the 7th International Conference Machine Learning, Optimization, and Data Science,
