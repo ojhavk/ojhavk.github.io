@@ -15,7 +15,7 @@ I investigate and innovate in the areas of _artificial intelligence_ (neural net
 1. How to design fast, robust, optimal, efficient learning systems? For example, lightweight or distilled
 networks, explainable and inferable neural networks and learning systems, adversarially robust and
 secure networks, and cost and energy efficient networks.
-1. How to effectively solve challenging interdisciplinary problems? For example, image data (e.g., medical imaging, river camera images), environment
+1. How to effectively solve challenging interdisciplinary problems? For example, image data (e.g., medical imaging), environment
 data (e.g. hydrology), climate data (e.g., chaotic systems).
 1. How biological neurons behave and how to inform design of biologically plausible neural networks?
 
