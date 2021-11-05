@@ -3,5 +3,5 @@
 
 This is the Personal Homepage of Dr Varun Ojha: [https://ojhavk.github.io/](https://ojhavk.github.io/)
 
-The GitHub code of page is availbe at: <a href="https://github.com/vojha-code">github.com/vojha-code</a>
+The GitHub Profile is available at: <a href="https://github.com/vojha-code">github.com/vojha-code</a>
 
