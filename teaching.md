@@ -48,6 +48,6 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 1. Teaching & Learning Leadership & You, UoR, 11/2018
 1. Project management course for postdoctoral researchers, ETH Zürich, 2017
 
-### Phylosophy on the life Cycle of Teaching a Course
-![a][/imgs/teaching_cycle.png]
+### Philosophy on the Life Cycle of Teaching a Course
+![](/imgs/teaching_cycle.png)
 
