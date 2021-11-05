@@ -47,28 +47,29 @@ Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK
 
 #### Selected Past Master and Bachelor Student Projects
 ##### Selected Master student projects
-1. Desai SV (2021) Study of diffusion of nano-particles in polymer and ferrofluids using ML, (Thesis)
-1. Lau J (2021) Computing of local Lyapunov exponents using machine learning, UoR, UK (Thesis)
-1. AshokanV(2021)Variational Autoencoders and GANs for addressing imbalance image data, (Thesis)
-1. Jaikumar P (2020) Transfer learning for segmentation of waste bottles using Mask R-CNN (Paper)
+1. Desai SV (2021) Study of diffusion of nano-particles in polymer and ferrofluids using ML, (<a href=" " target="_blank">Thesis</a>)
+1. Lau J (2021) Computing of local Lyapunov exponents using machine learning, UoR, UK (<a href=" " target="_blank">Thesis</a>)
+1. AshokanV(2021)Variational Autoencoders and GANs for addressing imbalance image data, (<a href=" " target="_blank">Thesis</a>)
+1. Jaikumar P (2020) Transfer learning for segmentation of waste bottles using Mask R-CNN (<a href=" " target="_blank">Conference Paper</a>)
 1. Peschiutta P (2020) Machine Learning modelling of die filling for pharmaceutical powders, (external co-supervision with Prof C Wu), University of Padua, Padua, Italy (Thesis)
-1. Heidi S (2018)Non-spatial and spatial statistics for analysing human’s perception of the built environment, ETH Zurich (Thesis)
-1. Charlotte S (2017) People’s perception of urban and architectural features, ETH Zurich (Thesis)
+1. Heidi S (2018)Non-spatial and spatial statistics for analysing human’s perception of the built environment, ETH Zurich (<a href=" " target="_blank">Thesis</a>)
+1. Charlotte S (2017) People’s perception of urban and architectural features, ETH Zurich (<a href=" " target="_blank">Thesis</a>)
 1. Victor S (2018) Convolutional neural network based visual feature extraction for evaluation of the
-urban environment, ETH Zurich, Zurich (Thesis)
+urban environment, ETH Zurich, Zurich (<a href=" " target="_blank">Thesis</a>)
+
 
 ##### Selected Bachelor student projects
-1. Shergill JS (2020) Machine learning for speech (English language accent) classification, UoR (Paper)
-1. Ward B (2020) Classification of musical preference in generation Z through signal processing, (Paper)
-1. Young R (2021) Using DL and box speed calibration for predicting rowing boat speed, UoR (Report)
-1. Taemur A (2021) Audio classification using machine learning techniques, UoR, UK (Report)
-1. NeeleM(2021) Using neural networks for time-series analysis ofUKriver flowdata, UoRUK(Report)
-1. Mehring C (2021) Fake news detection with neural networks, UoR, UK(Report)
-1. Doidge KB (2021) A study into the effectiveness of recurrent neural networks for trading, (Report)
-1. Rickard J (2020) An analysis of NLP techniques applied to generating tweets, UoR, UK (Report)
-1. Ford J (2020) Reading bus time prediction - A data science approach, UoR, UK (Report)
+1. Shergill JS (2020) Machine learning for speech (English language accent) classification, UoR (<a href=" " target="_blank">Confernce Paper</a>)
+1. Ward B (2020) Classification of musical preference in generation Z through signal processing, UoR, UK (<a href=" " target="_blank">Conference Paper</a>)
+1. Young R (2021) Using DL and box speed calibration for predicting rowing boat speed, UoR (<a href=" " target="_blank">Report</a>)
+1. Taemur A (2021) Audio classification using machine learning techniques, UoR, UK (<a href=" " target="_blank">Report</a>)
+1. NeeleM(2021) Using neural networks for time-series analysis of UK river flowdata, UoR, UK(<a href=" " target="_blank">Report</a>)
+1. Mehring C (2021) Fake news detection with neural networks, UoR, UK (<a href=" " target="_blank">Report</a>)
+1. Doidge KB (2021) A study into the effectiveness of recurrent neural networks for trading, (<a href=" " target="_blank">Report</a>)
+1. Rickard J (2020) An analysis of NLP techniques applied to generating tweets, UoR, UK (<a href=" " target="_blank">Report</a>)
+1. Ford J (2020) Reading bus time prediction - A data science approach, UoR, UK (<a href=" " target="_blank">Report</a>)
 1. Braund, T (2019) Analysing and presenting the general public opinions of feature films through data
-mining from social media feeds and a chatbot, UoR, UK (Report)
+mining from social media feeds and a chatbot, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2018_19_Ben_Magee.pdf" target="_blank">Report</a>)
 
 ### Code repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
 1. Backpropagation Neural Tree (BNeuralT) (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>)
