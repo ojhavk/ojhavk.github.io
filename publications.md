@@ -10,13 +10,6 @@ title: Publications
 
 ## Publications
 
-### Select Five Papers
-1. Pravin C, Martino I, Nicosia G, **Ojha V** (2021). Adversarial robustness in deep learning: Attacks on fragile neurons. _The 30th Int. Conf. on Artificial Neural Networks_, ICANN (pp 16-28), Springer, LNCS, Bratislava, Slovakia. (<a href="https://centaur.reading.ac.uk/99457/" target="_blank">PDF</a>)
-1. **Ojha VK**, Snášel V, Abraham A. (2018). Multiobjective programming for type-2 hierarchical fuzzy trees, _IEEE Transaction on Fuzzy Systems, 26_(2), 915--936. (<a href="https://arxiv.org/abs/1705.05769" target="_blank">PDF</a>)
-1. Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25(8)_ 4435--4453 (<a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Data, PDF</a>)
-1. **Ojha VK**, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G. (2019). Machine learning approaches to understand the influence of urban environments on human's physiological response, _Information Sciences, 474_, 154--169. Elsevier. (<a href="https://arxiv.org/abs/1812.06128" target="_blank">PDF</a>)
-1. **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016) Predictive modeling of die filling of the pharmaceutical granules using the flexible neural tree,  _Neural Computing Application 29_(7), 467--481. Springer. (<a href="https://arxiv.org/abs/1709.04318" target="_blank">PDF</a>) 
-
 ### Journal Papers
 1.  Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25(8)_ 4435--4453 (<a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Data, PDF</a>)
 1. **Ojha V**, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G. (2021). Design and characterization of effective solar cells, _Energy Systems_, 1--28. Springer (<a href="https://arxiv.org/abs/2109.07279" target="_blank">PDF</a>)
