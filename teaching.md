@@ -48,6 +48,9 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 1. Teaching & Learning Leadership & You, UoR, 11/2018
 1. Project management course for postdoctoral researchers, ETH Zürich, 2017
 
-### Philosophy on the Life Cycle of Teaching a Course
+### Life Cycle of Teaching a Course
+I think of Teaching & Learning like a _learning system_ where a feedback loop is paramount in perfecting and stabilizing the system. This thought is sketched in the following image. 
+ 
+
 ![](/imgs/teaching_cycle.png)
 
