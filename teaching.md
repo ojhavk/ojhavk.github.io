@@ -31,6 +31,11 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 1. Lecturer of Artificial Intelligence Teasers Lectures on Open days, 2019 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Open_Days_Reading/2019_AI_OpenDay_UoR_Varun.pdf" target="_blank">Slides</a>)
 1. Invited Lecturer of Huawei HCIA-AI course on AI, 09/2020, 02/2021
 
+### Examples of Innovations in Teaching & Learning
+1. Final Year Module: As degree project coordinator, I have chance to improve the experiences of students and staff by introducing several **novel and innovative ideas**: (a) staff-student interaction sessions, (b) probability-based project allocation scheme, (c) assessment marking proforma and rubric, (d) online assessment strategy during Covid-19 crisis, (e) weekly timetabled supervisory meeting to improve communication strategy, (f) student support strategy using professional skills training sessions, (g) introduced a <a href="https://tinyurl.com/uorcs" target="_blank">departmental report template and writing guide</a>, and (h) developed a strategy and a formal scheme for the cooperation with industries on final year projects. 
+2. As a module convener of the Programming in Java module, I divided the weekly tasks into small chunks of easy, medium, and hard levels like Games. I color-coded them like _trafic-light system_ green, orange, and red. The scores of students on weekly formative assessments on questions related to weekly tasks drastically improved, as well as engagement of students improved significantly on this module. 
+
+
 ### Teaching & Learning Workshop Participations
 1. Technology Enhanced Learning: ABC Module DesignWorkshop, UoR, 10/2018
 1. Assessment and Feedback Workshop (School Based), UoR, 09/2019
