@@ -69,7 +69,7 @@ Pattern Analysis and Application, Springer.
 
 ### Reasearch Talks & Presentations
 
-**Invited Talks**
+#### Invited Talks
 1. The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy, _Do the dynamics of the city
 environment influence us, and how?_ 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)
 1. University of Surrey, UK, _Machine Learning is a Search Problem_, 02/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a> 
@@ -85,7 +85,7 @@ perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (Slides
 1. Coventry University, UK, Prof Vasile Palade Lab, Adaptive tool for function approximation, 03/2015
 1. Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015
 
-**Conference Presentations**
+#### Conference Presentations
 1. World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (Slides)
 1. IEEE World Congress on Computational Intelligence, (Online) Glasgow, UK, 06/2020 (Slides)
 1. 3rd Eur. Netw. Intell. Conf. ENIC 2016Wrocław, Poland, 09/2016
@@ -123,5 +123,7 @@ perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (Slides
 1. University of Surrey, Guildford, UK, 05/2015
 1. Indian Institute of Engineering, Science and Technology, Shibpur, India, 2011--2013  
 
-
+### Professional Membership
+1. Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
+1. Member, Association for Computing Machinery (ACM)
 
