@@ -24,7 +24,7 @@ title: Publications
 1. Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G. (2017). ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos, _Tech. Report_, ETH Zurich, Switzerland. (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">PDF</a>
 
 ### Thesis
-Ojha VK _Feature Selection and Function Approximation Using Adaptive Algorithms_ Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)
+Ojha VK (2016) _Feature Selection and Function Approximation Using Adaptive Algorithms_ Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)
 
 
 
