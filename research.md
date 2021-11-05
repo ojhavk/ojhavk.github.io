@@ -46,7 +46,7 @@ Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK
 #### Current Master and Bachelor Student Projects
 
 #### Selected Past Master and Bachelor Student Projects
-##### Selected Master student projects
+##### Selected Master Student Projects
 
 1. Jaikumar P (2020) Transfer learning for segmentation of waste bottles using Mask R-CNN (<a href="https://centaur.reading.ac.uk/98569/" target="_blank">Conference Paper</a>)
 1. Desai SV (2021) Study of diffusion of nano-particles in polymer and ferrofluids using ML, (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
@@ -59,7 +59,7 @@ Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK
 urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
 
 
-##### Selected Bachelor student projects
+##### Selected Bachelor Student Projects
 1. Ward B (2020) Classification of musical preference in generation Z through signal processing, UoR, UK (<a href="https://centaur.reading.ac.uk/98568/" target="_blank">Conference Paper</a>)
 1. Shergill JS (2020) Machine learning for speech (English language accent) classification, UoR (<a href="https://centaur.reading.ac.uk/97785/" target="_blank">Confernce Paper</a>)
 1. Young R (2021) Using DL and box speed calibration for predicting rowing boat speed, UoR (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
