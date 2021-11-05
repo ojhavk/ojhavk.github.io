@@ -53,7 +53,7 @@ Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR
 LOD 2021, Lake District, United Kingdom, October 04–08, 2021. (<a href="https://lod2021.icas.cc/" target="_blank">LOD2021</a>)
 1. Program Chair of 6th International Conference Machine Learning, Optimization, and Data Science,
 LOD 2020, Siena, Italy, July 19–23, 2020. (<a href="https://lod2020.icas.xyz/" target="_blank">LOD2020</a>)
-1. Steering Committee Founding Member of Thames Valley Artificial Intelligence Hub (TVAI Hub), 2019–present
+1. Steering Committee Founding Member of <a href="https://tvsp.herokuapp.com/" target="_blank">Thames Valley Artificial Intelligence Hub</a> (TVAI Hub), 2019–present
 1. Session Chair of 30th International Conference on Artificial Neural Networks (ICANN 2021)
 1. Session Chair of 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021)
 1. Session Chair of World Congress on Global Optimization, (online) Athens, Greece, 2021
@@ -96,12 +96,12 @@ perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (<a hre
 1. Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015
 
 #### Conference Presentations
-1. World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (Slides)
-1. IEEE World Congress on Computational Intelligence, (Online) Glasgow, UK, 06/2020 (Slides)
+1. World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2021_WCGO.pdf" target="_blank">Slides</a>)
+1. IEEE World Congress on Computational Intelligence, (Online) Glasgow, UK, 06/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2020_WCCI.pdf" target="_blank">Slides</a>)
 1. 3rd Eur. Netw. Intell. Conf. ENIC 2016Wrocław, Poland, 09/2016
-1. IEEE World Congress on Computational Intelligence, Vancouver, Canada, 07/2016
+1. IEEE World Congress on Computational Intelligence, Vancouver, Canada, 07/2016 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2016_WCCI.pdf" target="_blank">Slides</a>)
 1. Int. Congr. on Particle Tech. PARTEC 2016, Nuremberg, Germany, 04/2016
-1. 7thWorld Cong. onNature and Biologically InspiredComput. Pietermaritzburg, South Africa, 12/2015
+1. 7th World Cong. on Nature and Biologically Inspired Comput. Pietermaritzburg, South Africa, 12/2015
 1. 2nd Int. Afro-European Conf. for Ind. Adv. Paris, France, 09/2015
 1. 14th Int. Conf. on Intell. Syst. Design and Appl. Okinawa, Japan, 12/2014
 1. 6th World Cong. on Nature and Biologically Inspired Comput. Porto, Portugal, 07/2014
