@@ -29,14 +29,16 @@ Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR
 1. Degree Project Coordinator, Department of Computer Science, University of Reading, (2019– )
 
 ### Awards & Honurs
-1. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
-1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas to support studes in their degree projects, UoR, UK, 2019
-1. Obtained 3rd place at Breaking the Wall of Perception of Cities at Falling Walls Lab, Paris, France, 2017
-1. Awarded _Marie-Curie Fellow_ from European Commission to persue PhD as an early career researcher at the Technical University of Ostrava, Czech Republic
-1. Obtained Department of Science and Technology Govt. of India, research fellowship, 2013
-1. Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering cunducted by Indian Institute of Sciences and seven IITs.
-1. Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
-1. Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
+1. Recived two Innovate UK funding for industry projects, 2019, 2021 
+2. Received two EPSRC (UK) Doctoral Training Program, Univerisity of Reading, 2018, 2019 
+4. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
+5. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas to support studes in their degree projects, UoR, UK, 2019
+6. Obtained 3rd place at Breaking the Wall of Perception of Cities at Falling Walls Lab, Paris, France, 2017
+7. Awarded _Marie-Curie Fellow_ from European Commission to persue PhD as an early career researcher at the Technical University of Ostrava, Czech Republic
+8. Obtained Department of Science and Technology Govt. of India, research fellowship, 2013
+9. Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering cunducted by Indian Institute of Sciences and seven IITs.
+10. Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
+11. Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
 
 ### Community Services
 1. Program Chair of the 7th International Conference Machine Learning, Optimization, and Data Science,
