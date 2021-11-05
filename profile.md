@@ -21,7 +21,7 @@ Research Fellow, _Visva-Bharati University_, India <br>
 ### Education
 Ph.D. in Computer Science, Technical University of Ostrava, Czech Republic <br>
 _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)  <br>
-Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR Labs, United States <br>
+<!--Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR Labs, United States <br> -->
 
 ### Administration
 1. Deputy Director of Undergraduate Studies, Department of Computer Science, University of Reading, (2021– )
