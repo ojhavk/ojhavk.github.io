@@ -17,10 +17,6 @@ title: Publications
 1. **Ojha VK**, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G. (2019). Machine learning approaches to understand the influence of urban environments on human's physiological response, _Information Sciences, 474_, 154--169. Elsevier. (<a href="https://arxiv.org/abs/1812.06128" target="_blank">PDF</a>)
 1. **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016) Predictive modeling of die filling of the pharmaceutical granules using the flexible neural tree,  _Neural Computing Application 29_(7), 467--481. Springer. (<a href="https://arxiv.org/abs/1709.04318" target="_blank">PDF</a>) 
 
-
-### Edited Proceedings	
-1. Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565) (<a href="https://www.springer.com/gp/book/9783030645793" target="_blank">Link</a>)
-
 ### Journal Papers
 1.  Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25(8)_ 4435--4453 (<a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Data, PDF</a>)
 1. **Ojha V**, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G. (2021). Design and characterization of effective solar cells, _Energy Systems_, 1--28. Springer (<a href="https://arxiv.org/abs/2109.07279" target="_blank">PDF</a>)
@@ -77,6 +73,9 @@ title: Publications
 
 ### Tech Reports
 1. Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G. (2017). ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos, _Tech. Report_, ETH Zurich, Switzerland. (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">PDF</a>)
+
+### Edited Proceedings	
+1. Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565) (<a href="https://www.springer.com/gp/book/9783030645793" target="_blank">Link</a>)
 
 ### Thesis
 **Ojha VK** (2016) _Feature Selection and Function Approximation Using Adaptive Algorithms_ Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)  
