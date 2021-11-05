@@ -25,10 +25,12 @@ Following are examples of my works toward answering these questions:
 ### Research Supervision
 #### Current Postdoc
 RemyVandaele (2020–), Machine learning for high impactweather and flood prediction (co-supervision
-with Prof Sarah Dance of Mathematics Department), UoR, UK. (a paper and a journal)
+with Prof Sarah Dance of Mathematics Department), UoR, UK. (current output: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and a <a href="https://hess.copernicus.org/articles/25/4435/2021/" target"_blank">journal</a>)
+
+**Project** (in Collaboration with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof. Sarh Dance</a>): _We investigate how Transfer Learning and Semantic Segmentation can be applied to predict flood events. We use river Camra Images of FasonDigital Watercams as our data source and the past flood events of the UK as case studies.  Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91%  when compared to data available for the flood event on the rivers Severn and Avon, UK. Now we try to investigate a large volume of data by combining river gauge data time-series with image data time-series and offer an automated flood monitoring system_.
 
 #### Current PhD Student Projects
-Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)<br>
+Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (status: a paper and a near submission journal)
 
 **Questions**: _We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. Our aim is to answer questions relating to what and why adversaries target some specific features from a learned representation instead of others.  We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalization loss. We aim to apply signal processing techniques to perturb neural synapses, both globally and locally, to analyze how the network response varies for the perturbed and unperturbed inputs_.
 
