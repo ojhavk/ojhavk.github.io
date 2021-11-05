@@ -44,7 +44,6 @@ title: Publications
 1.  **Ojha VK**, Abraham A, Snášel V (2014) Simultaneous optimization of neural network weights and active nodes using metaheuristics.  _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait, Kuwait (pp. 248--253). IEEE. (<a href="https://centaur.reading.ac.uk/93568/" target="_blank">PDF</a>)
 1. Gabralla LA, Wahby TM,  **Ojha VK**, Abraham A (2014) Ensemble of adaptive neuro-fuzzy inference system using particle swarm optimization for prediction of crude oil prices. _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp. 248--253). IEEE. (<a href="http://www.softcomputing.net/his2014_3.pdf" target="_blank">PDF</a>)
 1. Basterrech S, **Ojha VK**. (2016). Temporal learning using echo state network for human activity recognition. _3rd European Network Intelligence Conference_, ENIC, Wroclaw (pp. 217--223). IEEE. (<a href="https://centaur.reading.ac.uk/93554/" target="_blank">PDF</a>)
-1. **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V. (2016). Machine learning tools for modeling of powder mixing. _Int. Congress on Particle Technology_ (PARTEC 2016), Nurnberg, Germany. German National Library.
 1.  **Ojha VK**, Dutta P, Chaudhuri A, Saha H. (2016). Convergence analysis of backpropagation algorithm for designing an intelligent system for sensing manhole gases.  _Hybrid Soft Computing Approaches_ (pp. 215--236). Springer. (<a href="https://arxiv.org/abs/1707.01821" target="_blank">PDF</a>) 
 1.  **Ojha VK**, Abraham A, Snášel V. (2016). Ensemble of heterogeneous flexible neural trees for the approximation and feature-selection of Poly (lactic-co-glycolic acid) micro-and nano-particle. _Proc. of the 2nd Int. Afro-European Conf. for Ind. Adv._, Paris, France (pp. 155--165). Springer. (<a href="https://centaur.reading.ac.uk/93556/" target="_blank">PDF</a>)
 1. Abdelwahab S,  **Ojha VK**, Abraham A. (2016). Neuro-fuzzy risk prediction model for computational grids. _Proc. of the 2nd Int. Afro-European Conf. for Ind. Adv._, Paris, France. (pp. 127--136). Springer. (<a href="https://centaur.reading.ac.uk/93558/" target="_blank">PDF</a>)
@@ -65,6 +64,7 @@ title: Publications
 1.  Ghosh S, Roy A, Singh S,  **Ojha VK**, Dutta P (2012) Sensor array for manhole gas analysis. _1st International Symposium on Physics and Technology of Sensors_,  Mumbai, India (pp. 9--12). IEEE. (<a href="https://ieeexplore.ieee.org/document/6260863" target="_blank">Link</a>)
 
 ### Workshop Papers
+1. **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V. (2016). Machine learning tools for modeling of powder mixing. _Int. Congress on Particle Technology_ (PARTEC 2016), Nurnberg, Germany. German National Library.
 1.  Ayers D , Amezcua J , **Ojha V**, Carrassi A, Leeuwen PJ.  (2020). Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy. _ECMWF Workshop_, Reading, UK. (<a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">PDF</a>)
 
 ### Tech Reports
