@@ -65,7 +65,7 @@ Pattern Analysis and Application, Springer.
 ### Reasearch Talks & Presentations
 1. The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy, _Do the dynamics of the city
 environment influence us, and how?_ 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)
-1. University of Surrey, UK, _Machine Learning is a Search Problem_, 02/2020 ([Slides](https://github.com/ojhavk/ojhavk.github.io/blob/main/data/ML_Is_A_Search_Prob_VOjha.pdf))
+1. University of Surrey, UK, _Machine Learning is a Search Problem_, 02/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a> 
 1. DARC Seminar, University of Reading, UK, Machine Learning is a Search Problem, 11/2019 (Link)
 1. TVAI public meet-up, Reading, UK, Human Perception of the Urban Environment, 09/2019 (Slides)
 1. BCS, SIGAI, London, UK Do the dynamics of the city environment influence us, and how?, 05/2019 (Slides)
