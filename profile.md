@@ -29,8 +29,8 @@ Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR
 1. Degree Project Coordinator, Department of Computer Science, University of Reading, (2019– )
 
 ### Awards & Honors
-1. Recived two Innovate UK funding for industry projects, 2019, 2021 
-2. Received two EPSRC (UK) Doctoral Training Program, Univerisity of Reading, 2018, 2019 
+1. Recived grants on two Innovate UK funding for industry projects, 2019, 2021 
+2. Received grants on two EPSRC (UK) Doctoral Training Program, Univerisity of Reading, 2018, 2019 
 4. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
 5. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas to support studes in their degree projects, UoR, UK, 2019
 6. Obtained 3rd place at Breaking the Wall of Perception of Cities at Falling Walls Lab, Paris, France, 2017
