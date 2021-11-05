@@ -58,3 +58,32 @@ urban environment, ETH Zurich, Zurich (Thesis)
 1. Ford J (2020) Reading bus time prediction - A data science approach, UoR, UK (Report)
 1. Braund, T (2019) Analysing and presenting the general public opinions of feature films through data
 mining from social media feeds and a chatbot, UoR, UK (Report)
+
+### Code repoository at GitHub ()
+
+1. Backpropagation Neural Tree (BNeuralT) (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>)
+1. Neural-Tree-Software (<a href="https://github.com/vojha-code/Neural-Tree-Software" target="_blank">Code</a>)
+1. Neural-Network-Predictor Software(<a href="https://github.com/vojha-code/Neural-Network-Predictor" target="_blank">Code</a>)
+1. Conjugate-Gradient-Neural-Network (<a href="https://github.com/vojha-code/Conjugate-Gradient-Neural-Network" target="_blank">Code</a>)
+1. Complex-Valued-Neural-Network (<a href="https://github.com/vojha-code/Complex-Valued-Neural-Network" target="_blank">Code</a>)
+1. Multiple-Linear-Regression (<a href="https://github.com/vojha-code/Multiple-Linear-Regression" target="_blank">Code</a>)
+1. Hierarchical-Fuzzy-Tree (<a href="https://github.com/vojha-code/Hierarchical-Fuzzy-Tree" target="_blank">Code</a>)
+1. K-Nearest-Neighbor (<a href="https://github.com/vojha-code/K-Nearest-Neighbor" target="_blank">Code</a>)
+1. Support-Vector-Machine (<a href="https://github.com/vojha-code/Support-Vector-Machine" target="_blank">Code</a>)
+1. Self-Organizing-Map (<a href="https://github.com/vojha-code/Self-Organizing-Map" target="_blank">Code</a>)
+1. Anomaly-Detection (<a href="https://github.com/vojha-code/Anomaly-Detection" target="_blank">Code</a>)
+1. Humans Percepation Through Physiological Response <a href="https://github.com/vojha-code/ESUM-project" target="_blank">Code</a>
+
+1. Sensitivity Analysis of Evolutionary Algorithms <a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>
+1. Meta-heuristic-Optimizer Software(<a href="https://github.com/vojha-code/Meta-heuristic-Optimizer" target="_blank">Code</a>)
+1. Multilevel-Coordinate-Search (<a href="https://github.com/vojha-code/Multilevel-Coordinate-Search" target="_blank">Code</a>)
+1. Evolutionary-Computation (<a href="https://github.com/vojha-code/Evolutionary-Computation" target="_blank">Code</a>)
+1. Evolutionary-Ensemble (<a href="https://github.com/vojha-code/Evolutionary-Ensemble" target="_blank">Code</a>)
+
+1. Algorithm-Complexity (<a href="https://github.com/vojha-code/Algorithm-Complexity" target="_blank">Code</a>)
+1. Curse-of-Dimensionality (<a href="https://github.com/vojha-code/Curse-of-Dimensionality" target="_blank">Code</a>)
+1. Principal-Component-Analysis (<a href="https://github.com/vojha-code/Principal-Component-Analysis" target="_blank">Code</a>)
+1. Kolmogorov-Smirnov-Test (<a href="https://github.com/vojha-code/Kolmogorov-Smirnov-Test" target="_blank">Code</a>)
+1. Block-Truncation-Coding <a href="https://github.com/vojha-code/Block-Truncation-Coding" target="_blank">Code</a>
+1. Python-MATLAB-Communication (<a href="https://github.com/vojha-code/Python-MATLAB-Communication" target="_blank">Code</a>)
+1. Cython-Project-Hierarchy (<a href="https://github.com/vojha-code/Cython-Project-Hierarchy" target="_blank">Code</a>)
