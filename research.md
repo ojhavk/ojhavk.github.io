@@ -10,6 +10,8 @@ title: Research
 
 ## Research
 
+<sub>[Research Supervision](#research-supervision)</sub>
+
 I investigate and innovate in the areas of _artificial intelligence_ (neural networks) and _data science_. Though my research I try to answer the following questions:
 
 1. How to design fast, robust, optimal, efficient learning systems? For example, lightweight or distilled
@@ -81,9 +83,9 @@ mining from social media feeds and a chatbot, UoR, UK (Report)
 1. Support-Vector-Machine (<a href="https://github.com/vojha-code/Support-Vector-Machine" target="_blank">Code</a>)
 1. Self-Organizing-Map (<a href="https://github.com/vojha-code/Self-Organizing-Map" target="_blank">Code</a>)
 1. Anomaly-Detection (<a href="https://github.com/vojha-code/Anomaly-Detection" target="_blank">Code</a>)
-1. Humans Percepation Through Physiological Response <a href="https://github.com/vojha-code/ESUM-project" target="_blank">Code</a>
+1. Humans Percepation Through Physiological Response <a href="https://github.com/vojha-code/ESUM-project" target="_blank">Code</a>)
 
-1. Sensitivity Analysis of Evolutionary Algorithms <a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>
+1. Sensitivity Analysis of Evolutionary Algorithms <a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>)
 1. Meta-heuristic-Optimizer Software(<a href="https://github.com/vojha-code/Meta-heuristic-Optimizer" target="_blank">Code</a>)
 1. Multilevel-Coordinate-Search (<a href="https://github.com/vojha-code/Multilevel-Coordinate-Search" target="_blank">Code</a>)
 1. Evolutionary-Computation (<a href="https://github.com/vojha-code/Evolutionary-Computation" target="_blank">Code</a>)
