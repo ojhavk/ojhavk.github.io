@@ -68,15 +68,10 @@ title: Publications
 1.  **Ojha VK**, Dutta P, Saha H, Ghosh S (2012) Linear regression based statistical approach for detecting proportion of component gases in manhole gas mixture. _1st International Symposium on Physics and Technology of Sensors_, Mumbai, India (pp. 17-20). IEEE. (<a href="https://www.scilit.net/article/c294793bc91388396473a8c4b54cd69b" target="_blank">Link</a>)
 1. Ghosh S, Saha H, Roychaudhuri C, **Ojha VK**, Dutta P (2012) Portable sensor array system for intelligent recognizer of manhole gases. _6th International Conference on Sensing Technology_, Kolkata, India (pp. 589-594). IEEE. (<a href="https://ieeexplore.ieee.org/document/6461748" target="_blank">Link</a>)
 1.  Ghosh S, Roy A, Singh S,  **Ojha VK**, Dutta P (2012) Sensor array for manhole gas analysis. _1st International Symposium on Physics and Technology of Sensors_,  Mumbai, India (pp. 9--12). IEEE. (<a href="https://ieeexplore.ieee.org/document/6260863" target="_blank">Link</a>)
+
 ### Tech Reports
 1. Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G. (2017). ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos, _Tech. Report_, ETH Zurich, Switzerland. (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">PDF</a>)
 
 ### Thesis
-Ojha VK (2016) _Feature Selection and Function Approximation Using Adaptive Algorithms_ Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)
-
-
-
-
-
-  
+Ojha VK (2016) _Feature Selection and Function Approximation Using Adaptive Algorithms_ Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)  
   
