@@ -63,6 +63,8 @@ Pattern Analysis and Application, Springer.
 1. Indian Institute of Engineering, Science and Technology, Shibpur, India, 2011--2013  
 
 ### Reasearch Talks & Presentations
+
+**Invited Talks**
 1. The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy, _Do the dynamics of the city
 environment influence us, and how?_ 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)
 1. University of Surrey, UK, _Machine Learning is a Search Problem_, 02/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a> 
@@ -78,8 +80,37 @@ perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (Slides
 1. Coventry University, UK, Prof Vasile Palade Lab, Adaptive tool for function approximation, 03/2015
 1. Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015
 
-### Workshops & Seminars Participations
+**Conference Presentations**
+1. World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (Slides)
+1. IEEE World Congress on Computational Intelligence, (Online) Glasgow, UK, 06/2020 (Slides)
+1. 3rd Eur. Netw. Intell. Conf. ENIC 2016Wrocław, Poland, 09/2016
+1. IEEE World Congress on Computational Intelligence, Vancouver, Canada, 07/2016
+1. Int. Congr. on Particle Tech. PARTEC 2016, Nuremberg, Germany, 04/2016
+1. 7thWorld Cong. onNature and Biologically InspiredComput. Pietermaritzburg, South Africa, 12/2015
+1. 2nd Int. Afro-European Conf. for Ind. Adv. Paris, France, 09/2015
+1. 14th Int. Conf. on Intell. Syst. Design and Appl. Okinawa, Japan, 12/2014
+1. 6th World Cong. on Nature and Biologically Inspired Comput. Porto, Portugal, 07/2014
+1. Int. Conf. on Advances in Comput. and Commun. Kochi, India, 05/2012
+1. 1st Int. Conf. on Soft Compt., Artificial Intell. and Appl. Delhi, India, 05/2012
+1. 2nd Int. Conf. on Inform. and Netw. Tech. Chennai, India, 04/2012
+1. Int. Conf. on Modeling, Opt. and Comput. Kanyakumari, India, 04/2012
 
+### Workshops, Seminars, Summer School Participations
+1. Annual General Assembly 2018 of IEEE Switzerland, Geneva, Switzerland, 04/2018
+1. 30th International Conference on Artificial Neural Networks, (online), 09/2021
+1. 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (online), 08/2021
+1. 3rd Advanced Course on Data Science & Machine Learning (ACDL), (online) 07/2020
+1. 3rd Advance Data Science Conference, (online) Manchester, UK, 05/2020
+1. 09/2019 World ofWork Conference, Henley Business School, UoR, Reading, UK
+1. 2nd Advanced Course on Data Science & Machine Learning (ACDL), Tuscany, Italy, 07/2019
+1. 2nd Advance Data Science Conference, Manchester, UK, 05/2019
+1. Advance Data ScienceWorkshop, KNIME Summit, Berlin, Germany, 03/2019
+1. TechnicalWriting Skills for Future S&T Leaders, Babes-Bolyai University, Romania, 09/2015
+1. The 4th IPROCOMAdvance Training Course on ResearchWriting Skills, AstraZeneca Plc. UK, 03/2015
+1. Intelligent Modeling, Techniques & Applications, Jagiellonian University, Kraków, Poland, 10/2014
+1. Multi-scale Modeling: Theory & Application, Ecole des Mines Albi, France, 07/2014
+1. The 3rd Int. Cybernetics Summer School, Technical University of Ostrava, Czech Republic, 06/2014
+1. The 1st IPROCOM Training Course, Research Center Pharmaceutical Eng., Graz, Austria, 01/2014
 
 
 
