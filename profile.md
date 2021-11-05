@@ -63,7 +63,20 @@ Pattern Analysis and Application, Springer.
 1. Indian Institute of Engineering, Science and Technology, Shibpur, India, 2011--2013  
 
 ### Reasearch Talks & Presentations
-
+1. The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy, _Do the dynamics of the city
+environment influence us, and how?_ 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)
+1. University of Surrey, UK, _Machine Learning is a Search Problem_, 02/2020 ([Slides](https://github.com/ojhavk/ojhavk.github.io/blob/main/data/ML_Is_A_Search_Prob_VOjha.pdf))
+1. DARC Seminar, University of Reading, UK, Machine Learning is a Search Problem, 11/2019 (Link)
+1. TVAI public meet-up, Reading, UK, Human Perception of the Urban Environment, 09/2019 (Slides)
+1. BCS, SIGAI, London, UK Do the dynamics of the city environment influence us, and how?, 05/2019 (Slides)
+1. BCS Workshop on Open-Source AI, UoR, UK Adaptive Learning Machines, 05/2019 (Slides)
+1. Vellore Institute of Technology, India, Adaptive Learning Machines, 05/2019
+1. ETH Zürich, Switzerland, ITA Seminar, How environment influence us, 06/2017 (Slides)
+1. Heinrich-Heine-University, Düsseldorf, Germany, Prof Peter Kleinebudde Lab, A computational intelligence
+perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (Slides)
+1. University of Surrey, UK, NICE Group, Adaptive tool for function approximation, 03/2015 (Slides)
+1. Coventry University, UK, Prof Vasile Palade Lab, Adaptive tool for function approximation, 03/2015
+1. Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015
 
 ### Workshops & Seminars Participations
 
