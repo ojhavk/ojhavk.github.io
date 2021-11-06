@@ -40,7 +40,11 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 
 ![](/imgs/water_segmentation_work.png)
 
-**Fig:** time-series of river camera images.
+**Fig:** time-series of river camera images. Water (blue) and non-water pixel predictions.
+
+Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimization** I am working on are:
+1. An application of a multiobjective evolutionary algorithm for the prediction of the best strain of genes for the production of chemicals. Potential output is Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, Nicosia G, (2022) Microbial Cell Factories Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_.
+1. An application of derivative-free optimization algorithms for the optimization of Space Trus Structures (Civil Engineering). Potential output is **Ojha V**, Panto B, Nicosia G (2022) Incremental hypersphere algorithm for buckling analysis of space truss structures, _Engineering Applications of Artificial Intelligence_.
 
 ### Research Supervison Projects
 #### Current Postdoc
