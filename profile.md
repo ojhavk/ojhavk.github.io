@@ -87,13 +87,13 @@ environment influence us, and how?_ 05/2020 (<a href="https://acdl2020.icas.xyz/
 1. TVAI public meet-up, Reading, UK, Human Perception of the Urban Environment, 09/2019 (<a href="https://www.meetup.com/Thames-Valley-Artificial-Intelligence-Meetup/events/263027968/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>)
 1. BCS, SGAI, London, UK Do the dynamics of the city environment influence us, and how?, 05/2019 (<a href="https://www.bcs.org/events-calendar/2019/may/uk-symposium-on-knowledge-discovery-and-data-mining-2019-bcs-sgai-the-specialist-group-on-artificial-intelligence/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>)
 1. BCS Workshop on Open-Source AI, UoR, UK Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>)
-1. Vellore Institute of Technology, India, Adaptive Learning Machines, 05/2019
+1. Vellore Institute of Technology, India, Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>)
 1. ETH Zürich, Switzerland, ITA Seminar, How we perceive our environment? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/Varun_ITA_talk_14_6_17.pdf" target="_blank">Slides</a>)
 1. Heinrich-Heine-University, Düsseldorf, Germany, Prof Peter Kleinebudde Lab, A computational intelligence
 perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>)
 1. University of Surrey, UK, NICE Group, Adaptive tool for function approximation, 03/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>)
-1. Coventry University, UK, Prof Vasile Palade Lab, Adaptive tool for function approximation, 03/2015
-1. Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015
+1. Coventry University, UK, Prof Vasile Palade Lab, Adaptive tool for function approximation, 03/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>)
+<!--1. Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015 -->
 
 #### Conference Presentations
 1. World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2021_WCGO.pdf" target="_blank">Slides</a>)
