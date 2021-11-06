@@ -39,7 +39,7 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 9. Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
 <!--6. Obtained 3rd place at Breaking the Wall of Perception of Cities at Falling Walls Lab, Paris, France, 2017 -->
 
-### Selected Five Papers
+### Selected Papers
 1. Pravin C, Martino I, Nicosia G, **Ojha V** (2021). Adversarial robustness in deep learning: Attacks on fragile neurons. _The 30th Int. Conf. on Artificial Neural Networks_, ICANN (pp 16-28), Springer, LNCS, Bratislava, Slovakia. (<a href="https://centaur.reading.ac.uk/99457/" target="_blank">PDF</a>)
 1. **Ojha VK**, Snášel V, Abraham A. (2018). Multiobjective programming for type-2 hierarchical fuzzy trees, _IEEE Transaction on Fuzzy Systems, 26_(2), 915--936. (<a href="https://arxiv.org/abs/1705.05769" target="_blank">PDF</a>)
 1. Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25(8)_ 4435--4453 (<a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Data, PDF</a>)
