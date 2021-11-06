@@ -89,7 +89,7 @@ environment influence us, and how?_ 05/2020 (<a href="https://acdl2020.icas.xyz/
 1. BCS Workshop on Open-Source AI, UoR, UK Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>)
 1. Vellore Institute of Technology, India, Adaptive Learning Machines, 05/2019
 1. ETH Zürich, Switzerland, ITA Seminar, How the environment influences us? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>)
-1. Heinrich-Heine-University, Düsseldorf, Germany, Prof Peter Kleinebudde Lab, A computational intelligence
+1. Heinrich-Heine-University, Düsseldorf, Germany, Prof Peter Kleinebudde Lab, A computational intelligence
 perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>)
 1. University of Surrey, UK, NICE Group, Adaptive tool for function approximation, 03/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>)
 1. Coventry University, UK, Prof Vasile Palade Lab, Adaptive tool for function approximation, 03/2015
@@ -129,8 +129,8 @@ perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (<a hre
 
 ### Research Visits
 1. University of Surrey, Guildford, UK, 05/2015 (<a href="https://arxiv.org/abs/1709.04318" target="_blank">Published work</a>)
-1. Jagiellonian University, Krakow, Poland, 11/2015 (<a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Published work</a>)
-1. Heinrich-Heine-University, Dusseldorf, Germany, 10/2015
+1. Jagiellonian University, Kraków, Poland, 11/2015 (<a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Published work</a>)
+1. Heinrich-Heine-University, Düsseldorf, Germany, 10/2015
 1. Indian Institute of Engineering, Science and Technology, Shibpur, India, 2011--2013 (<a href="https://arxiv.org/abs/1707.00561" target="_blank">Published work</a>)
 
 <!---### Professional Membership
