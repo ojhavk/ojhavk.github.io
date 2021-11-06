@@ -23,6 +23,11 @@ data (e.g. hydrology), climate data (e.g., chaotic systems).
 
 I am happy to work with acadmics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v[dot]k[dot]ojha[at]reading.ac.uk. 
 
+### Grants
+
+EPSRC DT Projects:
+Innovate UK projects:
+
 ### Current Research
 
 ![](/imgs/tree_bio.svg)
