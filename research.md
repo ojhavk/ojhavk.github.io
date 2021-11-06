@@ -26,7 +26,6 @@ I am happy to work with acadmics, industry, and students on research contributin
 ### Grants
 1. **EPSRC (UK)** Doctoral Training Program projects from the University of Reading (£120K): a) Artificial intelligence-enabled smart eco assisted living space (PI) and b) Combining machine learning and data assimilation to estimate model errors (Co-I). 
 1. **Innovate UK** projects (£230K): a) a project with Optimal Monitoring on natural language processing for customer feedback and response systems (Advisor) b) a project with CrowCharge on time-series forecasting for electric vehicle charging preferences (Advisor).
-1. Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
 
 ### Current Research
 
