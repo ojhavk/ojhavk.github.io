@@ -12,20 +12,17 @@ title: Research
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I investigate and innovate in the areas of _artificial intelligence_ (neural networks) and _data science_. Though my research I try to answer the following questions:
+I investigate and innovate in the areas of artificial intelligence (neural networks) and data science. Through my research I try to answer the following questions:
 
-1. How to design fast, robust, optimal, efficient learning systems? For example, lightweight or distilled
-networks, explainable and inferable neural networks and learning systems, adversarially robust and
-secure networks, and cost and energy efficient networks.
-1. How to effectively solve challenging interdisciplinary problems? For example, image data (e.g., medical imaging), environment
-data (e.g. hydrology), climate data (e.g., chaotic systems).
-1. How biological neurons behave and how to inform design of biologically plausible neural networks?
+1. How to design fast, robust, optimal, efficient learning systems? For example, lightweight or distilled networks, explainable and inferable neural networks and learning systems, adversarially robust and secure networks, and cost and energy-efficient networks.
+1. How to effectively solve challenging interdisciplinary problems? For example, image data (e.g., medical imaging), environment data (e.g. hydrology), climate data (e.g., chaotic systems).
+1. How do biological neurons behave and how to inform the design of biologically plausible neural networks?
 
-I like to work with acadmics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v[dot]k[dot]ojha[at]reading.ac.uk. 
+I like to work with academics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v[dot]k[dot]ojha[at]reading[dot]ac[dot]uk.
 
 ### Grants
 1. **EPSRC (UK)** Doctoral Training Program projects from the University of Reading (£120K): a) Artificial intelligence-enabled smart eco assisted living space (PI) and b) Combining machine learning and data assimilation to estimate model errors (Co-I). 
-1. **Innovate UK** projects (£230K): a) a project with Optimal Monitoring on natural language processing for customer feedback and response systems (Advisor) b) a project with CrowCharge on time-series forecasting for electric vehicle charging preferences (Advisor).
+1. **Innovate UK** projects (£230K): a) a project with Optimal Monitoring on natural language processing for customer feedback and response systems (advisor) b) a project with CrowCharge on time-series forecasting for electric vehicle charging preferences (advisor).
 
 ### Current Research
 I recently worked on an algorithm called a **backpropagation neural tree**. I propose a _stochastic computational dendritic tree_ that takes random repeated inputs through its leaves and imposes dendritic nonlinearities through its internal connections as a biological dendritic tree would. This neural tree's neurons plausibly are close to the biological behaviour of neurons, dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithms design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
@@ -34,7 +31,7 @@ I recently worked on an algorithm called a **backpropagation neural tree**. I pr
 
 **Fig:** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model ( <a href="https://www.karger.com/Article/Abstract/86707" target="_blank">Travis et al., 2005</a>), the middle is a single neuron dendritic tree (<a href="https://direct.mit.edu/neco/article-abstract/33/6/1554/100576/Might-a-Single-Neuron-Solve-Interesting-Machine?redirectedFrom=fulltext" target="_blank">Jones and Kording, 2021</a>), right is the proposed backpropagation Neural Tree. 
 
-This work is currently under review in _Neural Networks_ Elsevier (check out preprint <a href="https://github.com/vojha-code/BNeuralT/blob/master/BNeuralT.pdf" target="_blank">PDF</a> and <a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>). Also check previous related work on trees (<a a href="https://arxiv.org/abs/1705.05592" target="_blank">neural tree</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">fuzzy tree</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness), and like to explore neuroscience, information-theoretic and complex network literature for PhD research are welcomed!
+This work is currently under review in _Neural Networks_ Elsevier (check out preprint <a href="https://github.com/vojha-code/BNeuralT/blob/master/BNeuralT.pdf" target="_blank">PDF</a> and <a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>). Also, check previous related work on trees (<a a href="https://arxiv.org/abs/1705.05592" target="_blank">neural tree</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">fuzzy tree</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness), and like to explore neuroscience, information-theoretic and complex network literature for PhD research are welcomed!
 
 I like to work on **interdisciplinary research** and **data science** projects. In my recent work in collaboration with the meteorology department, we work on forecasting real flood events of the rivers Severn and Avon, UK. We investigate how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our paper). 
 
@@ -46,19 +43,19 @@ Other interdisciplinary research titles in the areas of applied **Evolutionary C
 1. An application of a multiobjective evolutionary algorithm for the prediction of the best strain of genes for the production of chemicals. Potential output is Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://orcid.org/0000-0002-0650-3157" target="_blank">Nicosia G</a>, (2022) Microbial Cell Factories Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_.
 1. An application of derivative-free optimization algorithms for the optimization of Space Trus Structures (Civil Engineering). Potential output is **Ojha V**, <a href="https://www.imperial.ac.uk/people/b.panto" target="_blank">Panto B</a>, Nicosia G (2022) Incremental hypersphere algorithm for buckling analysis of space truss structures, _Engineering Applications of Artificial Intelligence_.
 
-### Research Supervison Projects
+### Research Supervision Projects
 #### Current Postdoc
-Remy Vandaele (2020–), Machine learning for high impactweather and flood prediction (co-supervision
-with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a> of Mathematics Department), UoR, UK. (current output:a <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and a <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>)
+Remy Vandaele (2020–), Machine learning for high-impact weather and flood prediction (co-supervision
+with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a> of Mathematics Department), UoR, UK. (current output: a <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and a <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>)
 
-**Project**: _We investigate how Transfer Learning and Semantic Segmentation can be applied to predict flood events. We use river Camra Images of FasonDigital Watercams as our data source and the past flood events of the UK as case studies. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91%  for the flood event on the rivers Severn and Avon, UK. Currently, we are trying to investigate a large volume of data by combining river gauge data time-series with image data time-series and offering an automated flood monitoring system_.
+**Project**: _We investigate how Transfer Learning and Semantic Segmentation can be applied to predict flood events. We use the river Camra Images of FasonDigital Watercams as our data source and the past flood events of the UK as case studies. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91%  for the flood event on the rivers Severn and Avon, UK. Currently, we are trying to investigate a large volume of data by combining river gauge data time-series with image data time-series and offering an automated flood monitoring system_.
 
 #### Current PhD Student Projects
 Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (current output: <a href="https://centaur.reading.ac.uk/99457/" target="_blank">paper</a>)
 
 **Questions**: _We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. We aim to answer what and why adversaries target some features from a learned representation instead of others. We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalization loss. Moreover, we aim to apply signal processing techniques to perturb neural synapses globally and locally to analyze how the network response varies for the perturbed and unperturbed inputs_.
 
-Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (co-supervison with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>, current output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>)
+Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>, current output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>)
 
 **Questions**: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent linear model and orthogonalization algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_.
 
@@ -87,7 +84,7 @@ urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.
 1. Shergill JS (2020) Machine learning for speech (English language accent) classification, UoR (<a href="https://centaur.reading.ac.uk/97785/" target="_blank">Confernce Paper</a>)
 1. Young R (2021) Using DL and box speed calibration for predicting rowing boat speed, UoR (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
 1. Taemur A (2021) Audio classification using machine learning techniques, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
-1. Neele M (2021) Using neural networks for time-series analysis of UK river flowdata, UoR, UK(<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
+1. Neele M (2021) Using neural networks for time-series analysis of UK river flow data, UoR, UK(<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
 1. Mehring C (2021) Fake news detection with neural networks, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>)
 1. Doidge KB (2021) A study into the effectiveness of recurrent neural networks for trading, (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
 1. Rickard J (2020) An analysis of NLP techniques applied to generating tweets, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
@@ -106,7 +103,7 @@ urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.
 1. Support-Vector-Machine (<a href="https://github.com/vojha-code/Support-Vector-Machine" target="_blank">Code</a>)
 1. Self-Organizing-Map (<a href="https://github.com/vojha-code/Self-Organizing-Map" target="_blank">Code</a>)
 1. Anomaly-Detection (<a href="https://github.com/vojha-code/Anomaly-Detection" target="_blank">Code</a>)
-1. Humans Percepation Through Physiological Response <a href="https://github.com/vojha-code/ESUM-project" target="_blank">Code</a>)
+1. Humans Perception Through Physiological Response <a href="https://github.com/vojha-code/ESUM-project" target="_blank">Code</a>)
 
 1. Sensitivity Analysis of Evolutionary Algorithms <a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>)
 1. Meta-heuristic-Optimizer Software(<a href="https://github.com/vojha-code/Meta-heuristic-Optimizer" target="_blank">Code</a>)
