@@ -66,11 +66,8 @@ Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK
 
 **Questions**: _We investigate novel approaches to ranking and understanding the influence of deep learning (DL) hyper-parameters through the application of sensitivity analysis (SA). We investigate how shallow and deeper models are susceptible to hyper-parameters affecting their convergence profiles. We try to understand how the stochasticity of the learning process of deeper models showed sensitivity to hyper-parameters and how hyperparameters influence the convergence speed. Additionally, we try to understand how the complexity of the dataset can affect the margin of separation between the sensitivity measures of the most and the least influential parameters_.
 
-#### Current Master and Bachelor Student Projects
-
-#### Selected Past Master and Bachelor Student Projects
+#### Selected Master and Bachelor Student Projects
 ##### Selected Master Student Projects
-
 1. Jaikumar P (2020) Transfer learning for segmentation of waste bottles using Mask R-CNN (<a href="https://centaur.reading.ac.uk/98569/" target="_blank">Conference Paper</a>)
 1. Desai SV (2021) Study of diffusion of nano-particles in polymer and ferrofluids using ML, (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
 1. Lau J (2021) Computing of local Lyapunov exponents using machine learning, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
@@ -80,7 +77,6 @@ Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK
 1. Charlotte S (2017) People’s perception of urban and architectural features, ETH Zurich (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
 1. Victor S (2018) Convolutional neural network based visual feature extraction for evaluation of the
 urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
-
 
 ##### Selected Bachelor Student Projects
 1. Ward B (2020) Classification of musical preference in generation Z through signal processing, UoR, UK (<a href="https://centaur.reading.ac.uk/98568/" target="_blank">Conference Paper</a>)
