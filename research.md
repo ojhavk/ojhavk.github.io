@@ -24,9 +24,8 @@ data (e.g. hydrology), climate data (e.g., chaotic systems).
 I am happy to work with acadmics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v[dot]k[dot]ojha[at]reading.ac.uk. 
 
 ### Grants
-
-EPSRC DT Projects:
-Innovate UK projects:
+1. **EPSRC (UK)** Doctoral Training Program projects from the University of Reading (£120K): a) Artificial intelligence-enabled smart eco assisted living space (PI) and b) Combining machine learning and data assimilation to estimate model errors (Co-I). 
+1. **Innovate UK** projects (£230K): a) a project with Optimal Monitoring on natural language processing for customer feedback and response systems b) a project with CrowCharge on time-series forecasting for electric vehicle charging preferences.
 
 ### Current Research
 
