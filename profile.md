@@ -24,15 +24,15 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 <!--Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR Labs, United States <br> -->
 
 ### Administration
-1. Deputy Director of Undergraduate Studies, Department of Computer Science, University of Reading (2021– )
-1. Chair of Board of Studies and Student Experience, Department of Computer Science, University of Reading (2021– )
-1. Degree Project Coordinator, Department of Computer Science, University of Reading (2019– )
+1. Deputy Director of Undergraduate Studies, Department of Computer Science, the University of Reading (2021– )
+1. Chair of Board of Studies and Student Experience, Department of Computer Science, the University of Reading (2021– )
+1. Degree Project Coordinator, Department of Computer Science, the University of Reading (2019– )
 
 ### Awards & Honors
 1. Received grants on two Innovate UK academic-industry partnership projects, 2019, 2021 
 1. Received grants on two EPSRC (UK) Doctoral Training Program for PhD projects, University of Reading (UoR), 2018, 2019 
 1. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
-1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in degree project procesess, UoR, UK, 2019
+1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
 1. Awarded _Marie-Curie Fellow_ from European Commission to pursue PhD as an early career researcher at the Technical University of Ostrava, Czech Republic
 1. Obtained Department of Science and Technology Govt. of India, research fellowship, 2013
 1. Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering conducted by Indian Institute of Sciences and seven IITs.
@@ -88,7 +88,7 @@ environment influence us, and how?_ 05/2020 (<a href="https://acdl2020.icas.xyz/
 1. BCS, SGAI, London, UK Do the dynamics of the city environment influence us, and how?, 05/2019 (<a href="https://www.bcs.org/events-calendar/2019/may/uk-symposium-on-knowledge-discovery-and-data-mining-2019-bcs-sgai-the-specialist-group-on-artificial-intelligence/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>)
 1. BCS Workshop on Open-Source AI, UoR, UK Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>)
 1. Vellore Institute of Technology, India, Adaptive Learning Machines, 05/2019
-1. ETH Zürich, Switzerland, ITA Seminar, How the environment influences us? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>)
+1. ETH Zürich, Switzerland, ITA Seminar, How we perceive our environment? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/Varun_ITA_talk_14_6_17.pdf" target="_blank">Slides</a>)
 1. Heinrich-Heine-University, Düsseldorf, Germany, Prof Peter Kleinebudde Lab, A computational intelligence
 perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>)
 1. University of Surrey, UK, NICE Group, Adaptive tool for function approximation, 03/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>)
@@ -98,7 +98,7 @@ perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (<a hre
 #### Conference Presentations
 1. World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2021_WCGO.pdf" target="_blank">Slides</a>)
 1. IEEE World Congress on Computational Intelligence, (Online) Glasgow, UK, 06/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2020_WCCI.pdf" target="_blank">Slides</a>)
-1. 3rd Eur. Netw. Intell. Conf. ENIC 2016Wrocław, Poland, 09/2016
+1. 3rd Eur. Netw. Intell. Conf. ENIC 2016 Wrocław, Poland, 09/2016
 1. IEEE World Congress on Computational Intelligence, Vancouver, Canada, 07/2016 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2016_WCCI.pdf" target="_blank">Slides</a>)
 1. Int. Congr. on Particle Tech. PARTEC 2016, Nuremberg, Germany, 04/2016
 1. 7th World Cong. on Nature and Biologically Inspired Comput. Pietermaritzburg, South Africa, 12/2015
@@ -120,10 +120,10 @@ perspective of modeling and data analysis (Knowledge Discovery), 10/2015 (<a hre
 1. 2nd Advanced Course on Data Science & Machine Learning (ACDL), Tuscany, Italy, 07/2019
 1. 2nd Advance Data Science Conference, Manchester, UK, 05/2019
 1. Advance Data ScienceWorkshop, KNIME Summit, Berlin, Germany, 03/2019
-1. TechnicalWriting Skills for Future S&T Leaders, Babes-Bolyai University, Romania, 09/2015
-1. The 4th IPROCOMAdvance Training Course on ResearchWriting Skills, AstraZeneca Plc. UK, 03/2015
+1. Technical Writing Skills for Future S&T Leaders, Babes-Bolyai University, Romania, 09/2015
+1. The 4th IPROCOM Advance Training Course on ResearchWriting Skills, AstraZeneca Plc. UK, 03/2015
 1. Intelligent Modeling, Techniques & Applications, Jagiellonian University, Kraków, Poland, 10/2014
-1. Multi-scale Modeling: Theory & Application, Ecole des Mines Albi, France, 07/2014
+1. Multiscale Modeling: Theory & Application, Ecole des Mines Albi, France, 07/2014
 1. The 3rd Int. Cybernetics Summer School, Technical University of Ostrava, Czech Republic, 06/2014
 1. The 1st IPROCOM Training Course, Research Center Pharmaceutical Eng., Graz, Austria, 01/2014
 
