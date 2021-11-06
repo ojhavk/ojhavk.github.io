@@ -34,8 +34,6 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 2. Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
 3. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
 4. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
-5. Awarded _Marie-Curie Fellow_ from European Commission to pursue PhD as an early career researcher at the Technical University of Ostrava, Czech Republic
-6. Obtained Department of Science and Technology Govt. of India, research fellowship, 2013
 7. Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering conducted by Indian Institute of Sciences and seven IITs.
 8. Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
 9. Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
