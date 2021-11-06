@@ -95,6 +95,6 @@ urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.
 1. Curse-of-Dimensionality (<a href="https://github.com/vojha-code/Curse-of-Dimensionality" target="_blank">Code</a>)
 1. Principal-Component-Analysis (<a href="https://github.com/vojha-code/Principal-Component-Analysis" target="_blank">Code</a>)
 1. Kolmogorov-Smirnov-Test (<a href="https://github.com/vojha-code/Kolmogorov-Smirnov-Test" target="_blank">Code</a>)
-1. Block-Truncation-Coding <a href="https://github.com/vojha-code/Block-Truncation-Coding" target="_blank">Code</a>)
+1. Block-Truncation-Coding (<a href="https://github.com/vojha-code/Block-Truncation-Coding" target="_blank">Code</a>)
 1. Python-MATLAB-Communication (<a href="https://github.com/vojha-code/Python-MATLAB-Communication" target="_blank">Code</a>)
 1. Cython-Project-Hierarchy (<a href="https://github.com/vojha-code/Cython-Project-Hierarchy" target="_blank">Code</a>)
