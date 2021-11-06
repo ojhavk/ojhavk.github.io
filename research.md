@@ -21,7 +21,7 @@ secure networks, and cost and energy efficient networks.
 data (e.g. hydrology), climate data (e.g., chaotic systems).
 1. How biological neurons behave and how to inform design of biologically plausible neural networks?
 
-I am happy to work with acadmics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v[dot]k[dot]ojha[at]reading.ac.uk. 
+I like to work with acadmics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v[dot]k[dot]ojha[at]reading.ac.uk. 
 
 ### Grants
 1. **EPSRC (UK)** Doctoral Training Program projects from the University of Reading (£120K): a) Artificial intelligence-enabled smart eco assisted living space (PI) and b) Combining machine learning and data assimilation to estimate model errors (Co-I). 
