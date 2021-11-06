@@ -16,7 +16,7 @@ My teaching interests are in _Artificial Intelligence_ and _Data Science_ areas.
 1. Lecturer of Artificial Intelligence, UG/PG, University of Reading, 2020–2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Artificial_Intelligence_Lecturers" target="_blank">Lecture Slides</a>)
 1. Lecturer of Data Mining, UG, University of Reading, 2019
 1. Lecturer of Artificial Intelligence, PG, Visva-Bharati University, 2012
-1. Lecturer of Artificial Neural Networks, PG, Visva-Bharati University, 2011
+1. Lecturer of Artificial Neural Nets, PG, Visva-Bharati University, 2011
 1. Lecturer of Fundamentals of Computer Science, UG, Reading, 2020 – 2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Fundamentals_of_Computer_Science" target="_blank">Lecture Slides</a>)
 3. Lecturer of Professional Skills, UG, University of Reading, 2019 – 2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Professional_Skills" target="_blank">Lecture Slides</a>)
 4. Lecturer of Programming Java (filliped lecture), UG University of Reading, 2020 – 2021
