@@ -29,8 +29,8 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 1. Degree Project Coordinator, Department of Computer Science, the University of Reading (2019– )
 
 ### Awards & Honors
-1. Received grants on two Innovate UK academic-industry partnership projects (£120K), 2019, 2021 
-1. Received grants on two EPSRC (UK) Doctoral Training Program for PhD projects, University of Reading (UoR) (£230K), 2018, 2019 
+1. Received grants on two Innovate UK academic-industry partnership projects (£230K), 2019, 2021 
+1. Received grants on two EPSRC (UK) Doctoral Training Program for PhD projects, University of Reading (UoR) (£120K), 2018, 2019 
 2. Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
 3. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
 4. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
