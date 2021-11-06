@@ -12,11 +12,11 @@ title: Research
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I investigate and innovate in the areas of artificial intelligence (neural networks) and data science. Through my research I try to answer the following questions:
+I investigate and innovate in the areas of artificial intelligence (neural networks) and data science. Through my research, I try to answer the following questions:
 
-1. How to design fast, robust, optimal, efficient learning systems? For example, lightweight or distilled networks, explainable and inferable neural networks and learning systems, adversarially robust and secure networks, and cost and energy-efficient networks.
+1. How to design fast, robust, optimal, efficient learning systems? This includes research in the area of lightweight, explainable and inferable neural networks and learning systems and adversarially robust and secure networks.
 1. How to effectively solve challenging interdisciplinary problems? For example, image data (e.g., medical imaging), environment data (e.g. hydrology), climate data (e.g., chaotic systems).
-1. How do biological neurons behave and how to inform the design of biologically plausible neural networks?
+1. How do biological neurons behave, and how to inform the design of biologically plausible neural networks?
 
 I like to work with academics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v[dot]k[dot]ojha[at]reading[dot]ac[dot]uk.
 
@@ -31,15 +31,15 @@ I recently worked on an algorithm called a **backpropagation neural tree**. I pr
 
 **Fig:** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model ( <a href="https://www.karger.com/Article/Abstract/86707" target="_blank">Travis et al., 2005</a>), the middle is a single neuron dendritic tree (<a href="https://direct.mit.edu/neco/article-abstract/33/6/1554/100576/Might-a-Single-Neuron-Solve-Interesting-Machine?redirectedFrom=fulltext" target="_blank">Jones and Kording, 2021</a>), right is the proposed backpropagation Neural Tree. 
 
-This work is currently under review in _Neural Networks_ Elsevier (check out preprint <a href="https://github.com/vojha-code/BNeuralT/blob/master/BNeuralT.pdf" target="_blank">PDF</a> and <a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>). Also, check previous related work on trees (<a a href="https://arxiv.org/abs/1705.05592" target="_blank">neural tree</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">fuzzy tree</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness), and like to explore neuroscience, information-theoretic and complex network literature for PhD research are welcomed!
+This work is currently under review in _Neural Networks_ Elsevier (check out preprint <a href="https://github.com/vojha-code/BNeuralT/blob/master/BNeuralT.pdf" target="_blank">PDF</a> and <a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>). Also, check previous related work on trees (<a a href="https://arxiv.org/abs/1705.05592" target="_blank">neural tree</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">fuzzy tree</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness), and exploring neuroscience, information-theoretic or complex network literature for PhD research are welcomed!
 
-I like to work on **interdisciplinary research** and **data science** projects. In my recent work in collaboration with the meteorology department, we work on forecasting real flood events of the rivers Severn and Avon, UK. We investigate how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our paper). 
+I like to work on **interdisciplinary research** and **data science** projects. In my recent work in collaboration with the meteorology department, we forecast real flood events of the rivers Severn and Avon, UK. We investigate how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our paper). 
 
 ![](/imgs/water_segmentation_work.png)
 
 **Fig:** time-series of river camera images. Water (blue) and non-water pixel predictions.
 
-Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimization** I am working on are:
+Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimisation** I am working on are:
 1. An application of a multiobjective evolutionary algorithm for the prediction of the best strain of genes for the production of chemicals. Potential output is Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://orcid.org/0000-0002-0650-3157" target="_blank">Nicosia G</a>, (2022) Microbial Cell Factories Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_.
 1. An application of derivative-free optimization algorithms for the optimization of Space Trus Structures (Civil Engineering). Potential output is **Ojha V**, <a href="https://www.imperial.ac.uk/people/b.panto" target="_blank">Panto B</a>, Nicosia G (2022) Incremental hypersphere algorithm for buckling analysis of space truss structures, _Engineering Applications of Artificial Intelligence_.
 
