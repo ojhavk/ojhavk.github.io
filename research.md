@@ -21,7 +21,15 @@ secure networks, and cost and energy efficient networks.
 data (e.g. hydrology), climate data (e.g., chaotic systems).
 1. How biological neurons behave and how to inform design of biologically plausible neural networks?
 
-Following are examples of my work towards answering these questions:
+I am happy to work with acadmics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v[dot]k[dot]ojha[at]reading.ac.uk. 
+
+### Current Research
+
+[](/imgs/tree_bio.svg)
+Bilogically plusible tree
+
+Hydrology Paper and images
+
 
 ### Research Supervision
 #### Current Postdoc
