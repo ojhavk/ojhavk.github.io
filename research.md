@@ -25,7 +25,7 @@ I am happy to work with acadmics, industry, and students on research contributin
 
 ### Current Research
 
-[](/imgs/tree_bio.svg)
+![](/imgs/tree_bio.svg)
 Bilogically plusible tree
 
 Hydrology Paper and images
