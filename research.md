@@ -41,9 +41,9 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 
 Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimisation** I am working on are:
 1. A multiobjective evolutionary algorithm application for the prediction of the best strain of genes and production of chemicals.  <br>
-**Output Due:** Potential output is Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://orcid.org/0000-0002-0650-3157" target="_blank">Nicosia G</a>, (2022) Microbial Cell Factories Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_.
+**_Target output:_:** Potential output is Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://orcid.org/0000-0002-0650-3157" target="_blank">Nicosia G</a>, (2022) Microbial Cell Factories Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_.
 1. An application of derivative-free optimisations algorithms for the optimisation of  Space Trus Structures (Civil Engineering). <br>
-**Output Due:** **Ojha V**, <a href="https://www.imperial.ac.uk/people/b.panto" target="_blank">Panto B</a>, Nicosia G (2022) Incremental hypersphere algorithm for buckling analysis of space truss structures, _Engineering Applications of Artificial Intelligence_.
+**_Target output:_** **Ojha V**, <a href="https://www.imperial.ac.uk/people/b.panto" target="_blank">Panto B</a>, Nicosia G (2022) Incremental hypersphere algorithm for buckling analysis of space truss structures, _Engineering Applications of Artificial Intelligence_.
 
 ### Research Supervision Projects
 #### Current Postdoc
@@ -57,13 +57,13 @@ Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of
 
 **Questions**: _We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. We aim to answer what and why adversaries target some features from a learned representation instead of others. We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalization loss. Moreover, we aim to apply signal processing techniques to perturb neural synapses globally and locally to analyze how the network response varies for the perturbed and unperturbed inputs_. A near submission output:
 
-**Output Due:** Pravin C, Ojha V, (2022) Exposing the weaknesses of deep neural networks against adversarial attacks.
+**_Target output:_** Pravin C, Ojha V, (2022) Exposing the weaknesses of deep neural networks against adversarial attacks, IJCAI 2022.
 
 Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>, current output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>)
 
 **Questions**: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent linear model and orthogonalization algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_. 
 
-**Output Due:** Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V, (2022) Supervised learning to estimate local dynamical instabilities in chaotic systems: computation of local Lyapunov exponents, _Quarterly Journal of the Royal Meteorological Society_.
+*_Target output:_:** Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V, (2022) Supervised learning to estimate local dynamical instabilities in chaotic systems: computation of local Lyapunov exponents, _Quarterly Journal of the Royal Meteorological Society_.
 
 
 Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK. (current output: <a href="https://centaur.reading.ac.uk/100199/" target="_blank">paper</a>)
