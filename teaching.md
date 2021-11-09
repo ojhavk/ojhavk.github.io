@@ -42,12 +42,7 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 1. Employability and Student Success, UoR, 05/2019
 1. Taking a programme level approach to assessment using the TESTA methodology, 03/2019
 1. Technology Enhanced Learning: EMA Designing and Using Rubrics (for Academics), UoR, 03/2019
-1. Supervising Research Students, UoR, 11/2018
 1. Being an Academic Tutor - Tools and Techniques, UoR, 11/2019
-1. Presenting with Power, UoR, 12/2019
-1. Communicating Effectively, UoR, 12/2019
-1. Developing Confidence in the Classroom for Those New to Teaching, UoR, 11/2019
-1. Pronunciation Skills for Academic Staff, UoR, 11/2018
 1. Personal Growth - Understanding Yourself and Others, UoR, 12/2019
 1. Teaching & Learning Leadership & You, UoR, 11/2018
 1. Project management course for postdoctoral researchers, ETH Zürich, 2017
