@@ -63,7 +63,7 @@ Daniel Ayers (2019–2022) Using supervised learning to estimate local instabili
 
 **Questions**: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent linear model and orthogonalization algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_. 
 
-**_Target output:_** Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V, (2022) Supervised learning to estimate local dynamical instabilities in chaotic systems: computation of local Lyapunov exponents, _Quarterly Journal of the Royal Meteorological Society_.
+**_Target output:_** Ayers D, Lau J, Amezcua J, Carrassi A, **Ojha V**, (2022) Supervised learning to estimate local dynamical instabilities in chaotic systems: computation of local Lyapunov exponents, _Quarterly Journal of the Royal Meteorological Society_.
 
 
 Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK. (current output: <a href="https://centaur.reading.ac.uk/100199/" target="_blank">paper</a>)
