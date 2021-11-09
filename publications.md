@@ -71,7 +71,7 @@ title: Publications
 1. Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565) (<a href="https://www.springer.com/gp/book/9783030645793" target="_blank">Link</a>)
 
 ### Thesis
-**Ojha VK** (2016) _Feature Selection and Function Approximation Using Adaptive Algorithms_ Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)<br>
+**Ojha VK** (2016) _Feature Selection and Function Approximation Using Adaptive Algorithms_ Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)<br><br>
 Summary: _I proposed two novel general-purpose machine learning algorithms: heterogeneous neural tree and fuzzy inference tree. I investigated these two algorithms on benchmark and two industrial applications. The algorithms successfully demonstrated capabilities of simultaneous feature selection and function approximation with high accuracy outperforming compared state-of-the-art algorithms of the time_.
 
   
