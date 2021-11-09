@@ -37,7 +37,7 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 
 ![](/imgs/water_segmentation_work.png)
 
-**Figure** time-series of river camera images. Water (blue) and non-water pixel predictions.
+**Figure.** time-series of river camera images. Water (blue) and non-water pixel predictions.
 
 Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimisation** I am working on are:
 1. A multiobjective evolutionary algorithm application for the prediction of the best strain of genes and production of chemicals.  <br>
