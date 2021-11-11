@@ -25,7 +25,7 @@ I like to work with academics, industry, and students on research contributing t
 1. **Innovate UK** projects (£230K): a) a project with Optimal Monitoring on natural language processing for customer feedback and response systems (advisor) b) a project with CrowdCharge on time-series forecasting for electric vehicle charging preferences (advisor).
 
 ### Current Research
-I recently worked on an algorithm called a **backpropagation neural tree**. I propose a _stochastic computational dendritic tree_ that takes random repeated inputs through its leaves and imposes dendritic nonlinearities through its internal connections as a biological dendritic tree would. This neural tree's neurons plausibly are close to the biological behaviour of neurons, dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithms design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
+I recently worked on an algorithm called a **backpropagation neural tree**. I propose a _stochastic computational dendritic tree_ that takes random repeated inputs through its leaves and imposes dendritic nonlinearities through its internal connections as a biological dendritic tree would. This neural tree's neurons plausibly are close to the biological behaviour of neurons, dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
 ![](/imgs/tree_bio.svg)
 
