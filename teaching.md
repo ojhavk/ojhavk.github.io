@@ -23,11 +23,11 @@ My teaching interests are in _Artificial Intelligence_ and _Data Science_ areas.
 
 ### Other Teaching Activities
 1. Guest Lecturer of Artificial Intelligence, Henley Business School, 2019–2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Henley_Business_School/2020_02_26_HBS_UoR_Varun.pdf" target="_blank">Lecture Slides</a>)
-1. Educator of Massive Open Online Course, Begin Programming, Reading, 2019 – 2021 (<a href="https://www.futurelearn.com/courses/begin-programming" target="_blank">FutureLearn</a>)
+1. Educator of **Massive Open Online Course**, Begin Programming, Reading, 2019 – 2021 (<a href="https://www.futurelearn.com/courses/begin-programming" target="_blank">FutureLearn</a>)
 1. Tutor of C++ Programming, UG, Visva-Bharati University, 2011
 1. Module reviewer of Text Mining and Natural Language Processing, Neurocomputation, Data Science,
 Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
-1. Lecturer of Artificial Intelligence Teasers Lectures on Open days, 2019 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Open_Days_Reading/2019_AI_OpenDay_UoR_Varun.pdf" target="_blank">Slides</a>)
+1. Lecturer of Artificial Intelligence **Teasers Lecture on Open days**, 2019 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Open_Days_Reading/2019_AI_OpenDay_UoR_Varun.pdf" target="_blank">Slides</a>)
 1. Invited Lecturer of Huawei HCIA-AI course on AI, 09/2020, 02/2021
 
 ### Examples of Innovation in Teaching & Learning
@@ -38,7 +38,7 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
   - develop an online assessment strategy during Covid-19 crisis, 
   - professional skills training sessions for student support (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Professional_Skills" target="_blank">Lecture Slides</a> of time mangment, reachin methods & ethics, research writing and presentations)
   - introduced a <a href="https://tinyurl.com/uorcs" target="_blank">departmental report template and writing guide</a>.<br>
-2. At the Department of Computer Science, University of Reading, 2021, I introduced a formal scheme for **cooperation with industries** on final year projects<!-- (see <a href="https://www.reading.ac.uk/computer-science/work-with-us" target="_blank">OVERCLOCK YOUR BUSINESS</a> scheme) -->.  This was a **major achievement** considering, involvement of several rounds of discussion with the industry advisory board, the knowledge transfer center, the university's marketing & engagement team, and more _importantly_, consulting the BCS accreditation requirements and approvals from the legal department, head of the department, head of schools, and university executive board (Department of Computer Science, University of Reading, 2019 - 2021)  <br>
+2. At the Department of Computer Science, University of Reading, 2021, I introduced a formal scheme for **cooperation with industries** on final year projects<!-- (see <a href="https://www.reading.ac.uk/computer-science/work-with-us" target="_blank">OVERCLOCK YOUR BUSINESS</a> scheme) -->. In this scheme, I created the procedures to induct industry co-supervisors and student recruitment, and formal agreement documents. This was a **major achievement** considering, involvement of several rounds of discussion with the industry advisory board, the knowledge transfer center, the university's marketing & engagement team, and more _importantly_, consulting the BCS accreditation requirements and approvals from the legal department, head of the department, head of schools, and university executive board (Department of Computer Science, University of Reading, 2019 - 2021)  <br>
 3. As a _Programming in Java_ module convener (Department of Computer Science, University of Reading, 2021),  I planned _computer games_ like lab exercises, i.e., I divided the weekly tasks and formative assessments into small chunks of linked tasks like _easy, medium, and hard_ levels. I colour-coded them like a traffic-light system: green, orange, and red. The objective was that once they see an easy task, they will do it, which will prompt interest to do another one. The scores of students on weekly formative assessments on questions related to weekly tasks drastically improved, and attendance and engagement of students in the Lab improved significantly on this module. 
 
 ### Teaching & Learning Workshop Participations
