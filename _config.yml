@@ -7,9 +7,6 @@ permalink: /:title
 
 baseurl: ""
 
-github:
-is\_project\_page:false
-
 sass: 
   style: compressed
 
