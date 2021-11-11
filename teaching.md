@@ -31,7 +31,7 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 1. Invited Lecturer of Huawei HCIA-AI course on AI, 09/2020, 02/2021
 
 ### Examples of Innovation in Teaching & Learning
-1. As a _Degree Project Coordinator_ at the Department of Computer Science, University of Reading, 2021, I improved the students and staff experiences by introducing **novel and innovative ideas** like
+1. As a _Degree Project Coordinator_ at the Department of Computer Science, University of Reading, (2019-2021), I improved the students and staff experiences by introducing **novel and innovative ideas** like
   - staff-student interaction sessions (e.g., poster session and academic tutor meeting session to let students gain view other than supervisor), 
   - project-based supervisor allocation scheme, 
   - gradation based new assessment marking rubric, 
