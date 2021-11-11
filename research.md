@@ -14,7 +14,7 @@ title: Research
 
 I investigate and innovate in the areas of artificial intelligence (neural networks) and data science. Through my research, I try to answer the following questions:
 
-1. How to design fast, robust, optimal, and efficient learning systems? This is, research in the areas of lightweight, explainable and inferable neural networks and learning systems, and adversarially robust and secure networks.
+1. How to design fast, robust, optimal, and efficient learning systems? That is, research in the areas of lightweight, explainable and inferable neural networks and learning systems, and adversarially robust and secure networks.
 1. How to effectively solve challenging interdisciplinary problems? For example, image data, environment data (e.g. hydrology), climate data (e.g., chaotic systems).
 1. How do biological neurons behave, and how to inform the design of biologically plausible neural networks?
 
