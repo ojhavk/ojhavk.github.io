@@ -32,12 +32,12 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 
 ### Examples of Innovation in Teaching & Learning
 1. As a _Degree Project Coordinator_ at the Department of Computer Science, University of Reading, (2019-2021), I improved the students and staff experiences by introducing **novel and innovative ideas** like
-  - staff-student interaction sessions (e.g., poster session and academic tutor meeting session to let students gain view other than supervisor), 
-  - project-based supervisor allocation scheme, 
-  - gradation based new assessment marking rubric, 
-  - develop an online assessment strategy during Covid-19 crisis, 
-  - professional skills training sessions for student support (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Professional_Skills" target="_blank">Lecture Slides</a> of time mangment, reachin methods & ethics, research writing and presentations)
-  - introduced a <a href="https://tinyurl.com/uorcs" target="_blank">departmental report template and writing guide</a>.<br>
+  - staff-student interaction sessions (e.g., poster session and academic tutor meeting session to let students gain view other than supervisor)
+  - project-based supervisor allocation scheme
+  - gradation based new assessment marking rubric
+  - develop an online assessment strategy during the Covid-19 crisis
+  - professional skills training sessions for student support (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Professional_Skills" target="_blank">Lecture Slides</a> of time management, research methods & ethics, research writing, and presentations)
+  - introduced a <a href="https://tinyurl.com/uorcs" target="_blank">departmental report template and writing guide</a><br>
 2. At the Department of Computer Science, University of Reading, 2021, I introduced a formal scheme for **cooperation with industries** on final year projects<!-- (see <a href="https://www.reading.ac.uk/computer-science/work-with-us" target="_blank">OVERCLOCK YOUR BUSINESS</a> scheme) -->. In this scheme, I created the procedures to induct industry co-supervisors and student recruitment, and formal agreement documents. This was a **major achievement** considering, involvement of several rounds of discussion with the industry advisory board, the knowledge transfer center, the university's marketing & engagement team, and more _importantly_, consulting the BCS accreditation requirements and approvals from the legal department, head of the department, head of schools, and university executive board (Department of Computer Science, University of Reading, 2019 - 2021)  <br>
 3. As a _Programming in Java_ module convener (Department of Computer Science, University of Reading, 2021),  I planned _computer games_ like lab exercises, i.e., I divided the weekly tasks and formative assessments into small chunks of linked tasks like _easy, medium, and hard_ levels. I colour-coded them like a traffic-light system: green, orange, and red. The objective was that once they see an easy task, they will do it, which will prompt interest to do another one. The scores of students on weekly formative assessments on questions related to weekly tasks drastically improved, and attendance and engagement of students in the Lab improved significantly on this module. 
 
