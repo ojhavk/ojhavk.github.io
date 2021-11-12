@@ -37,7 +37,7 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 
 ![](/imgs/water_segmentation_work.png)
 
-**Figure.** time-series of river camera images. Water (blue) and non-water pixel predictions.
+**Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions.
 
 Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimisation** I am working on are:
 1. A multiobjective evolutionary algorithm application for the prediction of the best strain and production of chemicals.  <br>
@@ -55,13 +55,13 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 #### Current PhD Student Projects
 Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (current output: <a href="https://centaur.reading.ac.uk/99457/" target="_blank">paper</a>)
 
-**Questions**: _We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. We aim to answer what and why adversaries target some features from a learned representation instead of others. We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalization loss. Moreover, we aim to apply signal processing techniques to perturb neural synapses globally and locally to analyze how the network response varies for the perturbed and unperturbed inputs_.
+**Questions**: _We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. We aim to answer what and why adversaries target some features from a learned representation instead of others. We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalisation loss. Moreover, we aim to apply signal processing techniques to perturb neural synapses globally and locally to analyse how the network response varies for the perturbed and unperturbed inputs_.
 
 **_Target output:_** Pravin C, Ojha V, (2022) Exposing the weaknesses of deep neural networks against adversarial attacks, IJCAI 2022.
 
 Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>, current output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>)
 
-**Questions**: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent linear model and orthogonalization algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_. 
+**Questions**: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent-linear model and orthogonalisation algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_. 
 
 **_Target output:_** Ayers D, Lau J, Amezcua J, Carrassi A, **Ojha V**, (2022) Supervised learning to estimate local dynamical instabilities in chaotic systems: computation of local Lyapunov exponents, _Quarterly Journal of the Royal Meteorological Society_.
 
@@ -84,7 +84,7 @@ urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.
 
 ##### Selected Bachelor Student Projects
 1. Ward B (2020) Classification of musical preference in generation Z through signal processing, UoR, UK (<a href="https://centaur.reading.ac.uk/98568/" target="_blank">Conference Paper</a>)
-1. Shergill JS (2020) Machine learning for speech (English language accent) classification, UoR (<a href="https://centaur.reading.ac.uk/97785/" target="_blank">Confernce Paper</a>)
+1. Shergill JS (2020) Machine learning for speech (English language accent) classification, UoR (<a href="https://centaur.reading.ac.uk/97785/" target="_blank">Conference Paper</a>)
 1. Young R (2021) Using DL and box speed calibration for predicting rowing boat speed, UoR (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
 1. Taemur A (2021) Audio classification using machine learning techniques, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
 1. Neele M (2021) Using neural networks for time-series analysis of UK river flow data, UoR, UK(<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
