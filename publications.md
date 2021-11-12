@@ -72,6 +72,6 @@ title: Publications
 
 ### Thesis
 **Ojha VK** (2016) _Feature Selection and Function Approximation Using Adaptive Algorithms_ Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)<br><br>
-Summary: _I proposed two novel general-purpose machine learning algorithms: heterogeneous neural tree and fuzzy inference tree. I investigated these two algorithms on benchmark and two industrial applications. The algorithms successfully demonstrated capabilities of simultaneous feature selection and function approximation with high accuracy outperforming compared state-of-the-art algorithms of the time_.
+Summary: _I proposed two novel general-purpose machine learning algorithms: heterogeneous neural tree and fuzzy inference tree. I investigated these two algorithms on benchmark and two industrial applications. The algorithms successfully demonstrated capabilities of simultaneous feature selection and function approximation with high accuracy,  outperforming compared state-of-the-art algorithms of the time_.
 
   
