@@ -30,6 +30,10 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 1. Lecturer of Artificial Intelligence **Teasers Lecture on Open days**, 2019 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Open_Days_Reading/2019_AI_OpenDay_UoR_Varun.pdf" target="_blank">Slides</a>)
 1. Invited Lecturer of Huawei HCIA-AI course on AI, 09/2020, 02/2021
 
+### Teaching Awards
+1. Received School’s Excellence in Teaching & Learning Award for implementing an _industrial certification_ to the Data Mining module, UoR, UK, 2019
+1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
+
 ### Examples of Innovation in Teaching & Learning
 1. As a _Degree Project Coordinator_ at the Department of Computer Science, University of Reading, (2019-2021), I improved the students and staff experiences by introducing **novel and innovative ideas** like
   - staff-student interaction sessions (e.g., poster session and academic tutor meeting session to let students gain view other than supervisor)
