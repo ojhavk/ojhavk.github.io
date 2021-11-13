@@ -11,7 +11,7 @@ title: Publications
 ## Publications
 
 ### Journal Papers
-1.  Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25_(8) 4435--4453 (<a href="https://researchdata.reading.ac.uk/282/" target="_blank"></a><a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">PDF</a>)
+1.  Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25_(8) 4435--4453 (<a href="https://researchdata.reading.ac.uk/282/" target="_blank">Data</a> | <a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">PDF</a>)
 1. **Ojha V**, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G. (2021). Design and characterization of effective solar cells, _Energy Systems_, 1--28. Springer (<a href="https://arxiv.org/abs/2109.07279" target="_blank">PDF</a>)
 1. **Ojha V** Abraham A, Snášel V. (2019). Heuristic design of fuzzy inference systems: A review of three decades of research, _Engineering Applications in Artificial Intelligence, 85_, 845--864. Elsevier. (<a href="https://arxiv.org/abs/1908.10122" target="_blank">PDF</a>)
 1. **Ojha VK**, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G. (2019). Machine learning approaches to understand the influence of urban environments on human's physiological response, _Information Sciences, 474_, 154--169. Elsevier. (<a href="https://arxiv.org/abs/1812.06128" target="_blank">PDF</a>)
