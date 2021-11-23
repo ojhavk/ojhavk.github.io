@@ -52,7 +52,7 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 LOD 2021, Lake District, United Kingdom, October 04–08, 2021. (<a href="https://lod2021.icas.cc/" target="_blank">LOD 2021</a>)
 1. Program Chair of 6th International Conference Machine Learning, Optimization, and Data Science,
 LOD 2020, Siena, Italy, July 19–23, 2020. (<a href="https://lod2020.icas.xyz/" target="_blank">LOD 2020</a>)
-1. Co-organizer of 1st Advanced Online & Onsite Course & Symposium on Artificial Intelligence & Neuroscience, October 5 – 8, 2021 | Grasmere, Lake District, England – UK (<a href="https://acain2021.artificial-intelligence-sas.org/" target="_blank">ACAIN 2021</a>) 
+1. Co-organizer of 1st Advanced Online & Onsite Course & Symposium on Artificial Intelligence & Neuroscience, October 5 – 8, 2021,  Grasmere, Lake District, England – UK (<a href="https://acain2021.artificial-intelligence-sas.org/" target="_blank">ACAIN 2021</a>) 
 1. Steering Committee Founding Member of <a href="https://tvsp.herokuapp.com/" target="_blank">Thames Valley Artificial Intelligence Hub</a> (TVAI Hub), 2019–present
 1. Session Chair of 30th International Conference on Artificial Neural Networks (ICANN 2021)
 1. Session Chair of 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021)
