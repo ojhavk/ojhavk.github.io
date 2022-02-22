@@ -11,7 +11,7 @@ title: Publications
 ## Publications
 
 ### Journal Papers
- <sub>
+ 
 1. Vandaele R, Dance SL, **Ojha V**. (in review, Feb 2022) Calibrated river-level estimation from river-cameras using convolutional neural networks, _Environmental Data Science_,Cambridge University Press. 
 2. Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, Nicosia G, (in review, Mar 2022) Pareto Optimal Microbial Cell Factories Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_, Wiley
 3. Ayers D, Lau J, Amezcua J,  Carrassi A, **Ojha V** (in review, Feb 2022) Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents, _Quarterly Journal of the Royal Meteorological Society_, Wiley (<a href="https://arxiv.org/pdf/2202.04944.pdf" target="_blank">PDF</a>)
@@ -31,7 +31,7 @@ title: Publications
 17. **Ojha VK**, Dutta P, Chaudhuri A, Saha H (2016) A multi-agent concurrent neurosimulated annealing algorithm: A case study on intelligent sensing of manhole gases, _International Journal of Hybrid Intelligent Systems, 12_(4), 185--202. IOS Press. (<a href="https://doi.org/10.3233/HIS-160216" target="_blank">Link</a>)
 18. **Ojha VK**, Dutta P, Chaudhuri A, Saha H (2016) Understating continuous ant colony optimization for neural network training: A case study on intelligent sensing of manhole gas components,  _International Journal of Hybrid Intelligent Systems, 12_(4), 203--217. IOS Press. (<a href="https://doi.org/10.3233/HIS-160215" target="_blank">Link</a>)	
 19. **Ojha VK**, Jackowski K, Abraham A, Snášel V (2015) Dimensionality reduction and function approximation of poly(lactic-co-glycolic acid) micro-and nano-particle dissolution rate, _International Journal of Nanomedicine, 10_, 1119--1129. (<a href="https://doi.org/10.2147/IJN.S71847" target="_blank">PDF</a>)
- </sub>  
+ 
 ### Conference Papers 
 1. Pravin C, Martino I, Nicosia G, **Ojha V** (2021). Adversarial robustness in deep learning: Attacks on fragile neurons. _The 30th Int. Conf. on Artificial Neural Networks_, ICANN (pp 16-28), Springer, LNCS, Bratislava, Slovakia. (<a href="https://centaur.reading.ac.uk/99457/" target="_blank">PDF</a>)
 1. Taylor R, Martino I, Nicosia G, **Ojha V** (2021). Sensitivity analysis for deep learning: Ranking hyper-parameter influence, _33rd IEEE Int. Conf. on Tools with Artificial Intelligence_, ICTAI. IEEE. (<a href="https://centaur.reading.ac.uk/100199/" target="_blank">PDF</a>)
