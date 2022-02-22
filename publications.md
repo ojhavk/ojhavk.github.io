@@ -68,7 +68,7 @@ title: Publications
 33. Ghosh S, Saha H, Roychaudhuri C, **Ojha VK**, Dutta P (2012) Portable sensor array system for intelligent recognizer of manhole gases. _6th International Conference on Sensing Technology_, Kolkata, India (pp. 589-594). IEEE. (<a href="https://ieeexplore.ieee.org/document/6461748" target="_blank">Link</a>)
 34.  Ghosh S, Roy A, Singh S,  **Ojha VK**, Dutta P (2012) Sensor array for manhole gas analysis. _1st International Symposium on Physics and Technology of Sensors_,  Mumbai, India (pp. 9--12). IEEE. (<a href="https://ieeexplore.ieee.org/document/6260863" target="_blank">Link</a>)
 
-### Workshop Papers
+### Workshop Papers, Posters, and Abstracts
 1. **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V. (2016). Machine learning tools for modeling of powder mixing. _Int. Congress on Particle Technology_ (PARTEC 2016), Nurnberg, Germany. German National Library.
 1.  Ayers D , Amezcua J , **Ojha V**, Carrassi A, Leeuwen PJ.  (2020). Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy. _ECMWF Workshop_, Reading, UK. (<a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">PDF</a>)
 
