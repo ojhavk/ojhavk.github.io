@@ -13,7 +13,7 @@ title: Teaching
 My teaching interests are in _Artificial Intelligence_ and _Data Science_ areas. I like to teach project-driven _programming_, _algorithms and data structure_, and _engineering mathematics_.
 
 ### Lectures
-1. Lecturer of Data Analytics, UG/PG, University of Reading, 2020–2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Data_Analytics_Lectures" target="_blank">Lecture Slides</a>)
+1. Lecturer of Data Analytics, UG/PG, University of Reading, 2021–2022 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Data_Analytics_Lectures" target="_blank">Lecture Slides</a>)
 1. Lecturer of Artificial Intelligence, UG/PG, University of Reading, 2020–2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Artificial_Intelligence_Lecturers" target="_blank">Lecture Slides</a>)
 1. Lecturer of Data Mining, UG, University of Reading, 2019
 1. Lecturer of Artificial Intelligence, PG, Visva-Bharati University, 2012
