@@ -41,6 +41,7 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 9. Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
 <!--6. Obtained 3rd place at Breaking the Wall of Perception of Cities at Falling Walls Lab, Paris, France, 2017 -->
 
+<!--
 ### Selected Papers
 1. **Ojha V**, Nicosia G. (2022) Backpropagation Neural Tree, _Neural Networks_, 149, 66--83, Elsevier. (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="https://arxiv.org/abs/2202.02248" target="_blank">PDF</a>)
 1. Pravin C, Martino I, Nicosia G, **Ojha V** (2021). Adversarial robustness in deep learning: Attacks on fragile neurons. _The 30th Int. Conf. on Artificial Neural Networks_, ICANN (pp 16-28), Springer, LNCS, Bratislava, Slovakia. (<a href="https://centaur.reading.ac.uk/99457/" target="_blank">PDF</a>)
