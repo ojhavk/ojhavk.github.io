@@ -84,7 +84,7 @@ Pattern Analysis and Application, Springer.
 ### Research Talks & Presentations
 
 #### Invited Talks
-1. Anything Repeateable is Rplacable by AI 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
+1. Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
 Public Talk, TVAI Hub, Reading, UK 
 1. Do the dynamics of the city environment influence us, and how? 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)<br> The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy
 1. Machine Learning is a Search Problem 02/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, UK
