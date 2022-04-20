@@ -78,8 +78,10 @@ title: Publications
 1. Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G. (2017). ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos, _Tech. Report_, ETH Zurich, Switzerland. (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">PDF</a>)
 
 ### Edited Proceedings	
-1. Nicosia G, **Ojha V**,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R 7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163)  <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">Link</a>)
-2. Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565) (<a href="https://www.springer.com/gp/book/9783030645793" target="_blank">Link</a>)
+1. 7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163)  <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">Link</a>) <br>
+Nicosia G, **Ojha V**,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R
+3. 6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565) (<a href="https://www.springer.com/gp/book/9783030645793" target="_blank">Link</a>) <br>
+Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  
 
 
 ### Thesis
