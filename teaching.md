@@ -27,7 +27,6 @@ My teaching interests are in _Artificial Intelligence_ and _Data Science_ areas.
 1. Workshop on Artificial Intelligence, Mathematical Modelling for Pharmacology, University of Reading, 03/2022 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/UoR_AI_in_Pharmacology_Workshop_04_Mar_22.pdf" target="_blank">Lecture Slides</a>)
 2. Educator of **Massive Open Online Course**, Begin Programming, Reading, 2019 – 2021 (<a href="https://www.futurelearn.com/courses/begin-programming" target="_blank">FutureLearn</a>)
 3. Guest Lecturer of Artificial Intelligence, Henley Business School, 2019–2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Henley_Business_School/2020_02_26_HBS_UoR_Varun.pdf" target="_blank">Lecture Slides</a>)
-4. Educator of **Massive Open Online Course**, Begin Programming, Reading, 2019 – 2021 (<a href="https://www.futurelearn.com/courses/begin-programming" target="_blank">FutureLearn</a>)
 5. Tutor of C++ Programming, UG, Visva-Bharati University, 2011
 6. Module reviewer of Text Mining and Natural Language Processing, Neurocomputation, Data Science,
 Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
