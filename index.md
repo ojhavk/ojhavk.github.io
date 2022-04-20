@@ -17,7 +17,7 @@ Lecturer (Assistant Professor) of University of Reading, United Kingdom
 
 **Research Interests**
 
-I work on Machine Learning, Optimization, and Data Science. <br>I like working on Interdisciplinary Research Problems
+I work on Machine Learning, Optimization, and Data Science. <br> I like solving Interdisciplinary Research Problems
 
 **Welcome to my homepage!**
 
