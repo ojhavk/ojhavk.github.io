@@ -18,11 +18,11 @@ I have designed and taught the following courses / module / subjects at UG and P
 1. Data Analytics, UG, University of Reading, 2021–2022 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Data_Analytics_Lectures" target="_blank">Lecture Slides</a>)
 1. Artificial Intelligence, UG/PG, University of Reading, 2020–2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Artificial_Intelligence_Lecturers" target="_blank">Lecture Slides</a>)
 1. Data Mining, UG, University of Reading, 2019
+1. Fundamentals of Computer Science, UG, Reading, 2020 – 2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Fundamentals_of_Computer_Science" target="_blank">Lecture Slides</a>)
+1. Programming Java (filliped lecture), UG University of Reading, 2020 – 2022
+1. Creative Data Mining, UG/PG, ETH Zürich, Switzerland, 2017–2018 (<a href="https://ia.arch.ethz.ch/category/teaching/fs2018-creative-data-mining/" target="_blank">Lecture Slides</a>, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/287572" target="_blank">Projects</a>)
 1. Artificial Intelligence, PG, Visva-Bharati University, 2012
 1. Artificial Neural Networks, PG, Visva-Bharati University, 2011
-1. Fundamentals of Computer Science, UG, Reading, 2020 – 2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Fundamentals_of_Computer_Science" target="_blank">Lecture Slides</a>)
-1. Programming Java (filliped lecture), UG University of Reading, 2020 – 2021
-1. Creative Data Mining, UG/PG, ETH Zürich, Switzerland, 2017–2018 (<a href="https://ia.arch.ethz.ch/category/teaching/fs2018-creative-data-mining/" target="_blank">Lecture Slides</a>, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/287572" target="_blank">Projects</a>)
 
 ### Other Teaching Activities
 1. Workshop on Artificial Intelligence, Mathematical Modelling for Pharmacology, University of Reading, 03/2022 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/UoR_AI_in_Pharmacology_Workshop_04_Mar_22.pdf" target="_blank">Lecture Slides</a>)
