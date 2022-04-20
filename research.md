@@ -108,10 +108,12 @@ urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.
 1. Humans Perception Through Physiological Response <a href="https://github.com/vojha-code/ESUM-project" target="_blank">Code</a>)
 
 1. Sensitivity Analysis of Evolutionary Algorithms <a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>)
+1. Search Space Decomposition Method (<a href="https://github.com/vojha-code/Hypershpere-Search" target="_blank">Code</a>)
 1. Meta-heuristic-Optimizer Software(<a href="https://github.com/vojha-code/Meta-heuristic-Optimizer" target="_blank">Code</a>)
 1. Multilevel-Coordinate-Search (<a href="https://github.com/vojha-code/Multilevel-Coordinate-Search" target="_blank">Code</a>)
 1. Evolutionary-Computation (<a href="https://github.com/vojha-code/Evolutionary-Computation" target="_blank">Java</a>, <a href="https://github.com/vojha-code/NSGA" target="_blank">Python</a>)
 1. Evolutionary-Ensemble (<a href="https://github.com/vojha-code/Evolutionary-Ensemble" target="_blank">Code</a>)
+
 
 1. Algorithm-Complexity (<a href="https://github.com/vojha-code/Algorithm-Complexity" target="_blank">Code</a>)
 1. Curse-of-Dimensionality (<a href="https://github.com/vojha-code/Curse-of-Dimensionality" target="_blank">Code</a>)
