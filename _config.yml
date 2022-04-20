@@ -5,7 +5,7 @@ logo: /imgs/image_vko_bw.png
 description: The pages are updated intermittently. 
 title: Varun Ojha
 
-permalink: /:title
+#permalink: /:title
 
 baseurl: ""
 
