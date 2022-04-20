@@ -42,11 +42,12 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 
 **Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions.
 
+<!---
 Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimisation** I am worked on are:
 1. A multiobjective evolutionary algorithm application for the prediction of the best strain and production of chemicals (System Biology).  <br>
 Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://orcid.org/0000-0002-0650-3157" target="_blank">Nicosia G</a>, (2022) Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_. (See  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Paper</a>)
 1. An application of derivative-free optimisations algorithms for the optimisation of  Space Truss Structures (Civil Engineering). <br>
-**_Submitted paper:_** **Ojha V**, <a href="https://www.imperial.ac.uk/people/b.panto" target="_blank">Panto B</a>, Nicosia G (2022) Incremental hypersphere algorithm for buckling analysis of space truss structures, _Engineering Applications of Artificial Intelligence_.
+**_Submitted paper:_** **Ojha V**, <a href="https://www.imperial.ac.uk/people/b.panto" target="_blank">Panto B</a>, Nicosia G (2022) Incremental hypersphere algorithm for buckling analysis of space truss structures, _Engineering Applications of Artificial Intelligence_. --->
 
 ### Research Supervision Projects
 #### Current Postdoc
