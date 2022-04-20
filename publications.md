@@ -16,7 +16,7 @@ title: Publications
  
 1. Calibrated river-level estimation from river-cameras using convolutional neural networks, <br> _Environmental Data Science_,Cambridge University Press. (in review, Feb 2022) <br> Vandaele R, Dance SL, **Ojha V**.  
 2. Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents (<a href="https://arxiv.org/pdf/2202.04944.pdf" target="_blank">PDF</a>) <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (in review, Feb 2022)  <br> Ayers D, Lau J, Amezcua J,  Carrassi A, **Ojha V** 
-3. Assessing ranking and effectiveness of evolutionary algorithm hyperparameters using global sensitivity analysis methodologies (<a href="https://github.com/vojha-code/SAofEAs}{\color{teal}" target="_blank">PDF</a>}) <br> _Swarm and Evolutionary Computation_, Elsevier (in revision, Oct 2021) <br> **Ojha V**, Greco A, Timmis J, and Nicosia G    
+3. Assessing ranking and effectiveness of evolutionary algorithm hyperparameters using global sensitivity analysis methodologies (<a href="https://github.com/vojha-code/SAofEAs}{\color{teal}" target="_blank">PDF</a>) <br> _Swarm and Evolutionary Computation_, Elsevier (in revision, Oct 2021) <br> **Ojha V**, Greco A, Timmis J, and Nicosia G    
 4. Hypersphere search algorithm for buckling analysis of space truss structures (<a href="https://github.com/vojha-code/equilibrium}{\color{teal}" target="_blank">PDF</a>}) <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (in review, Dec 2021) <br> **Ojha V**, Panto, B, Nicosia G.
 5. Backpropagation Neural Tree (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="https://arxiv.org/abs/2202.02248" target="_blank">PDF</a>) <br> _Neural Networks_, 149, 66--83, Elsevier. (2022) <br> **Ojha V**, Nicosia G.  
 6. Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">PDF</a>) <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, Nicosia G
@@ -84,6 +84,6 @@ title: Publications
 
 ### Thesis
 Feature Selection and Function Approximation Using Adaptive Algorithms (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)<br> _Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic_ <br> **Ojha VK** (2016) <br>
-Summary: _I proposed two novel general-purpose machine learning algorithms: heterogeneous neural tree and fuzzy inference tree. I investigated these two algorithms on benchmark and two industrial applications. The algorithms successfully demonstrated capabilities of simultaneous feature selection and function approximation with high accuracy,  outperforming compared state-of-the-art algorithms of the time_.
+_I proposed two novel general-purpose machine learning algorithms: heterogeneous neural tree and fuzzy inference tree. I investigated these two algorithms on benchmark and two industrial applications. The algorithms successfully demonstrated capabilities of simultaneous feature selection and function approximation with high accuracy,  outperforming compared state-of-the-art algorithms of the time_.
 
   
