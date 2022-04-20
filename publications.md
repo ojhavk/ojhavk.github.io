@@ -71,18 +71,25 @@ title: Publications
 33. Portable sensor array system for intelligent recognizer of manhole gases (<a href="https://ieeexplore.ieee.org/document/6461748" target="_blank">Link</a>) <br> _6th Int. Conf. on Sensing Technology_, Kolkata, India (pp. 589-594). IEEE (2012) <br>  Ghosh S, Saha H, Roychaudhuri C, **Ojha VK**, Dutta P
 34. Sensor array for manhole gas analysis (<a href="https://ieeexplore.ieee.org/document/6260863" target="_blank">Link</a>) <br> _1st Int. Symp. on Physics and Technology of Sensors_, Mumbai, India (pp. 9--12). IEEE (2012) <br> Ghosh S, Roy A, Singh S,  **Ojha VK**, Dutta P 
 
+
+
 ### Workshop Papers, Posters, and Abstracts
 1. Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany. German National Library. <br> **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016)
 1. Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy (<a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">PDF</a>) <br> _ECMWF Workshop_, Reading, UK (2020) <br> Ayers D, Amezcua J , **Ojha V**, Carrassi A, Leeuwen PJ
 
+
+
 ### Tech Reports
 1. ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">PDF</a>) <br> _Tech. Report_, ETH Zurich, Switzerland (2017) <br> Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G
+
+
 
 ### Edited Proceedings	
 1. 7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163)  <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">Link</a>) <br>
 Nicosia G, **Ojha V**,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R
 3. 6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565) (<a href="https://www.springer.com/gp/book/9783030645793" target="_blank">Link</a>) <br>
 Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  
+
 
 
 ### Thesis
