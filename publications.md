@@ -75,7 +75,7 @@ title: Publications
 1.  Ayers D , Amezcua J , **Ojha V**, Carrassi A, Leeuwen PJ.  (2020). Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy. _ECMWF Workshop_, Reading, UK. (<a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">PDF</a>)
 
 ### Tech Reports
-1. Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G. (2017). ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos, _Tech. Report_, ETH Zurich, Switzerland. (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">PDF</a>)
+1. ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">PDF</a>) <br> _Tech. Report_, ETH Zurich, Switzerland (2017) <br> Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G
 
 ### Edited Proceedings	
 1. 7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163)  <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">Link</a>) <br>
