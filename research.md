@@ -94,7 +94,7 @@ urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.
 1. Braund T (2019) Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
 
 ### Code Repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
-I programe in Java (since 2005), Python (mostly these days for machine learning), MATLAB (ocasionaly when need be), C++ (when I am looking to speed up my code). Following are a few examples of algorithms, tools, and sofware I have developed over the years. 
+I program in Java (since 2005), Python (mostly these days for machine learning), MATLAB (occasionally when need be), and C++ (when I am looking to speed up my code). Following are a few examples of algorithms, tools, and software I have developed over the years.
 1. Backpropagation Neural Tree (BNeuralT) (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>)
 1. Neural-Tree-Software (<a href="https://github.com/vojha-code/Neural-Tree-Software" target="_blank">Code</a>)
 1. Neural-Network-Predictor Software(<a href="https://github.com/vojha-code/Neural-Network-Predictor" target="_blank">Code</a>)
