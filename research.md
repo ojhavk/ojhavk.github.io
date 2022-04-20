@@ -39,9 +39,9 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 
 **Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions.
 
-Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimisation** I am working on are:
+Other interdisciplinary research titles in the areas of applied **Evolutionary Computation** and **Optimisation** I am worked on are:
 1. A multiobjective evolutionary algorithm application for the prediction of the best strain and production of chemicals (System Biology).  <br>
-**_Submitted paper:_** Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://orcid.org/0000-0002-0650-3157" target="_blank">Nicosia G</a>, (2022) Microbial Cell Factories Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_.
+Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://orcid.org/0000-0002-0650-3157" target="_blank">Nicosia G</a>, (2022) Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals, _Biotechnology and Bioengineering_. (See  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Paper</a>)
 1. An application of derivative-free optimisations algorithms for the optimisation of  Space Truss Structures (Civil Engineering). <br>
 **_Submitted paper:_** **Ojha V**, <a href="https://www.imperial.ac.uk/people/b.panto" target="_blank">Panto B</a>, Nicosia G (2022) Incremental hypersphere algorithm for buckling analysis of space truss structures, _Engineering Applications of Artificial Intelligence_.
 
@@ -65,10 +65,6 @@ Daniel Ayers (2019–2022) Using supervised learning to estimate local instabili
 
 **_Submitted paper:_** Ayers D, Lau J, Amezcua J, Carrassi A, **Ojha V**, (2022) Supervised learning to estimate local dynamical instabilities in chaotic systems: computation of local Lyapunov exponents, _Quarterly Journal of the Royal Meteorological Society_.
 
-
-Rhian Taylor (2020–2023) Sensitivity Analysis of Deep Neural Networks, UoR, UK. (current output: <a href="https://centaur.reading.ac.uk/100199/" target="_blank">paper</a>)
-
-**Questions**: _We investigate novel approaches to ranking and understanding the influence of deep learning (DL) hyper-parameters through the application of sensitivity analysis (SA). We investigate how shallow and deeper models are susceptible to hyper-parameters affecting their convergence profiles. We try to understand how the stochasticity of the learning process of deeper models showed sensitivity to hyper-parameters and how hyperparameters influence the convergence speed. Additionally, we try to understand how the complexity of the dataset can affect the margin of separation between the sensitivity measures of the most and the least influential parameters_.
 
 #### Selected Master and Bachelor Student Projects
 ##### Selected Master Student Projects
