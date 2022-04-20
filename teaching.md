@@ -24,6 +24,10 @@ I have designed and taught the following courses / module / subjects at UG and P
 1. Artificial Intelligence, PG, Visva-Bharati University, 2012
 1. Artificial Neural Networks, PG, Visva-Bharati University, 2011
 
+### Teaching Awards
+1. Received School’s Excellence in Teaching & Learning Award for implementing an _industrial certification_ to the Data Mining module, UoR, UK, 2019
+1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
+
 ### Other Teaching Activities
 1. Workshop on Artificial Intelligence, Mathematical Modelling for Pharmacology, University of Reading, 03/2022 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/UoR_AI_in_Pharmacology_Workshop_04_Mar_22.pdf" target="_blank">Lecture Slides</a>)
 2. Educator of **Massive Open Online Course**, Begin Programming, Reading, 2019 – 2021 (<a href="https://www.futurelearn.com/courses/begin-programming" target="_blank">FutureLearn</a>)
@@ -34,9 +38,6 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 7. Lecturer of Artificial Intelligence **Teasers Lecture on Open days**, 2019 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Open_Days_Reading/2019_AI_OpenDay_UoR_Varun.pdf" target="_blank">Slides</a>)
 8. Invited Lecturer of Huawei HCIA-AI course on AI, 09/2020, 02/2021
 
-### Teaching Awards
-1. Received School’s Excellence in Teaching & Learning Award for implementing an _industrial certification_ to the Data Mining module, UoR, UK, 2019
-1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
 
 ### Examples of Innovation in Teaching & Learning
 1. As a _Degree Project Coordinator_ at the Department of Computer Science, University of Reading, (2019-2021), I improved the students and staff experiences by introducing **novel and innovative ideas** like
