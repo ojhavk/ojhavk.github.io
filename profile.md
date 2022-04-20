@@ -66,7 +66,7 @@ LOD 2020, Siena, Italy, July 19–23, 2020. (<a href="https://lod2020.icas.xyz/"
 1. Chair of a Curriculum Review Working Group, Department of Computer Science, UoR, 2019
 1. Member of a Wellbeing, Inclusion, Diversity and Equality Committee, UoR, 2020 – present
 1. Chair of PhD Monitoring Committee, Department of Computer Science, UoR, 2018–present
-1. Co-Developer of an Industry-Academic Certification, Department of Computer Science, UoR, 2019
+1. Co-Developer of an Industry-Academic Certification, Dept of Computer Science, UoR, 2019
 1. Member of Center for Mathematics of Planet Earth, University of Reading, 2020–2021
 1. Co-host of UKIEPC - The UK & Ireland Programming Contest 2018 at UoR
 1. Reviewer of PhD Thesis at the University of Reading, 2020
@@ -105,7 +105,7 @@ Public Talk, TVAI Hub, Reading, UK
 1. 3rd Eur. Netw. Intell. Conf. ENIC 2016 Wrocław, Poland, 09/2016
 1. IEEE World Congress on Computational Intelligence, Vancouver, Canada, 07/2016 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2016_WCCI.pdf" target="_blank">Slides</a>)
 1. Int. Congr. on Particle Tech. PARTEC 2016, Nuremberg, Germany, 04/2016
-1. 7th World Cong. on Nature and Biologically Inspired Comput. Pietermaritzburg, South Africa, 12/2015
+1. 7th World Cong. on Nature and Biologically Inspired Comput. South Africa, 12/2015
 1. 2nd Int. Afro-European Conf. for Ind. Adv. Paris, France, 09/2015
 1. 14th Int. Conf. on Intell. Syst. Design and Appl. Okinawa, Japan, 12/2014
 1. 6th World Cong. on Nature and Biologically Inspired Comput. Porto, Portugal, 07/2014
@@ -125,17 +125,17 @@ Public Talk, TVAI Hub, Reading, UK
 1. 2nd Advance Data Science Conference, Manchester, UK, 05/2019
 1. Advance Data ScienceWorkshop, KNIME Summit, Berlin, Germany, 03/2019
 1. Technical Writing Skills for Future S&T Leaders, Babes-Bolyai University, Romania, 09/2015
-1. The 4th IPROCOM Advance Training Course on ResearchWriting Skills, AstraZeneca Plc. UK, 03/2015
+1. The 4th IPROCOM Advance Course on Research Writing Skills, AstraZeneca Plc. UK, 03/2015
 1. Intelligent Modeling, Techniques & Applications, Jagiellonian University, Kraków, Poland, 10/2014
 1. Multiscale Modeling: Theory & Application, Ecole des Mines Albi, France, 07/2014
-1. The 3rd Int. Cybernetics Summer School, Technical University of Ostrava, Czech Republic, 06/2014
+1. The 3rd Int. Cybernetics Summer School, TUO, Czech Republic, 06/2014
 1. The 1st IPROCOM Training Course, Research Center Pharmaceutical Eng., Graz, Austria, 01/2014
 
 ### Research Visits
 1. University of Surrey, Guildford, UK, 05/2015 (<a href="https://arxiv.org/abs/1709.04318" target="_blank">Published work</a>)
 1. Jagiellonian University, Kraków, Poland, 11/2015 (<a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Published work</a>)
 1. Heinrich-Heine-University, Düsseldorf, Germany, 10/2015
-1. Indian Institute of Engineering, Science and Technology, Shibpur, India, 2011--2013 (<a href="https://arxiv.org/abs/1707.00561" target="_blank">Published work</a>)
+1. Indian Institute of Engineering, Science and Technology, India, 2011--2013 (<a href="https://arxiv.org/abs/1707.00561" target="_blank">Published work</a>)
 
 <!---### Professional Membership
 1. Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
