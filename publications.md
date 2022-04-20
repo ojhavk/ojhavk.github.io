@@ -14,7 +14,7 @@ title: Publications
 
 ### Journal Papers
  
-1. Vandaele R, Dance SL, **Ojha V**. (in review, Feb 2022) Calibrated river-level estimation from river-cameras using convolutional neural networks, _Environmental Data Science_,Cambridge University Press. 
+1. Calibrated river-level estimation from river-cameras using convolutional neural networks, <br> _Environmental Data Science_,Cambridge University Press.<br> Vandaele R, Dance SL, **Ojha V**. (in review, Feb 2022) 
 2. Ayers D, Lau J, Amezcua J,  Carrassi A, **Ojha V** (in review, Feb 2022) Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents, _Quarterly Journal of the Royal Meteorological Society_, Wiley (<a href="https://arxiv.org/pdf/2202.04944.pdf" target="_blank">PDF</a>)
 3. **Ojha V**, Greco A, Timmis J, and Nicosia G (in revision, Oct 2021) Assessing ranking and effectiveness of evolutionary algorithm hyperparameters using global sensitivity analysis methodologies, _Swarm and Evolutionary Computation_, Elsevier (<a href="https://github.com/vojha-code/SAofEAs}{\color{teal}" target="_blank">PDF</a>})    
 4. **Ojha V**, Panto, B, Nicosia G. (in review, Dec 2021). Hypersphere search algorithm for buckling analysis of space truss structures, _Engineering Applications in Artificial Intelligence_, Elsevier  (<a href="https://github.com/vojha-code/equilibrium}{\color{teal}" target="_blank">PDF</a>})
