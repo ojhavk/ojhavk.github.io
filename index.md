@@ -13,7 +13,7 @@ layout: default
 
 ## Varun Ojha, PhD
 
-Lecturer (Assistant Professor) of University of Reading, United Kingdom
+Lecturer (Assistant Professor), University of Reading, United Kingdom
 
 **Research Interest**
 
