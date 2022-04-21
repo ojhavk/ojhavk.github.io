@@ -31,13 +31,11 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 1. Degree Project Coordinator <br> Department of Computer Science, the University of Reading (2019 – ongoing)
 
 ### Funding
-1. Innovate UK Knogledge transfer project (£113,740) 2019 - 2021 
-2. Innovate UK Knogledge transfer project (£116,007) 2021 - 2023 
-3. EPSRC's University of Reading DTP PhD project (£66,000) 2019, 2023 
-4. Kosnic Liting Ltd. PhD project (£33,000) 2019, 2022 and EPSRC's University of Reading DTP PhD project (£33,000) 2019, 2022
-<!---
-1. **EPSRC (UK)** Doctoral Training Program projects from the University of Reading (£120K): a) Artificial intelligence-enabled smart eco assisted living space (PI) and b) Combining machine learning and data assimilation to estimate model errors (Co-I). 
-1. **Innovate UK** projects (£230K): a) a project with Optimal Monitoring on natural language processing for customer feedback and response systems (advisor) b) a project with CrowdCharge on time-series forecasting for electric vehicle charging preferences (advisor). --->
+1. Co-I, Innovate UK Knogledge transfer project with Optimal Monitoring (£113,740) 2019 - 2021 
+2. Co-I, Innovate UK Knogledge transfer project with CrowdCharge (£116,007) 2021 - 2023 
+3. Co-I, EPSRC's University of Reading DTP PhD project (£66,000) 2019, 2023 
+4. PI, Kosnic Liting Ltd. PhD project (£33,000) 2019, 2022 and EPSRC's University of Reading DTP PhD project (£33,000) 2019, 2022
+
 
 ### Awards & Honors
 1. Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
