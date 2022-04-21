@@ -88,6 +88,9 @@ Pattern Analysis and Application, Springer.
 
 ### Research Talks & Presentations
 
+
+1. Machine Learning is a Search Problem 02/2020 (<a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, UK
+
 #### Invited Talks
 1. Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
 Public Talk, TVAI Hub, Reading, UK 
