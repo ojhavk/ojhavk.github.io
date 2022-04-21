@@ -46,45 +46,42 @@ Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://or
 
 ### Research Supervision Projects
 #### Current Postdoc
-Remy Vandaele (2020–), Machine learning for high-impact weather and flood prediction (co-supervision
-with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a> of Mathematics Department), UoR, UK. (current output: a <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and a <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>)
+
+Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–present) <br> (co-supervision
+with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a> of Mathematics Department), UoR, UK. (outputs <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and a <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>)
 
 **Project**: _We investigate how Transfer Learning and Semantic Segmentation can be applied to predict flood events. We use the river Camra Images of FasonDigital Watercams as our data source and the past flood events of the UK as case studies. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91%  for the flood event on the rivers Severn and Avon, UK. Currently, we are trying to investigate a large volume of data by combining river gauge data time-series with image data time-series and offering an automated flood monitoring system_.  
 
 #### Current PhD Student Projects
-Chandresh Parvin (2019–2022), Signal Processing for the Robustness Analysis of Deep Neural Networks, UoR (current output: <a href="https://centaur.reading.ac.uk/99457/" target="_blank">paper</a>)
 
-**Questions**: _We investigate methodologies to expose the weaknesses of deep neural networks against adversarial attacks. We aim to answer what and why adversaries target some features from a learned representation instead of others. We aim to evaluate the structural robustness of deep neural networks with respect to a clean dataset and the dataset applied to a single-step adversarial perturbation in the input space with respect to increasing generalisation loss. Moreover, we aim to apply signal processing techniques to perturb neural synapses globally and locally to analyse how the network response varies for the perturbed and unperturbed inputs_.
-
-
-Daniel Ayers (2019–2022) Using supervised learning to estimate local instabilities in chaotic systems: computation of local Lyapunov exponents, UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>, current output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>)
-
-**Questions**: _In dynamical systems such as those to predict the weather, prediction errors grow faster in some situations than in others. Knowledge about the growth of prediction errors at the current time could enable strategies to quantify or mitigate error growth. The theory of Lyapunov exponents measures the rate at which very small prediction errors grow. Calculating Lyapunov exponents exactly requires the tangent-linear model and orthogonalisation algorithms. These are computationally expensive. We investigate whether supervised machine learning can provide a cheaper alternative. Specifically, we test the ability of popular supervised learning methods to predict the local Lyapunov exponents in two low-dimensional chaotic dynamical systems. We find that the predictions are accurate in certain cases, and we suggest how this difference in performance might be explained_. 
+1. Signal Processing for the Robustness Analysis of Deep Neural Networks <br> Chandresh Parvin (2019–2022) UoR (current output: <a href="https://centaur.reading.ac.uk/99457/" target="_blank">paper</a>)
+2. Using supervised learning to estimate local instabilities in chaotic systems <br> Daniel Ayers (2019–2022) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>, current output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>)
 
 
 #### Selected Master and Bachelor Student Projects
 ##### Selected Master Student Projects
-1. Jaikumar P (2020) Transfer learning for segmentation of waste bottles using Mask R-CNN (<a href="https://centaur.reading.ac.uk/98569/" target="_blank">Conference Paper</a>)
-1. Desai SV (2021) Study of diffusion of nano-particles in polymer and ferrofluids using ML, (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
-1. Lau J (2021) Computing of local Lyapunov exponents using machine learning, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
-1. Ashokan V (2021)Variational Autoencoders and GANs for addressing imbalance image data, (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
-1. Peschiutta P (2020) Machine Learning modelling of die filling for pharmaceutical powders, (external co-supervision with <a href="https://www.surrey.ac.uk/people/charley-wu" target="_blank">Prof C Wu</a>), University of Padua, Padua, Italy (<a href="http://tesi.cab.unipd.it/64688/1/Peschiutta_Stefano_1190561.pdf" target="_blank">Thesis</a>)
-1. Heidi S (2018)Non-spatial and spatial statistics for analysing human’s perception of the built environment, ETH Zurich (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
-1. Charlotte S (2017) People’s perception of urban and architectural features, ETH Zurich (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
-1. Victor S (2018) Convolutional neural network based visual feature extraction for evaluation of the
-urban environment, ETH Zurich, Zurich (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
+1. Study of diffusion of nano-particles in polymer and ferrofluids using ML (<a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>) Desai SV (UoR, 2021) 
+1. Computing of local Lyapunov exponents using machine learning, UoR UK (<a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>) Lau J (UoR, 2021) 
+1. Variational Autoencoders and GANs for addressing imbalance image data (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>) Ashokan V (UoR, 2021)
+1. Transfer learning for segmentation of waste bottles using Mask R-CNN (<a href="https://centaur.reading.ac.uk/98569/" target="_blank">Paper</a>) Jaikumar P, (UoR 2020)
+1. Machine Learning modelling of die filling for pharmaceutical powders (<a href="http://tesi.cab.unipd.it/64688/1/Peschiutta_Stefano_1190561.pdf" target="_blank">Thesis</a>) Peschiutta P (University of Padua, Padua, Italy, 2020) (external co-supervision with <a href="https://www.surrey.ac.uk/people/charley-wu" target="_blank">Prof C Wu</a>)
+1. Non-spatial and spatial statistics for analysing human’s perception of the built environment, (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>) Heidi S (ETH Zurich, 2018) 
+1. Convolutional neural network based visual feature extraction for evaluation of the
+urban environment (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>) Victor S (ETH Zurich, 2018)
+1. People’s perception of urban and architectural features (<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>) Charlotte S (ETH Zurich, 2017)
+ 
 
 ##### Selected Bachelor Student Projects
-1. Ward B (2020) Classification of musical preference in generation Z through signal processing, UoR, UK (<a href="https://centaur.reading.ac.uk/98568/" target="_blank">Conference Paper</a>)
+1. Ward B (2020) Classification of musical preference in generation Z through signal processing, UoR, UK (<a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
 1. Shergill JS (2020) Machine learning for speech (English language accent) classification, UoR (<a href="https://centaur.reading.ac.uk/97785/" target="_blank">Conference Paper</a>)
-1. Young R (2021) Using DL and box speed calibration for predicting rowing boat speed, UoR (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
-1. Taemur A (2021) Audio classification using machine learning techniques, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
-1. Neele M (2021) Using neural networks for time-series analysis of UK river flow data, UoR, UK(<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
-1. Mehring C (2021) Fake news detection with neural networks, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>)
-1. Doidge KB (2021) A study into the effectiveness of recurrent neural networks for trading, (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
-1. Rickard J (2020) An analysis of NLP techniques applied to generating tweets, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
-1. Ford J (2020) Reading bus time prediction - A data science approach, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
-1. Braund T (2019) Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, UoR, UK (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
+1. Young R (2021) Using DL and box speed calibration for predicting rowing boat speed, UoR (<a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
+1. Taemur A (2021) Audio classification using machine learning techniques, UoR, UK (<a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
+1. Neele M (2021) Using neural networks for time-series analysis of UK river flow data, UoR, UK(<a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
+1. Mehring C (2021) Fake news detection with neural networks, UoR, UK (<a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>)
+1. Doidge KB (2021) A study into the effectiveness of recurrent neural networks for trading, (<a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
+1. Rickard J (2020) An analysis of NLP techniques applied to generating tweets, UoR, UK (<a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
+1. Ford J (2020) Reading bus time prediction - A data science approach, UoR, UK (<a href="n/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
+1. Braund T (2019) Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, UoR, UK (<a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
 
 ### Code Repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
 I program in Java (mainly), Python (mostly these days for machine learning), MATLAB (occasionally when need be), and C++ (when I am looking to speed up my code). Following are a few examples of algorithms, tools, and software I have developed over the years.
