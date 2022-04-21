@@ -23,9 +23,6 @@ I investigate and innovate in the areas of artificial intelligence (neural netwo
 
 I like to work with academics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v.k.ojha[at]reading.ac.uk.
 
-### Grants
-1. **EPSRC (UK)** Doctoral Training Program projects from the University of Reading (£120K): a) Artificial intelligence-enabled smart eco assisted living space (PI) and b) Combining machine learning and data assimilation to estimate model errors (Co-I). 
-1. **Innovate UK** projects (£230K): a) a project with Optimal Monitoring on natural language processing for customer feedback and response systems (advisor) b) a project with CrowdCharge on time-series forecasting for electric vehicle charging preferences (advisor).
 
 ### Current Research
 I recently worked on an algorithm called a **backpropagation neural tree**. I propose a _stochastic computational dendritic tree_ that takes random repeated inputs through its leaves and imposes dendritic nonlinearities through its internal connections as a biological dendritic tree would. This neural tree's neurons plausibly are close to the biological behaviour of neurons, dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
