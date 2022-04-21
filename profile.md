@@ -26,15 +26,15 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 <!--Advisors | Prof Vaclav Snášel, TUO, Czech Republic and Prof Ajith Abraham, MIR Labs, United States <br> -->
 
 ### Administration
-1. Deputy Director of Undergraduate Studies <br> Department of Computer Science, the University of Reading (2021 – ongoing)
-1. Chair of Board of Studies and Student Experience <br> Department of Computer Science, the University of Reading (2021 – ongoing)
-1. Degree Project Coordinator <br> Department of Computer Science, the University of Reading (2019 – ongoing)
+1. Deputy Director of Undergraduate Studies <br> Department of Computer Science, the University of Reading (2021 – present)
+1. Chair of Board of Studies and Student Experience <br> Department of Computer Science, the University of Reading (2021 – present)
+1. Degree Project Coordinator <br> Department of Computer Science, the University of Reading (2019 – present)
 
 ### Funding
 1. Co-I, Innovate UK Knogledge transfer project with Optimal Monitoring (£113,740) 2019 - 2021 
 2. Co-I, Innovate UK Knogledge transfer project with CrowdCharge (£116,007) 2021 - 2023 
-3. Co-I, EPSRC's University of Reading DTP PhD project (£66,000) 2019, 2023 
-4. PI, Kosnic Liting Ltd. PhD project (£33,000) 2019, 2022 and EPSRC's University of Reading DTP PhD project (£33,000) 2019, 2022
+3. Co-I, EPSRC's University of Reading DTP PhD project (£66,000) 2019 - 2023 
+4. PI, Kosnic Liting Ltd. PhD project (£33,000) 2019, 2022 and EPSRC's University of Reading DTP PhD project (£33,000) 2019-2022
 
 
 ### Awards & Honors
@@ -84,20 +84,9 @@ Application of Artificial Intelligence, Elsevier, Artificial Intelligence Review
 Pattern Analysis and Application, Springer.
 1. Guest Editor of Data-Driven Modeling for Smart Cities, Frontiers in Sustainable Cities, 2021
 1. Program Committee Member of KDD (2019,2020, 2021), ACM SDM22
-<!-- Co-organiser of BCS open source AI workshop, 2019 -->
 
 ### Research Talks & Presentations
 
-<!--- Test URLs
-Works opening browser
-1. Machine Learning is a Search Problem 02/2020 (<a href="https://docs.google.com/viewer?url=https://github.com/ojhavk/ojhavk.github.io/raw/7482d12e98b792114e982f4649805b9ed486a801/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, United Kingdom
-
-Works opening browser
-1. Machine Learning is a Search Problem 02/2020 (<a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, United Kingdom 2
-
-Dounloads opening browser
-1. Machine Learning is a Search Problem 02/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/raw/7482d12e98b792114e982f4649805b9ed486a801/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, United Kingdom 3
---->
 
 #### Invited Talks
 1. Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
