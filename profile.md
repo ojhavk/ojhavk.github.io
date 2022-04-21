@@ -30,11 +30,18 @@ _Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a hre
 1. Chair of Board of Studies and Student Experience <br> Department of Computer Science, the University of Reading (2021 – ongoing)
 1. Degree Project Coordinator <br> Department of Computer Science, the University of Reading (2019 – ongoing)
 
+### Funding
+1. Innovate UK Knogledge transfer project (£113,740) 2019 - 2021 
+2. Innovate UK Knogledge transfer project (£116,007) 2021 - 2023 
+3. EPSRC's University of Reading DTP PhD project (£66,000) 2019, 2023 
+4. Kosnic Liting Ltd. PhD project (£33,000) 2019, 2022 and EPSRC's University of Reading DTP PhD project (£33,000) 2019, 2022
+<!---
+1. **EPSRC (UK)** Doctoral Training Program projects from the University of Reading (£120K): a) Artificial intelligence-enabled smart eco assisted living space (PI) and b) Combining machine learning and data assimilation to estimate model errors (Co-I). 
+1. **Innovate UK** projects (£230K): a) a project with Optimal Monitoring on natural language processing for customer feedback and response systems (advisor) b) a project with CrowdCharge on time-series forecasting for electric vehicle charging preferences (advisor). --->
+
 ### Awards & Honors
-1. Received grants on two Innovate UK academic-industry partnership projects (£230K), 2019, 2021 
-1. Received grants on two EPSRC (UK) Doctoral Training Program for PhD projects, University of Reading (UoR) (£120K), 2018, 2019 
-2. Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
-3. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
+1. Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
+2. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
 4. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
 7. Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering conducted by Indian Institute of Sciences and seven IITs.
 8. Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
