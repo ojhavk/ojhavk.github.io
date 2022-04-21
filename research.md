@@ -15,16 +15,17 @@ title: Research
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I investigate and innovate in the areas of artificial intelligence (neural networks) and data science. Through my research, I try to answer the following questions:
+I work in the field of Artificial Intelligence. My main focus is on neural networks. I work on Machine Learning, Optimization and Data Science. I am specifically interested in defining Sparse Neural Computation as a dimension of neural computation. This is to achieve fast, robust, optimal learning systems. For this, I aim to take inspiration from neuroscience to inform neural design.
 
+<!---
 1. How to design fast, robust, optimal, and efficient learning systems? That is, research in the areas of lightweight, explainable and inferable neural networks and learning systems, and adversarially robust and secure networks.
 1. How to effectively solve challenging interdisciplinary problems? For example, image data (e.g., medical image), environment data (e.g. hydrology), climate data (e.g., dynamical systems).
 1. How do biological neurons behave, and how to inform the design of biologically plausible neural networks?
 
-I like to work with academics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v.k.ojha[at]reading.ac.uk.
+I like to work with academics, industry, and students on research contributing to these questions. Do read examples of my work towards answering these questions and do get in touch at v.k.ojha[at]reading.ac.uk. --->
 
 
-### Current Research
+### Select Research Outputs
 I recently worked on an algorithm called a **backpropagation neural tree**. I propose a _stochastic computational dendritic tree_ that takes random repeated inputs through its leaves and imposes dendritic nonlinearities through its internal connections as a biological dendritic tree would. This neural tree's neurons plausibly are close to the biological behaviour of neurons, dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
 ![](/imgs/tree_bio.svg)
