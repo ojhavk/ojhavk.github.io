@@ -46,7 +46,7 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
   - professional skills training sessions for student support on (<a href="/data/Professional_Skills/01_Time_managment_productivity.pdf" target="_blank">time management</a>, <a href="/data/Professional_Skills/02_Research_methods_Ethics_vojha_uor.pdf" target="_blank">research methods</a>,  <a href="/data/Professional_Skills/03_Technical_Writing_Skills_UoR.pdf" target="_blank">research writing</a>, <a href="/data/Professional_Skills/04_Research_project_mngt_vojha_uor.pdf" target="_blank">project managment</a>) and <a href="/data/Professional_Skills/05_Presenation_demo_skills_UoR.pdf" target="_blank">presentations</a>)
   - introduced a <a href="https://tinyurl.com/uorcs" target="_blank">departmental report template and writing guide</a><br>
 2. At the Department of Computer Science, University of Reading, 2021, I introduced a formal scheme for <a href="https://www.reading.ac.uk/computer-science/-/media/project/uor-main/schools-departments/computer-science/university-of-reading-department-of-computer-science-projects-flyer.pdf" target="_blank">cooperation with industries</a> on final year projects.
-3. As a _Programming in Java_ module convener (Department of Computer Science, University of Reading, 2021), I desined _computer games_ assessemnt strategy. 
+3. As a _Programming in Java Module Convener_ (Department of Computer Science, University of Reading, 2021), I designed computer games assessemnt strategy.
 
 ### Teaching & Learning Workshop Participations
 1. Technology Enhanced Learning: ABC Module Design Workshop, UoR, 10/2018
