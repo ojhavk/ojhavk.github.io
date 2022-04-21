@@ -29,13 +29,13 @@ I have designed and taught the following courses / modules / subjects at UG and 
 1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
 
 ### Other Teaching Activities
-1. Workshop on Artificial Intelligence, Mathematical Modelling for Pharmacology, University of Reading, 03/2022 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/UoR_AI_in_Pharmacology_Workshop_04_Mar_22.pdf" target="_blank">Lecture Slides</a>)
+1. Guset Lectuer of workshop on Artificial Intelligence for Mathematical Modelling in Pharmacology, UoR, 03/2022 (<a href="/data/Research_Talks/UoR_AI_in_Pharmacology_Workshop_04_Mar_22.pdf" target="_blank">Lecture Slides</a>)
 2. Educator of **Massive Open Online Course**, Begin Programming, 2019 – 2021 (<a href="https://www.futurelearn.com/courses/begin-programming" target="_blank">FutureLearn</a>)
-3. Guest Lecturer of Artificial Intelligence, Henley Business School, 2019–2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Henley_Business_School/2020_02_26_HBS_UoR_Varun.pdf" target="_blank">Lecture Slides</a>)
+3. Guest Lecturer of Artificial Intelligence, Henley Business School, 2019–2020 (<a href="/data/Henley_Business_School/2020_02_26_HBS_UoR_Varun.pdf" target="_blank">Lecture Slides</a>)
 5. Tutor of C++ Programming, UG, Visva-Bharati University, 2011
 6. Module reviewer of Text Mining and Natural Language Processing, Neurocomputation, Data Science,
 Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
-7. Lecturer of Artificial Intelligence **Teasers Lecture on Open days**, 2019 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Open_Days_Reading/2019_AI_OpenDay_UoR_Varun.pdf" target="_blank">Slides</a>)
+7. Lecturer of **Artificial Intelligence Sample Lecture on Open days**, 2019 (<a href="/data/Open_Days_Reading/2019_AI_OpenDay_UoR_Varun.pdf" target="_blank">Slides</a>)
 8. Invited Lecturer of Huawei HCIA-AI course on AI, 09/2020, 02/2021
 
 
@@ -45,7 +45,7 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
   - project-based supervisor allocation scheme
   - gradation based new assessment marking rubric
   - develop an online assessment strategy during the Covid-19 crisis
-  - professional skills training sessions for student support (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Professional_Skills" target="_blank">Lecture Slides</a> of time management, research methods & ethics, research writing, and presentations)
+  - professional skills training sessions for student support on (<a href="/data/Professional_Skills/01_Time_managment_productivity.pdf" target="_blank">time management</a>, <a href="/data/Professional_Skills/02_Research_methods_Ethics_vojha_uor.pdf" target="_blank">research methods</a>,  <a href="/data/Professional_Skills/03_Technical_Writing_Skills_UoR.pdf" target="_blank">research writing</a>, <a href="/data/Professional_Skills/04_Research_project_mngt_vojha_uor.pdf" target="_blank">project managment</a>) and <a href="/data/Professional_Skills/05_Presenation_demo_skills_UoR.pdf" target="_blank">presentations</a>)
   - introduced a <a href="https://tinyurl.com/uorcs" target="_blank">departmental report template and writing guide</a><br>
 2. At the Department of Computer Science, University of Reading, 2021, I introduced a formal scheme for <a href="https://www.reading.ac.uk/computer-science/-/media/project/uor-main/schools-departments/computer-science/university-of-reading-department-of-computer-science-projects-flyer.pdf" target="_blank">cooperation with industries</a> on final year projects<!-- (see <a href="https://www.reading.ac.uk/computer-science/work-with-us" target="_blank">OVERCLOCK YOUR BUSINESS</a> scheme) -->. In this scheme, I created procedures to induct industry co-supervisors, student recruitment, and formal agreement documents. This was a **major achievement** considering, involvement of several rounds of discussion with the industry advisory board, the knowledge transfer center, the university's marketing & engagement team, and more _importantly_, consulting the BCS accreditation requirements and approvals from the legal department, head of the department, head of schools, and university executive board.  <br>
 3. As a _Programming in Java_ module convener (Department of Computer Science, University of Reading, 2021),  I planned _computer games_ like lab exercises, i.e., I divided the weekly tasks and formative assessments into small chunks of linked tasks like _easy, medium, and hard_ levels. I colour-coded them like a traffic-light system: green, orange, and red. The objective was that once they see an easy task, they will do it, which will prompt interest to do another one. The scores of students on weekly formative assessments on questions related to weekly tasks drastically improved, and attendance and engagement of students in the Lab improved significantly on this module. 
