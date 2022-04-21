@@ -50,7 +50,8 @@ Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, <a href="https://or
 Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–present) <br> (co-supervision
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (outputs <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and a <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>)
 
-**Project**: _We investigate how Transfer Learning and Semantic Segmentation can be applied to predict flood events. We use the river Camra Images of FasonDigital Watercams as our data source and the past flood events of the UK as case studies. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91%  for the flood event on the rivers Severn and Avon, UK. Currently, we are trying to investigate a large volume of data by combining river gauge data time-series with image data time-series and offering an automated flood monitoring system_.  
+<!-- 
+**Project**: _We investigate how Transfer Learning and Semantic Segmentation can be applied to predict flood events. We use the river Camra Images of FasonDigital Watercams as our data source and the past flood events of the UK as case studies. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91%  for the flood event on the rivers Severn and Avon, UK. Currently, we are trying to investigate a large volume of data by combining river gauge data time-series with image data time-series and offering an automated flood monitoring system_.  --->
 
 #### Current PhD Student Projects
 
