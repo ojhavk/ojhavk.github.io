@@ -87,13 +87,12 @@ Pattern Analysis and Application, Springer.
 <!-- Co-organiser of BCS open source AI workshop, 2019 -->
 
 ### Research Talks & Presentations
-![](https://docs.google.com/viewer?url=https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf)
 
 #### Invited Talks
 1. Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
 Public Talk, TVAI Hub, Reading, UK 
 1. Do the dynamics of the city environment influence us, and how? 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)<br> The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy
-1. Machine Learning is a Search Problem 02/2020 (<a href="https://docs.google.com/viewer?url=https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, UK
+1. Machine Learning is a Search Problem 02/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, UK
 1. Machine Learning is a Search Problem, 11/2019 (<a href="https://research.reading.ac.uk/met-darc/news-and-events/darc-seminar-series/" target="_blank">Link</a>, <a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> DARC Seminar, University of Reading, UK
 1. Human Perception of the Urban Environment, 09/2019 (<a href="https://www.meetup.com/Thames-Valley-Artificial-Intelligence-Meetup/events/263027968/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br> TVAI public meet-up, Reading, UK, 
 1. Do the dynamics of the city environment influence us, and how?, 05/2019 (<a href="https://www.bcs.org/events-calendar/2019/may/uk-symposium-on-knowledge-discovery-and-data-mining-2019-bcs-sgai-the-specialist-group-on-artificial-intelligence/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br>  BCS, SGAI, London, UK 
