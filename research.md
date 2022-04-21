@@ -76,7 +76,7 @@ urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-col
 1. Machine learning for speech (English language accent) classification, Shergill JS (UoR, 2020, <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Paper</a>)
 1. Using DL and box speed calibration for predicting rowing boat speed, Young R (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>) 
 1. Audio classification using machine learning techniques, Taemur A (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
-1. Using neural networks for time-series analysis of UK river flow data, Neele M (UoR, 2021, (<a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
+1. Using neural networks for time-series analysis of UK river flow data, Neele M (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
 1. Fake news detection with neural networks, Mehring C (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) 
 1. A study into the effectiveness of RNNs for trading, Doidge KB (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
 1. An analysis of NLP techniques applied to generating tweets, Rickard J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
