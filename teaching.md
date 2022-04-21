@@ -15,7 +15,7 @@ My teaching interests are in _Artificial Intelligence_ and _Data Science_ areas.
 
 ### Lectures
 I have designed and taught the following courses / modules / subjects at UG and PG levels:
-1. Data Analytics, UG, University of Reading, 2021–2022 (Slides: <a href="/data/Data_Analytics_Lectures/CS1AC16_Week7.pdf" target="_blank">1</a>,<a href="/data/Data_Analytics_Lectures/CS1AC16_Week_8.pdf" target="_blank">2</a>,<a href="/data/Data_Analytics_Lectures/CS1AC16_Week_9.pdf" target="_blank">3</a>)
+1. Data Analytics, UG, University of Reading, 2021–2022 (<a href="/data/Data_Analytics_Lectures/CS1AC16_Week7.pdf" target="_blank">Slides: 1</a>,<a href="/data/Data_Analytics_Lectures/CS1AC16_Week_8.pdf" target="_blank">2</a>,<a href="/data/Data_Analytics_Lectures/CS1AC16_Week_9.pdf" target="_blank">3</a>)
 1. Artificial Intelligence, UG/PG, University of Reading, 2020–2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Artificial_Intelligence_Lecturers" target="_blank">Lecture Slides</a>)
 1. Data Mining, UG, University of Reading, 2019
 1. Fundamentals of Computer Science, UG, Reading, 2020 – 2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/tree/main/data/Fundamentals_of_Computer_Science" target="_blank">Lecture Slides</a>)
