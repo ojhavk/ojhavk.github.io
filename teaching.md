@@ -29,9 +29,9 @@ I have designed and taught the following courses / modules / subjects at UG and 
 1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
 
 ### Other Teaching Activities
-1. Guset Lectuer of workshop on Artificial Intelligence for Mathematical Modelling in Pharmacology, UoR, 03/2022 (<a href="/data/Research_Talks/UoR_AI_in_Pharmacology_Workshop_04_Mar_22.pdf" target="_blank">Lecture Slides</a>)
+1. Guset Lectuer of workshop on Artificial Intelligence for Mathematical Modelling in Pharmacology, University of Reading, 03/2022 (<a href="/data/Research_Talks/UoR_AI_in_Pharmacology_Workshop_04_Mar_22.pdf" target="_blank">Slides</a>)
 2. Educator of **Massive Open Online Course**, Begin Programming, 2019 – 2021 (<a href="https://www.futurelearn.com/courses/begin-programming" target="_blank">FutureLearn</a>)
-3. Guest Lecturer of Artificial Intelligence, Henley Business School, 2019–2020 (<a href="/data/Henley_Business_School/2020_02_26_HBS_UoR_Varun.pdf" target="_blank">Lecture Slides</a>)
+3. Guest Lecturer of Artificial Intelligence, Henley Business School, 2019–2020 (<a href="/data/Henley_Business_School/2020_02_26_HBS_UoR_Varun.pdf" target="_blank">Slides</a>)
 5. Tutor of C++ Programming, UG, Visva-Bharati University, 2011
 6. Module reviewer of Text Mining and Natural Language Processing, Neurocomputation, Data Science,
 Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
