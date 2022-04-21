@@ -17,6 +17,8 @@ title: Research
 
 I work in the field of Artificial Intelligence. My main focus is on neural networks. I work on Machine Learning, Optimization and Data Science. I am specifically interested in defining Sparse Neural Computation as a dimension of neural computation. This is to achieve fast, robust, optimal learning systems. For this, I aim to take inspiration from neuroscience to inform neural design. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis.
 
+Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk
+
 <!---
 1. How to design fast, robust, optimal, and efficient learning systems? That is, research in the areas of lightweight, explainable and inferable neural networks and learning systems, and adversarially robust and secure networks.
 1. How to effectively solve challenging interdisciplinary problems? For example, image data (e.g., medical image), environment data (e.g. hydrology), climate data (e.g., dynamical systems).
