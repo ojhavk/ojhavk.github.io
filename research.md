@@ -72,16 +72,16 @@ urban environment (<a href="https://www.research-collection.ethz.ch/handle/20.50
  
 
 ##### Selected Bachelor Student Projects
-1. Ward B (2020) Classification of musical preference in generation Z through signal processing, UoR, UK (<a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
-1. Shergill JS (2020) Machine learning for speech (English language accent) classification, UoR (<a href="https://centaur.reading.ac.uk/97785/" target="_blank">Conference Paper</a>)
-1. Young R (2021) Using DL and box speed calibration for predicting rowing boat speed, UoR (<a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
-1. Taemur A (2021) Audio classification using machine learning techniques, UoR, UK (<a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
-1. Neele M (2021) Using neural networks for time-series analysis of UK river flow data, UoR, UK(<a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
-1. Mehring C (2021) Fake news detection with neural networks, UoR, UK (<a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>)
-1. Doidge KB (2021) A study into the effectiveness of recurrent neural networks for trading, (<a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
-1. Rickard J (2020) An analysis of NLP techniques applied to generating tweets, UoR, UK (<a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
-1. Ford J (2020) Reading bus time prediction - A data science approach, UoR, UK (<a href="n/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
-1. Braund T (2019) Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, UoR, UK (<a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
+1. Classification of musical preference in generation Z through signal processing (<a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>) Ward B (UoR, 2020)
+1. Machine learning for speech (English language accent) classification (<a href="https://centaur.reading.ac.uk/97785/" target="_blank">Conference Paper</a>) Shergill JS (UoR, 2020) 
+1. Using DL and box speed calibration for predicting rowing boat speed (<a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>) Young R (UoR, 2021)
+1. Audio classification using machine learning techniques(<a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)  Taemur A (UoR, 2021)
+1. Using neural networks for time-series analysis of UK river flow data (<a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>) Neele M (UoR, 2021)
+1. Fake news detection with neural networks (<a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) Mehring C (UoR, 2021)
+1. A study into the effectiveness of recurrent neural networks for trading (<a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>) Doidge KB (UoR, 2021) 
+1. An analysis of NLP techniques applied to generating tweets (<a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>) Rickard J (UoR, 2020)
+1. Reading bus time prediction - A data science approach (<a href="n/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>) Ford J (UoR, 2020)
+1. Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot (<a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>) Braund T (UoR, 2019)
 
 ### Code Repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
 I program in Java (mainly), Python (mostly these days for machine learning), MATLAB (occasionally when need be), and C++ (when I am looking to speed up my code). Following are a few examples of algorithms, tools, and software I have developed over the years.
