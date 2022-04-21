@@ -20,7 +20,7 @@ I have designed and taught the following courses / modules / subjects at UG and 
 1. Data Mining, UG, University of Reading, 2019
 1. Fundamentals of Computer Science, UG, Reading, 2020 – 2021 (<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_01_Analysis_of_Algorithm.pdf" target="_blank">Slides: 1</a>,<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_02_Complexity_Analysis.pdf" target="_blank">2</a>,<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_03_Searching.pdf" target="_blank">3</a>,<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_04_Sorting.pdf" target="_blank">3</a>,<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_05_data_structure.pdf" target="_blank">5</a>)
 1. Programming Java (filliped lecture), UG University of Reading, 2020 – 2022
-1. Creative Data Mining, UG/PG, ETH Zürich, Switzerland, 2017–2018 (<a href="https://ia.arch.ethz.ch/category/teaching/fs2018-creative-data-mining/" target="_blank">Lecture Slides</a>, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/287572" target="_blank">Projects</a>)
+1. Creative Data Mining, UG/PG, ETH Zürich, Switzerland, 2017–2018 (<a href="https://ia.arch.ethz.ch/category/teaching/fs2018-creative-data-mining/" target="_blank">Slides</a>, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/287572" target="_blank">Projects</a>)
 1. Artificial Intelligence, PG, Visva-Bharati University, 2012
 1. Artificial Neural Networks, PG, Visva-Bharati University, 2011
 
