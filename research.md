@@ -78,6 +78,7 @@ urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-col
 1. Reading bus time prediction - A data science approach, Ford J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
 1. Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, Braund T (UoR, 2019, <a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
 
+<br>
 
 ### Code Repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
 I program in Java (mainly), Python (mostly these days for machine learning), MATLAB (occasionally when need be), and C++ (when I am looking to speed up my code). Following are a few examples of algorithms, tools, and software I have developed over the years.
