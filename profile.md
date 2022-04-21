@@ -132,10 +132,10 @@ Public Talk, TVAI Hub, Reading, UK
 1. The 1st IPROCOM Training Course, Research Center Pharmaceutical Eng., Graz, Austria, 01/2014
 
 ### Research Visits
-1. University of Surrey, Guildford, UK, 05/2015 (<a href="https://arxiv.org/abs/1709.04318" target="_blank">Published work</a>)
-1. Jagiellonian University, Kraków, Poland, 11/2015 (<a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Published work</a>)
+1. University of Surrey, Guildford, UK, 05/2015 (<a href="https://arxiv.org/abs/1709.04318" target="_blank">Work</a>)
+1. Jagiellonian University, Kraków, Poland, 11/2015 (<a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Work</a>)
 1. Heinrich-Heine-University, Düsseldorf, Germany, 10/2015
-1. Indian Institute of Engineering, Science and Technology, India, 2011--2013 (<a href="https://arxiv.org/abs/1707.00561" target="_blank">Published work</a>)
+1. Indian Institute of Engineering, Science and Technology, India, 2011--2013 (<a href="https://arxiv.org/abs/1707.00561" target="_blank">Work</a>)
 
 <!---### Professional Membership
 1. Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
