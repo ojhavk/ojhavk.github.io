@@ -30,7 +30,10 @@ I like to work with academics, industry, and students on research contributing t
 ### Select Research Outputs
 I recently worked on an algorithm called a **backpropagation neural tree**. I propose a _stochastic computational dendritic tree_ that takes random repeated inputs through its leaves and imposes dendritic nonlinearities through its internal connections as a biological dendritic tree would. This neural tree's neurons plausibly are close to the biological behaviour of neurons, dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
-![](/imgs/tree_bio.svg)
+<p align="center">
+  <img src="/imgs/tree_bio.svg" />
+</p>
+<!-- ![](/imgs/tree_bio.svg) --->
 
 **Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model ( <a href="https://www.karger.com/Article/Abstract/86707" target="_blank">Travis et al., 2005</a>), the middle is a single neuron dendritic tree (<a href="https://direct.mit.edu/neco/article-abstract/33/6/1554/100576/Might-a-Single-Neuron-Solve-Interesting-Machine?redirectedFrom=fulltext" target="_blank">Jones and Kording, 2021</a>), right is the proposed backpropagation Neural Tree. 
 
