@@ -15,7 +15,7 @@ title: Research
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I work in the field of Artificial Intelligence. My main focus is on neural networks. I work on Machine Learning, Optimization and Data Science. I am specifically interested in defining Sparse Neural Computation as a dimension of neural computation. This is to achieve fast, robust, optimal learning systems. For this, I aim to take inspiration from neuroscience to inform neural design.
+I work in the field of Artificial Intelligence. My main focus is on neural networks. I work on Machine Learning, Optimization and Data Science. I am specifically interested in defining Sparse Neural Computation as a dimension of neural computation. This is to achieve fast, robust, optimal learning systems. For this, I aim to take inspiration from neuroscience to inform neural design. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis.
 
 <!---
 1. How to design fast, robust, optimal, and efficient learning systems? That is, research in the areas of lightweight, explainable and inferable neural networks and learning systems, and adversarially robust and secure networks.
