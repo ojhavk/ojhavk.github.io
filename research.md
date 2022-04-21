@@ -50,7 +50,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 #### Current PhD Student Projects
 
 1. Signal Processing for the Robustness Analysis of Deep Neural Networks <br> Chandresh Parvin (2019–2022) UoR (current output: <a href="https://centaur.reading.ac.uk/99457/" target="_blank">paper</a>)
-2. Using supervised learning to estimate local instabilities in chaotic systems <br> Daniel Ayers (2019–2022) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>, current output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>)
+2. Using supervised learning to estimate local instabilities in chaotic systems <br> Daniel Ayers (2019–2022) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) <!--- output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) --->
 
 
 ### Select Master and Bachelor Student Projects
@@ -67,15 +67,15 @@ urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-col
  
 
 #### Selected Bachelor Student Projects
-1. Classification of musical preference in gen-Z through signal processing, Ward B (UoR, 2020, <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
-1. Machine learning for speech (English language accent) classification, Shergill JS (UoR, 2020, <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Paper</a>)
-1. Using DL and box speed calibration for predicting rowing boat speed, Young R (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>) 
+1. DL and box speed calibration for predicting rowing boat speed, Young R (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>) 
 1. Audio classification using machine learning techniques, Taemur A (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
 1. Using neural networks for time-series analysis of UK river flow data, Neele M (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
 1. Fake news detection with neural networks, Mehring C (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) 
 1. A study into the effectiveness of RNNs for trading, Doidge KB (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
+1. Classification of musical preferences through signal processing, Ward B (UoR, 2020, <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
+1. Machine learning for speech classification, Shergill JS (UoR, 2020, <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Paper</a>)
 1. An analysis of NLP techniques applied to generating tweets, Rickard J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
-1. Reading bus time prediction - A data science approach, Ford J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
+1. Reading bus time prediction-A data science approach, Ford J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
 1. Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, Braund T (UoR, 2019, <a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
 
 <br>
