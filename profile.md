@@ -88,34 +88,38 @@ Pattern Analysis and Application, Springer.
 
 ### Research Talks & Presentations
 
-
+<!--- Test URLs
+Works opening browser
 1. Machine Learning is a Search Problem 02/2020 (<a href="https://docs.google.com/viewer?url=https://github.com/ojhavk/ojhavk.github.io/raw/7482d12e98b792114e982f4649805b9ed486a801/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, United Kingdom
 
+Works opening browser
 1. Machine Learning is a Search Problem 02/2020 (<a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, United Kingdom 2
 
+Dounloads opening browser
 1. Machine Learning is a Search Problem 02/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/raw/7482d12e98b792114e982f4649805b9ed486a801/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, United Kingdom 3
+--->
 
 #### Invited Talks
 1. Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
 Public Talk, TVAI Hub, Reading, UK 
 1. Do the dynamics of the city environment influence us, and how? 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)<br> The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy
-1. Machine Learning is a Search Problem 02/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, UK
-1. Machine Learning is a Search Problem, 11/2019 (<a href="https://research.reading.ac.uk/met-darc/news-and-events/darc-seminar-series/" target="_blank">Link</a>, <a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> DARC Seminar, University of Reading, UK
+1. Machine Learning is a Search Problem 02/2020 (<a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, UK
+1. Machine Learning is a Search Problem, 11/2019 (<a href="https://research.reading.ac.uk/met-darc/news-and-events/darc-seminar-series/" target="_blank">Link</a>, <a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> DARC Seminar, University of Reading, UK
 1. Human Perception of the Urban Environment, 09/2019 (<a href="https://www.meetup.com/Thames-Valley-Artificial-Intelligence-Meetup/events/263027968/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br> TVAI public meet-up, Reading, UK, 
 1. Do the dynamics of the city environment influence us, and how?, 05/2019 (<a href="https://www.bcs.org/events-calendar/2019/may/uk-symposium-on-knowledge-discovery-and-data-mining-2019-bcs-sgai-the-specialist-group-on-artificial-intelligence/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br>  BCS, SGAI, London, UK 
 1. Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>) <br>  BCS Workshop on Open-Source AI, UoR, UK 
 1. Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>) <br>  Vellore Institute of Technology, India
 1. How we perceive our environment? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/Varun_ITA_talk_14_6_17.pdf" target="_blank">Slides</a>) <br> ITA Seminar, ETH Zürich, Switzerland 
-1. A computational intelligenceperspective of modeling and data analysis 10/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>) <br>  Heinrich-Heine-University, Düsseldorf, Germany 
-1. Adaptive tool for function approximation, 03/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> NICE Group, Computer Science, University of Surrey, UK
-1. Adaptive tool for function approximation, 03/2015 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> Computer Science, Coventry University, UK 
+1. A computational intelligenceperspective of modeling and data analysis 10/2015 (<a href="/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>) <br>  Heinrich-Heine-University, Düsseldorf, Germany 
+1. Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> NICE Group, Computer Science, University of Surrey, UK
+1. Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> Computer Science, Coventry University, UK 
 <!--1. Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015 -->
 
 #### Conference Presentations
-1. World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2021_WCGO.pdf" target="_blank">Slides</a>)
-1. IEEE World Congress on Computational Intelligence, (Online) Glasgow, UK, 06/2020 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2020_WCCI.pdf" target="_blank">Slides</a>)
+1. World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (<a href="/data/Research_Talks/Confrence_Presentations/2021_WCGO.pdf" target="_blank">Slides</a>)
+1. IEEE World Congress on Computational Intelligence, (Online) Glasgow, UK, 06/2020 (<a href="/data/Research_Talks/Confrence_Presentations/2020_WCCI.pdf" target="_blank">Slides</a>)
 1. 3rd Eur. Netw. Intell. Conf. ENIC 2016 Wrocław, Poland, 09/2016
-1. IEEE World Congress on Computational Intelligence, Vancouver, Canada, 07/2016 (<a href="https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Confrence_Presentations/2016_WCCI.pdf" target="_blank">Slides</a>)
+1. IEEE World Congress on Computational Intelligence, Vancouver, Canada, 07/2016 (<a href="/data/Research_Talks/Confrence_Presentations/2016_WCCI.pdf" target="_blank">Slides</a>)
 1. Int. Congr. on Particle Tech. PARTEC 2016, Nuremberg, Germany, 04/2016
 1. 7th World Cong. on Nature and Biologically Inspired Comput. South Africa, 12/2015
 1. 2nd Int. Afro-European Conf. for Ind. Adv. Paris, France, 09/2015
