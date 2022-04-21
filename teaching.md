@@ -66,7 +66,7 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 I think of Teaching as a _learning system_ where a feedback loop is paramount in perfecting and stabilizing the system. I sketched this thought in the following image.<br>
  
  <p align="center">
- <img src="/imgs/teaching_cycle.png" width="700">
+ <img src="/imgs/teaching_cycle.png" width="600">
  </p>
 
 <!--- ![](/imgs/teaching_cycle.png) -->
