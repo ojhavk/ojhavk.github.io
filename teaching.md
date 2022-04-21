@@ -40,15 +40,13 @@ Algorithms and Tools, and Algorithms, University of Reading, 2019–2021
 
 
 ### Examples of Innovation in Teaching & Learning
-1. As a _Degree Project Coordinator_ at the Department of Computer Science, University of Reading, (2019-2021), I improved the students and staff experiences by introducing **novel and innovative ideas** like
-  - staff-student interaction sessions (e.g., poster session and academic tutor meeting session to let students gain view other than supervisor)
+1. As a _Degree Project Coordinator_ at the Department of Computer Science, University of Reading, (2019-2021), I introduced 
   - project-based supervisor allocation scheme
-  - gradation based new assessment marking rubric
-  - develop an online assessment strategy during the Covid-19 crisis
+  - a new assessment marking rubric
   - professional skills training sessions for student support on (<a href="/data/Professional_Skills/01_Time_managment_productivity.pdf" target="_blank">time management</a>, <a href="/data/Professional_Skills/02_Research_methods_Ethics_vojha_uor.pdf" target="_blank">research methods</a>,  <a href="/data/Professional_Skills/03_Technical_Writing_Skills_UoR.pdf" target="_blank">research writing</a>, <a href="/data/Professional_Skills/04_Research_project_mngt_vojha_uor.pdf" target="_blank">project managment</a>) and <a href="/data/Professional_Skills/05_Presenation_demo_skills_UoR.pdf" target="_blank">presentations</a>)
   - introduced a <a href="https://tinyurl.com/uorcs" target="_blank">departmental report template and writing guide</a><br>
-2. At the Department of Computer Science, University of Reading, 2021, I introduced a formal scheme for <a href="https://www.reading.ac.uk/computer-science/-/media/project/uor-main/schools-departments/computer-science/university-of-reading-department-of-computer-science-projects-flyer.pdf" target="_blank">cooperation with industries</a> on final year projects<!-- (see <a href="https://www.reading.ac.uk/computer-science/work-with-us" target="_blank">OVERCLOCK YOUR BUSINESS</a> scheme) -->. In this scheme, I created procedures to induct industry co-supervisors, student recruitment, and formal agreement documents. This was a **major achievement** considering, involvement of several rounds of discussion with the industry advisory board, the knowledge transfer center, the university's marketing & engagement team, and more _importantly_, consulting the BCS accreditation requirements and approvals from the legal department, head of the department, head of schools, and university executive board.  <br>
-3. As a _Programming in Java_ module convener (Department of Computer Science, University of Reading, 2021),  I planned _computer games_ like lab exercises, i.e., I divided the weekly tasks and formative assessments into small chunks of linked tasks like _easy, medium, and hard_ levels. I colour-coded them like a traffic-light system: green, orange, and red. The objective was that once they see an easy task, they will do it, which will prompt interest to do another one. The scores of students on weekly formative assessments on questions related to weekly tasks drastically improved, and attendance and engagement of students in the Lab improved significantly on this module. 
+2. At the Department of Computer Science, University of Reading, 2021, I introduced a formal scheme for <a href="https://www.reading.ac.uk/computer-science/-/media/project/uor-main/schools-departments/computer-science/university-of-reading-department-of-computer-science-projects-flyer.pdf" target="_blank">cooperation with industries</a> on final year projects.
+3. As a _Programming in Java_ module convener (Department of Computer Science, University of Reading, 2021), I desined _computer games_ assessemnt strategy. 
 
 ### Teaching & Learning Workshop Participations
 1. Technology Enhanced Learning: ABC Module Design Workshop, UoR, 10/2018
