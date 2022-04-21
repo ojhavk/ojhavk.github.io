@@ -10,7 +10,7 @@ title: CV
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a> --->
 
-## Profile
+## Curriculum vitae
 
 IEEE Senior Member, Fellow of the Higher Education Academy, UK
 
