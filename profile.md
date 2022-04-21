@@ -87,6 +87,7 @@ Pattern Analysis and Application, Springer.
 <!-- Co-organiser of BCS open source AI workshop, 2019 -->
 
 ### Research Talks & Presentations
+![](https://docs.google.com/viewer?url=https://github.com/ojhavk/ojhavk.github.io/blob/main/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf)
 
 #### Invited Talks
 1. Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
