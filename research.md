@@ -15,7 +15,7 @@ title: Research
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I work in the field of Artificial Intelligence: Machine Learning, Optimization and Data Science. My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve the goals. I aim to integrate inspiration from neuroscience to inform neural design in the long term.
+I work in the field of Artificial Intelligence: Machine Learning, Optimization and Data Science. My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term.
 
 I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk..   
 
