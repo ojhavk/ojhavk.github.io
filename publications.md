@@ -75,7 +75,7 @@ title: Publications
 
 
 ### Workshop Papers, Posters, and Abstracts
-1. <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents <br>
+1. <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents </a> <br>
 EGU General Assembly 2022 Vienna, Austria, 23–27 May 2022 <br>
 Ayers D, Lau J, Amezcua J, Carrassi A, and **Ojha V**
 2. Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany. German National Library. <br> **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016)
