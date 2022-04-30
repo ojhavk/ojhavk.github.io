@@ -78,8 +78,8 @@ title: Publications
 1. <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents </a> <br>
 EGU General Assembly 2022 Vienna, Austria, 23–27 May 2022 <br>
 Ayers D, Lau J, Amezcua J, Carrassi A, and **Ojha V**
-2. Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany. German National Library. <br> **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016)
 3. <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy</a> <br> _ECMWF Workshop_, Reading, UK (2020) <br> Ayers D, Amezcua J , **Ojha V**, Carrassi A, Leeuwen PJ
+4. Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany. German National Library. <br> **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016)
 
 
 
