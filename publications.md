@@ -63,7 +63,7 @@ title: Publications
 25. <a href="https://centaur.reading.ac.uk/93563/" target="_blank">Design and implementation of an improved datacenter broker policy to improve the QoS of a cloud</a> <br> _Proc. 5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava, Czech Republic (pp. 281--290). Springer (2014) <br> Chatterjee T, **Ojha VK**, Adhikari M,  Banerjee S, Biswas U, Snášel V
 26. <a href="https://centaur.reading.ac.uk/93562/" target="_blank">A framework of secured and bio-inspired image steganography using chaotic encryption with genetic algorithm optimization</a> <br> _Proc. 5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava, Czech Republic (pp. 271--280). Springer (2014) <br> Bandyopadhyay D, Dasgupta K, Mandal JK, **Ojha VK**, Snášel V
 27. <a href="https://irma-international.org/viewtitle/72516/?isxn=9781466625181" target="_blank">Performance comparison of different intelligent techniques applied on detecting proportion of different component in manhole gas mixture</a> <br>  _Handbook of Research on Computational Intelligence for Engineering, Science, and Business_, (pp. 758--785). IGI Global (2013) <br> **Ojha VK**, Dutta P 
-28. Conjugate gradient trained neural network for intelligent sensing of manhole gases to avoid human fatality <br> _Advances in Secure Computing, Internet Services, and Applications_ (pp. 257--280). IGI Global (2013) <br> Dutta P, **Ojha VK**
+28. <a href="https://www.researchgate.net/publication/272093711_Conjugate_Gradient_Trained_Neural_Network_for_Intelligent_Sensing_of_Manhole_Gases_to_Avoid_Human_Fatality_Conjugate_Gradient_Trained_Neural_Network_for_Intelligent_Sensing_of_Manhole_Gases" target="_blank" > Conjugate gradient trained neural network for intelligent sensing of manhole gases to avoid human fatality</a> <br> _Advances in Secure Computing, Internet Services, and Applications_ (pp. 257--280). IGI Global (2013) <br> Dutta P, **Ojha VK**
 29. <a href="https://ieeexplore.ieee.org/document/6724328" target="_blank">Study of various conjugate gradient based ANN training methods for designing intelligent manhole gas detection system</a> <br> _2nd Int. Symp. on Comput. and Business Intell._, New Delhi, India (pp. 83--87). IEEE (2013) <br> **Ojha VK**, Dutta P, Chaudhuri A, Saha H
 30. <a href="http://www.ipcsit.com/vol37/003-ICINT2012-I019.pdf" target="_blank">Detection of the proportion of different gas components present in manhole gas mixture using backpropagation neural network</a> <br> _Int. Proc. of Comput. Sc. Inf. Tech. 37_ pp. 11--15. (2012) <br> **Ojha VK**, Dutta P, Saha H, Ghosh S
 31. <a href="https://ieeexplore.ieee.org/document/6305597" target="_blank">A novel neuro simulated annealing algorithm for detecting proportion of component gases in manhole gas mixture</a> <br> _3rd Int. Conf. on Adv. in Comput. and Commun._, Kochi, India (pp. 238--241). IEEE (2012) <br> **Ojha VK**, Dutta P, Saha H, Ghosh S 
@@ -75,8 +75,11 @@ title: Publications
 
 
 ### Workshop Papers, Posters, and Abstracts
-1. Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany. German National Library. <br> **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016)
-1. Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy (<a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">PDF</a>) <br> _ECMWF Workshop_, Reading, UK (2020) <br> Ayers D, Amezcua J , **Ojha V**, Carrassi A, Leeuwen PJ
+1. <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents <br>
+EGU General Assembly 2022 Vienna, Austria, 23–27 May 2022 <br>
+Ayers D, Lau J, Amezcua J, Carrassi A, and **Ojha V**
+2. Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany. German National Library. <br> **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016)
+3. <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy</a> <br> _ECMWF Workshop_, Reading, UK (2020) <br> Ayers D, Amezcua J , **Ojha V**, Carrassi A, Leeuwen PJ
 
 
 
