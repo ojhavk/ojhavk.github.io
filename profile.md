@@ -16,7 +16,7 @@ IEEE Senior Member, Fellow of the Higher Education Academy, UK
 
 ### Education
 PhD in Computer Science, Technical University of Ostrava, Czech Republic <br>
-_Feature Selection and Function Approximation Using Adaptive Algorithms_ (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)  <br>
+<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">_Feature Selection and Function Approximation Using Adaptive Algorithms_</a>)  <br>
 
 
 ### Employment
