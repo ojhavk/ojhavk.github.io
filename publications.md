@@ -41,7 +41,7 @@ title: Publications
 1. <a href="https://centaur.reading.ac.uk/99457/" target="_blank">Adversarial robustness in deep learning: Attacks on fragile neurons</a> <br>  _The 30th Int. Conf. on Artificial Neural Networks_, ICANN (pp 16-28), Springer, LNCS, Bratislava, Slovakia (2021) <br> Pravin C, Martino I, Nicosia G, **Ojha V** 
 2. <a href="https://centaur.reading.ac.uk/100199/" target="_blank">Sensitivity analysis for deep learning: Ranking hyper-parameter influence</a> <br> _33rd IEEE Int. Conf. on Tools with Artificial Intelligence_, ICTAI. IEEE (2021) <br> Taylor R, Martino I, Nicosia G, **Ojha V**
 3. <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Automated water segmentation and river level detection on images using transfer learning</a> <br> _42nd DAGM German Conference on Pattern Recognition, DAGM GCPR_, Tubingen, Germany, _Proceedings 42_ (pp. 232–245). Springer, LNCS (2020) <br> Vandaele R, Dance SL, **Ojha V**
-4. <a href="https://centaur.reading.ac.uk/94588/" target="_blank">A novel ECG signal denoising filter selection algorithm based on conventional neural networks</a> <br> _19th IEEE Int. Conf. on Machine Learning and Appl._, ICMLA, Miami, Florida (pp. 1094--1100). (2020) <br> Pravin C, **Ojha V** 
+4. <a href="https://centaur.reading.ac.uk/94588/" target="_blank">A novel ECG signal denoising filter selection algorithm based on conventional neural networks</a> <br> _19th IEEE Int. Conf. on Machine Learning and Appl._, ICMLA, Miami (pp. 1094--1100). (2020) <br> Pravin C, **Ojha V** 
 6. <a href="https://centaur.reading.ac.uk/90076/" target="_blank">Multi-objective optimization of multi-output neural tree</a> <br> _IEEE Congress on Evolutionary Computation_ (CEC), Glasgow, UK (pp. 1--8). IEEE. (2020) <br> **Ojha V**, Nicosia G 
 9. <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Accent and gender recognition from English language speech and audio using signal processing and deep learning</a> <br> _20th Int. Conf. on Hybrid Intelligent Systems_, (pp. 62--72).  Springer (2020) <br> Shergill JS, Pravin C, **Ojha V** 
 10. <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Classification of musical preference in generation Z through EEG signal processing and machine learning</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_, (pp. 117-127). Springer. (2020) <br> Ward B, Pravin C, Chetcuti A, Hayashi Y, **Ojha V** 
@@ -89,7 +89,7 @@ Ayers D, Lau J, Amezcua J, Carrassi A, and **Ojha V**
 
 
 ### Edited Proceedings	
-1. <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">7th International Conference Machine Learning, Optimization, and Data Science</a>, LOD 2021, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163) <br>
+1. <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021</a>, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163) <br>
 Nicosia G, **Ojha V**,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R
 3. <a href="https://www.springer.com/gp/book/9783030645793" target="_blank">6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020</a>, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565)  <br>
 Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  
