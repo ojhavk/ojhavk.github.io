@@ -25,6 +25,7 @@ I have designed and taught the following courses / modules / subjects at UG and 
 1. Artificial Neural Networks, PG, Visva-Bharati University, 2011
 
 ### Teaching Awards
+1. Received School’s Excellence in Teaching & Learning Award for implementing an _industrial cooperation on projects_ , UoR, UK, 2022
 1. Received School’s Excellence in Teaching & Learning Award for implementing an _industrial certification_ to the Data Mining module, UoR, UK, 2019
 1. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
 
