@@ -39,8 +39,9 @@ Research Fellow, _Visva-Bharati University_, India <br>
 
 
 ### Awards & Honors
-1. Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
-2. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
+1. Received School’s Excellence in Teaching & Learning Award for implementing an _industrial cooperation on projects_ , UoR, UK, 2022
+2. Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
+3. Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
 4. Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
 7. Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering conducted by Indian Institute of Sciences and seven IITs.
 8. Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
