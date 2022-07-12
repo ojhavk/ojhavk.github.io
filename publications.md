@@ -31,13 +31,13 @@ title: Publications
 18. <a href="https://doi.org/10.3233/HIS-160216" target="_blank">A multi-agent concurrent neurosimulated annealing algorithm: A case study on intelligent sensing of manhole gases </a> <br> _International Journal of Hybrid Intelligent Systems, 12_(4), 185--202. IOS Press (2016) <br> **Ojha VK**, Dutta P, Chaudhuri A, Saha H 
 19. <a href="https://doi.org/10.3233/HIS-160215" target="_blank">Understating continuous ant colony optimization for neural network training: A case study on intelligent sensing of manhole gas components </a> <br>  _International Journal of Hybrid Intelligent Systems, 12_(4), 203--217. IOS Press (2016) <br> **Ojha VK**, Dutta P, Chaudhuri A, Saha H 
 20. <a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Dimensionality reduction and function approximation of poly(lactic-co-glycolic acid) micro-and nano-particle dissolution rate </a> <br> _International Journal of Nanomedicine, 10_, 1119--1129. (2015) <br> **Ojha VK**, Jackowski K, Abraham A, Snášel V 
-
+<!---
 **Preprint**
  
 1. <a href="/data/papers/Remy_et_al_EDS.pdf" target="_blank">Calibrated river-level estimation from river-cameras using convolutional neural networks</a> <br> _Environmental Data Science_,Cambridge University Press (in review, Feb 2022) <br> Vandaele R, Dance SL, **Ojha V**.  
 2. <a href="https://arxiv.org/pdf/2202.04944.pdf" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (in review, Feb 2022)  <br> Ayers D, Lau J, Amezcua J, Carrassi A, **Ojha V** 
 5. <a href="/data/papers/Ojha_et_al_2022_EAAI.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (in review, Dec 2021) <br> **Ojha V**, Panto, B, Nicosia G
-
+-->
 
 
 ### Conference Papers 
