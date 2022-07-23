@@ -31,6 +31,7 @@ title: Publications
 18. <a href="https://doi.org/10.3233/HIS-160216" target="_blank">A multi-agent concurrent neurosimulated annealing algorithm: A case study on intelligent sensing of manhole gases </a> <br> _International Journal of Hybrid Intelligent Systems, 12_(4), 185--202. IOS Press (2016) <br> **Ojha VK**, Dutta P, Chaudhuri A, Saha H 
 19. <a href="https://doi.org/10.3233/HIS-160215" target="_blank">Understating continuous ant colony optimization for neural network training: A case study on intelligent sensing of manhole gas components </a> <br>  _International Journal of Hybrid Intelligent Systems, 12_(4), 203--217. IOS Press (2016) <br> **Ojha VK**, Dutta P, Chaudhuri A, Saha H 
 20. <a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Dimensionality reduction and function approximation of poly(lactic-co-glycolic acid) micro-and nano-particle dissolution rate </a> <br> _International Journal of Nanomedicine, 10_, 1119--1129. (2015) <br> **Ojha VK**, Jackowski K, Abraham A, Snášel V 
+
 <!---
 **Preprint**
  
