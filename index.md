@@ -17,6 +17,7 @@ layout: default
 Lecturer (Assistant Professor), University of Reading, United Kingdom
 
 **Research Interest**
+
 I work on Deep Learning, Machine Learning, Data Science, and Applied Artificial Intelligence. <br> My work has been highly interdisciplinary in nature, especially in solving complex and challenging engineering and science problems.
 
 
