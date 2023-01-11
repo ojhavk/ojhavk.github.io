@@ -13,6 +13,10 @@ title: Varun Ojha
 
 #permalink: /:title
 
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
+
 baseurl: ""
 
 sass: 
