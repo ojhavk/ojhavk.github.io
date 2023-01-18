@@ -17,7 +17,9 @@ title: Research
 
 I work in the field of Artificial Intelligence: Machine Learning, Optimization and Data Science. My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term.
 
-I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk..   
+I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3U4-7Y-epFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Select Research Outputs
 I recently worked on an algorithm called a **Backpropagation Neural Tree**. I propose a _stochastic computational dendritic tree_ that takes random repeated inputs through its leaves and imposes dendritic nonlinearities through its internal connections as a biological dendritic tree would. This neural tree's neurons plausibly are close to the biological behaviour of neurons, dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
