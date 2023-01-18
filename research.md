@@ -21,7 +21,7 @@ I like to collaborate with interdisciplinary researchers where problems introduc
 
 
 ### Deep Learning 
-(Security, Explainability and Trustworthiness)</br>
+(Security, Explainability and Trustworthiness) <br>
 In my group, we work on Deep Learning algorithms. We work on **Neural Network Architectuere Search and Analysis**. Our original works have been about developing algorithms like **Backpropagation Neural Tree**. In dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
 <p align="center">
