@@ -11,8 +11,6 @@ layout: default
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
 
-## Varun Ojha, PhD
-
 Lecturer (Assistant Professor), University of Reading, United Kingdom
 
 ## Research
