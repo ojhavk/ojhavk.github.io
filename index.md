@@ -19,9 +19,9 @@ Lecturer (Assistant Professor), University of Reading, United Kingdom
 
 We work on Deep Learning and Machine Learning. We apply Artificial Intelligence for solving complex Engineering and Science problems. Our works are higly interdeciplinary in nature. We are open to collborat with researchers from a diverse range of deciplines. We encorage you to walk though the research work on this page. 
 
-<!-- Example of our work in this webpage should encorage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term.--->
+<!-- Example of our work in this webpage should encorage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term.
 
-I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk.
+I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. --->
 
 
 ### Deep Learning 
