@@ -19,10 +19,10 @@ I work in the field of Artificial Intelligence: Machine Learning, Optimization a
 
 I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3U4-7Y-epFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Select Research Outputs
-I recently worked on an algorithm called a **Backpropagation Neural Tree**. I propose a _stochastic computational dendritic tree_ that takes random repeated inputs through its leaves and imposes dendritic nonlinearities through its internal connections as a biological dendritic tree would. This neural tree's neurons plausibly are close to the biological behaviour of neurons, dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
+### Deep Learning 
+(Security, Explainability and Trustworthiness)</br>
+In my group, we work on Deep Learning algorithms. We work on **Neural Network Architectuere Search and Analysis**. Our original works have been about developing algorithms like **Backpropagation Neural Tree**. In dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
 <p align="center">
   <img src="/imgs/tree_bio.svg" />
@@ -112,3 +112,6 @@ I program in Java (mainly), Python (mostly these days for machine learning), MAT
 1. Block-Truncation-Coding (<a href="https://github.com/vojha-code/Block-Truncation-Coding" target="_blank">Code</a>)
 1. Python-MATLAB-Communication (<a href="https://github.com/vojha-code/Python-MATLAB-Communication" target="_blank">Code</a>)
 1. Cython-Project-Hierarchy (<a href="https://github.com/vojha-code/Cython-Project-Hierarchy" target="_blank">Code</a>)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3U4-7Y-epFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
