@@ -25,24 +25,32 @@ I encourage you to walk through some example research work on this page.
 I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. --->
 
 
-### Deep Learning 
-(Security, Explainability and Trustworthiness) <br>
-In my group, we work on Deep Learning algorithms. We work on **Neural Network Architectuere Search and Analysis**. Our original works have been about developing algorithms like **Backpropagation Neural Tree**. In dendrites. This research is inspired by _neuroscience_ aspects to inform this new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
+## Deep Learning 
+(Security, Explainability and Trustworthiness of AI) <br>
+In Deep Learniing, I work on work on **Neural Network Architectuere Search and Analysis**. 
+My original works have been about developing algorithms like **Backpropagation Neural Tree** with long term goal to develop _neuroscience_ informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
 <p align="center">
   <img src="/imgs/tree_bio.svg" />
 </p>
 <!-- ![](/imgs/tree_bio.svg) --->
 
-**Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model ( <a href="https://www.karger.com/Article/Abstract/86707" target="_blank">Travis et al., 2005</a>), the middle is a single neuron dendritic tree (<a href="https://direct.mit.edu/neco/article-abstract/33/6/1554/100576/Might-a-Single-Neuron-Solve-Interesting-Machine?redirectedFrom=fulltext" target="_blank">Jones and Kording, 2021</a>), and the right is the proposed backpropagation neural tree. 
+**Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model (Travis et al., 2005), the middle is a single neuron dendritic tree (Jones and Kording, 2021), and the right is the proposed backpropagation neural tree (<a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank"> Ojha et al 2022 </a> <a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>). Check previous related work on trees (<a a href="https://arxiv.org/abs/1705.05592" target="_blank">neural tree</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">fuzzy tree</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory or complex network literature for PhD research are welcomed!
+<!-- <a href="https://www.karger.com/Article/Abstract/86707" target="_blank"> </a> <a href="https://direct.mit.edu/neco/article-abstract/33/6/1554/100576/Might-a-Single-Neuron-Solve-Interesting-Machine?redirectedFrom=fulltext" target="_blank"> This work is published in _Neural Networks_ Elsevier (check PDF <a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank">PDF</a> and <a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>). Also, -->
 
-This work is published in _Neural Networks_ Elsevier (check PDF <a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank">PDF</a> and <a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>). Also, check previous related work on trees (<a a href="https://arxiv.org/abs/1705.05592" target="_blank">neural tree</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">fuzzy tree</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory or complex network literature for PhD research are welcomed!
+
+## Adversarial Deep Learning 
+
+...
+
+## Interdisciplinary researc
 
 I like to work on **interdisciplinary research** and **data science** projects. In my recent work in collaboration with the meteorology department, we forecast real flood events of the rivers Severn and Avon, UK. We investigate how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>). 
 
 ![](/imgs/water_segmentation_work.png)
 
 **Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions.
+
 
 
 <br>
