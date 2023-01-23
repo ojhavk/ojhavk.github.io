@@ -38,7 +38,7 @@ My original works have been about developing algorithms like **Backpropagation N
 
 A
 
-## Interdisciplinary Research
+## Deep Learning and Computer Vison
 
 I like to work on **interdisciplinary research** and **data science** projects. In my recent work in collaboration with the meteorology department, we forecast real flood events of the rivers Severn and Avon, UK. We investigate how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>). 
 
@@ -46,6 +46,7 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 
 **Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions.
 
+## Interdisciplinary Research
 
 
 <br>
