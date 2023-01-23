@@ -20,11 +20,11 @@ PhD in Computer Science, Technical University of Ostrava, Czech Republic <br>
 
 
 ### Employment
-Senior Lecturer in Computting, _Newcastle University_, UK (current) <br>
-Lecturer in Computer Science, _University of Reading_, UK  <br>
-Postdoctoral Fellow, _ETH Zürich: Zürich_, Switzerland <br>
-Marie Curie Fellow, _Technical University of Ostrava_, Czech Republic <br>
-Research Fellow, _Visva-Bharati University_, India <br>
+* Senior Lecturer in Computting, _Newcastle University_, UK (current) <br>
+* Lecturer in Computer Science, _University of Reading_, UK  <br>
+* Postdoctoral Fellow, _ETH Zürich: Zürich_, Switzerland <br>
+* Marie Curie Fellow, _Technical University of Ostrava_, Czech Republic <br>
+* Research Fellow, _Visva-Bharati University_, India <br>
 
 
 ### Administration
