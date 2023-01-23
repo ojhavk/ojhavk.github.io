@@ -44,14 +44,18 @@ A
 
 I like to work on **interdisciplinary research** and **data science** projects. In my recent work in collaboration with the meteorology department, we forecast real flood events of the rivers Severn and Avon, UK. We investigate how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>). 
 
-![](/imgs/water_segmentation_work.png)
+<p align="center">
+  <img src="/imgs/water_segmentation_work.png" width="700" />
+</p> 
 
 **Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions.
+
+<!-- ![](/imgs/water_segmentation_work.png) -->
 
 ## Interdisciplinary Research
 
 <p align="center">
-  <img src="/imgs/Civil_Engg.png" width="700" />
+  <img src="/imgs/Civil_Engg.png" height="300" />
 </p>
 
 <br>
