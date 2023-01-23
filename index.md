@@ -72,58 +72,58 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 
 #### Current PhD Student Projects
 
-1. Signal Processing for the Robustness Analysis of Deep Neural Networks <br> Chandresh Parvin (2019–2022) UoR (current output: <a href="https://centaur.reading.ac.uk/99457/" target="_blank">paper</a>)
-2. Using supervised learning to estimate local instabilities in chaotic systems <br> Daniel Ayers (2019–2022) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) <!--- output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) --->
+* Signal Processing for the Robustness Analysis of Deep Neural Networks <br> Chandresh Parvin (2019–2022) UoR (current output: <a href="https://centaur.reading.ac.uk/99457/" target="_blank">paper</a>)
+* Using supervised learning to estimate local instabilities in chaotic systems <br> Daniel Ayers (2019–2022) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) <!--- output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) --->
 
 
 ### Select Master and Bachelor Student Projects
 #### Select Master Student Projects
-1. Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
-1. Computing of local Lyapunov exponents using machine learning, Lau J (UoR, 2021, <a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
-1. Autoencoders and GANs for addressing imbalance image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
-1. Transfer learning for segmentation of waste bottles using Mask R-CNN, Jaikumar P (2020, <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Paper</a>)
-1. Machine Learning modelling of die filling for pharmaceutical powders, Peschiutta P (University of Padua, Padua, Italy, 2020) (external co-supervision with <a href="https://www.surrey.ac.uk/people/charley-wu" target="_blank">Prof C Wu</a>) (<a href="http://tesi.cab.unipd.it/64688/1/Peschiutta_Stefano_1190561.pdf" target="_blank">Thesis</a>)
-1. Non-spatial and spatial statistics for analysing human’s perception of the built environment, Heidi S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
-1. Convolutional neural network based visual feature extraction for evaluation of the
+* Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
+* Computing of local Lyapunov exponents using machine learning, Lau J (UoR, 2021, <a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
+* Autoencoders and GANs for addressing imbalance image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
+* Transfer learning for segmentation of waste bottles using Mask R-CNN, Jaikumar P (2020, <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Paper</a>)
+* Machine Learning modelling of die filling for pharmaceutical powders, Peschiutta P (University of Padua, Padua, Italy, 2020) (external co-supervision with <a href="https://www.surrey.ac.uk/people/charley-wu" target="_blank">Prof C Wu</a>) (<a href="http://tesi.cab.unipd.it/64688/1/Peschiutta_Stefano_1190561.pdf" target="_blank">Thesis</a>)
+* Non-spatial and spatial statistics for analysing human’s perception of the built environment, Heidi S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
+* Convolutional neural network based visual feature extraction for evaluation of the
 urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
-1. People’s perception of urban and architectural features, Charlotte S (ETH Zurich, 2017, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
+* People’s perception of urban and architectural features, Charlotte S (ETH Zurich, 2017, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
  
 
 #### Selected Bachelor Student Projects
-1. DL and box speed calibration for predicting rowing boat speed, Young R (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>) 
-1. Audio classification using machine learning techniques, Taemur A (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
-1. Using neural networks for time-series analysis of UK river flow data, Neele M (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
-1. Fake news detection with neural networks, Mehring C (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) 
-1. A study into the effectiveness of RNNs for trading, Doidge KB (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
-1. Classification of musical preferences through signal processing, Ward B (UoR, 2020, <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
-1. Machine learning for speech classification, Shergill JS (UoR, 2020, <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Paper</a>)
-1. An analysis of NLP techniques applied to generating tweets, Rickard J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
-1. Reading bus time prediction-A data science approach, Ford J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
-1. Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, Braund T (UoR, 2019, <a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
+* DL and box speed calibration for predicting rowing boat speed, Young R (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>) 
+* Audio classification using machine learning techniques, Taemur A (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
+* Using neural networks for time-series analysis of UK river flow data, Neele M (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
+* Fake news detection with neural networks, Mehring C (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) 
+* A study into the effectiveness of RNNs for trading, Doidge KB (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
+* Classification of musical preferences through signal processing, Ward B (UoR, 2020, <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
+* Machine learning for speech classification, Shergill JS (UoR, 2020, <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Paper</a>)
+* An analysis of NLP techniques applied to generating tweets, Rickard J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
+* Reading bus time prediction-A data science approach, Ford J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
+* Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, Braund T (UoR, 2019, <a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
 
 <br>
 
 ### Code Repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
 I program in Java (mainly), Python (mostly these days for machine learning), MATLAB (occasionally when need be), and C++ (when I am looking to speed up my code). Following are a few examples of algorithms, tools, and software I have developed over the years.
-1. Backpropagation Neural Tree (BNeuralT) (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>)
-1. Neural-Tree-Software (<a href="https://github.com/vojha-code/Neural-Tree-Software" target="_blank">Code</a>)
-1. Neural-Network-Predictor Software(<a href="https://github.com/vojha-code/Neural-Network-Predictor" target="_blank">Code</a>)
-1. Conjugate-Gradient-Neural-Network (<a href="https://github.com/vojha-code/Conjugate-Gradient-Neural-Network" target="_blank">Code</a>)
-1. Complex-Valued-Neural-Network (<a href="https://github.com/vojha-code/Complex-Valued-Neural-Network" target="_blank">Code</a>)
-1. Multiple-Linear-Regression (<a href="https://github.com/vojha-code/Multiple-Linear-Regression" target="_blank">Code</a>)
-1. Hierarchical-Fuzzy-Tree (<a href="https://github.com/vojha-code/Hierarchical-Fuzzy-Tree" target="_blank">Code</a>)
-1. K-Nearest-Neighbor (<a href="https://github.com/vojha-code/K-Nearest-Neighbor" target="_blank">Code</a>)
-1. Support-Vector-Machine (<a href="https://github.com/vojha-code/Support-Vector-Machine" target="_blank">Code</a>)
-1. Self-Organizing-Map (<a href="https://github.com/vojha-code/Self-Organizing-Map" target="_blank">Code</a>)
-1. Anomaly-Detection (<a href="https://github.com/vojha-code/Anomaly-Detection" target="_blank">Code</a>)
-1. Humans Perception Through Physiological Response <a href="https://github.com/vojha-code/ESUM-project" target="_blank">Code</a>)
+* Backpropagation Neural Tree (BNeuralT) (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>)
+* Neural-Tree-Software (<a href="https://github.com/vojha-code/Neural-Tree-Software" target="_blank">Code</a>)
+* Neural-Network-Predictor Software(<a href="https://github.com/vojha-code/Neural-Network-Predictor" target="_blank">Code</a>)
+* Conjugate-Gradient-Neural-Network (<a href="https://github.com/vojha-code/Conjugate-Gradient-Neural-Network" target="_blank">Code</a>)
+* Complex-Valued-Neural-Network (<a href="https://github.com/vojha-code/Complex-Valued-Neural-Network" target="_blank">Code</a>)
+* Multiple-Linear-Regression (<a href="https://github.com/vojha-code/Multiple-Linear-Regression" target="_blank">Code</a>)
+* Hierarchical-Fuzzy-Tree (<a href="https://github.com/vojha-code/Hierarchical-Fuzzy-Tree" target="_blank">Code</a>)
+* K-Nearest-Neighbor (<a href="https://github.com/vojha-code/K-Nearest-Neighbor" target="_blank">Code</a>)
+* Support-Vector-Machine (<a href="https://github.com/vojha-code/Support-Vector-Machine" target="_blank">Code</a>)
+* Self-Organizing-Map (<a href="https://github.com/vojha-code/Self-Organizing-Map" target="_blank">Code</a>)
+* Anomaly-Detection (<a href="https://github.com/vojha-code/Anomaly-Detection" target="_blank">Code</a>)
+* Humans Perception Through Physiological Response <a href="https://github.com/vojha-code/ESUM-project" target="_blank">Code</a>)
 
-1. Sensitivity Analysis of Evolutionary Algorithms <a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>)
-1. Search Space Decomposition Method (<a href="https://github.com/vojha-code/Hypershpere-Search" target="_blank">Code</a>)
-1. Meta-heuristic-Optimizer Software(<a href="https://github.com/vojha-code/Meta-heuristic-Optimizer" target="_blank">Code</a>)
-1. Multilevel-Coordinate-Search (<a href="https://github.com/vojha-code/Multilevel-Coordinate-Search" target="_blank">Code</a>)
-1. Evolutionary-Computation (<a href="https://github.com/vojha-code/Evolutionary-Computation" target="_blank">Java</a>, <a href="https://github.com/vojha-code/NSGA" target="_blank">Python</a>)
-1. Evolutionary-Ensemble (<a href="https://github.com/vojha-code/Evolutionary-Ensemble" target="_blank">Code</a>)
+* Sensitivity Analysis of Evolutionary Algorithms <a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>)
+* Search Space Decomposition Method (<a href="https://github.com/vojha-code/Hypershpere-Search" target="_blank">Code</a>)
+* Meta-heuristic-Optimizer Software(<a href="https://github.com/vojha-code/Meta-heuristic-Optimizer" target="_blank">Code</a>)
+* Multilevel-Coordinate-Search (<a href="https://github.com/vojha-code/Multilevel-Coordinate-Search" target="_blank">Code</a>)
+* Evolutionary-Computation (<a href="https://github.com/vojha-code/Evolutionary-Computation" target="_blank">Java</a>, <a href="https://github.com/vojha-code/NSGA" target="_blank">Python</a>)
+* Evolutionary-Ensemble (<a href="https://github.com/vojha-code/Evolutionary-Ensemble" target="_blank">Code</a>)
 
 
 1. Algorithm-Complexity (<a href="https://github.com/vojha-code/Algorithm-Complexity" target="_blank">Code</a>)
