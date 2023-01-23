@@ -92,6 +92,12 @@ Pattern Analysis and Application, Springer.
 
 
 #### Invited Talks
+* Backpropagation Neural Tree 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">link</a> | <a href=".." target="_blank">PDF</a>) <br>
+University of Surrey, Surrey, UK
+* Sensitivity Analysis of Deep Learning and Optimization Algorithms 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">link</a> | <a href=".." target="_blank">PDF</a>) <br>
+University of Surrey, Surrey, UK
+* AI for Engginering and Science Problems 12/2022 (<a href=".." target="_blank">PDF</a>) <br>
+University of Surrey, Surrey, UK
 * Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
 Public Talk, TVAI Hub, Reading, UK 
 * Do the dynamics of the city environment influence us, and how? 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)<br> The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy
