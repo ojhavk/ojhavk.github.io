@@ -60,7 +60,7 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 
 <br>
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3U4-7Y-epFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtu.be/3U4-7Y-epFw?t=117" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 ### Research Supervision Projects
 #### Current Postdoc
