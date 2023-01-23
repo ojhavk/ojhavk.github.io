@@ -20,16 +20,17 @@ PhD in Computer Science, Technical University of Ostrava, Czech Republic <br>
 
 
 ### Employment
-Lecturer in Computer Science, _University of Reading_, UK (current) <br>
+Senior Lecturer in Computting, _Newcastle University_, UK (current) <br>
+Lecturer in Computer Science, _University of Reading_, UK  <br>
 Postdoctoral Fellow, _ETH Zürich: Zürich_, Switzerland <br>
 Marie Curie Fellow, _Technical University of Ostrava_, Czech Republic <br>
 Research Fellow, _Visva-Bharati University_, India <br>
 
 
 ### Administration
-1. Deputy Director of Undergraduate Studies <br> Department of Computer Science, the University of Reading (2021 – present)
-1. Chair of Board of Studies and Student Experience <br> Department of Computer Science, the University of Reading (2021 – present)
-1. Degree Project Coordinator <br> Department of Computer Science, the University of Reading (2019 – present)
+1. Deputy Director of Undergraduate Studies <br> Department of Computer Science, the University of Reading (2021 – 2022)
+1. Chair of Board of Studies and Student Experience <br> Department of Computer Science, the University of Reading (2021 – 2022)
+1. Degree Project Coordinator <br> Department of Computer Science, the University of Reading (2019 – 2022)
 
 ### Funding
 1. Co-I, Innovate UK Knogledge transfer project with Optimal Monitoring (£113,740) 2019 - 2021 
