@@ -55,7 +55,7 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 ## Interdisciplinary Research
 
 <p align="center">
-  <img src="/imgs/Civil_Engg.png" height="300" />
+  <img src="/imgs/Civil_Engg.png" height="200" />
 </p>
 
 <br>
