@@ -49,7 +49,7 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 ## Interdisciplinary Research
 
 <p align="center">
-  <img src="/imgs/Civil_Engg.png" />
+  <img src="/imgs/Civil_Engg.png" width="700" />
 </p>
 
 <br>
