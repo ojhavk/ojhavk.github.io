@@ -17,8 +17,7 @@ Lecturer (Assistant Professor), University of Reading, United Kingdom
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. For example, I have worked with researchers from Engineering, Climate Science, Hydrology, Environmental Science and Architecture, Physics, and Biology disciplines.  
-I encourage you to walk through some example research work on this page.
+I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. For example, I have worked with researchers from Engineering, Climate Science, Hydrology, Environmental Science and Architecture, Physics, and Biology disciplines. I encourage you to walk through some example research work on this page.
 
 <!-- Example of our work in this webpage should encorage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term.
 
