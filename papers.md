@@ -41,6 +41,16 @@ title: Publications
 -->
 
 
+### Edited Proceedings	
+* <a href="https://www.springer.com/gp/book/.." target="_blank">8th International Conference Machine Learning, Optimization, and Data Science, LOD 2022</a>, Siena, Italy, Sep 18–22, 2022, (Springer LNCS )  <br>
+Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,
+* <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021</a>, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163) <br>
+Nicosia G, **Ojha V**,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R
+* <a href="https://www.springer.com/gp/book/9783030645793" target="_blank">6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020</a>, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565)  <br>
+Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  
+
+
+
 ### Conference Papers 
 * <a href="https://centaur.reading.ac.uk/99457/" target="_blank">CSS–A Cheap-Surrogate-Based Selection Operator for Multi-objective Optimization</a> <br> Int. Conf. on Bioinspired Optimization Methods and Their Appl., BIOMA (pp 54-68), Springer, LNCS, Maribor, Slovenia (2022) <br> Kong L, Kumar A, Snášel V, Das S, Krömer P, **Ojha V** 
 * <a href="https://centaur.reading.ac.uk/99457/" target="_blank">Adversarial robustness in deep learning: Attacks on fragile neurons</a> <br>  _30th Int. Conf. on Artificial Neural Net._, ICANN (pp 16-28), Springer, LNCS, Bratislava (2021) <br> Pravin C, Martino I, Nicosia G, **Ojha V** 
@@ -79,25 +89,13 @@ title: Publications
 
 
 
-### Workshop Papers, Posters, and Abstracts
+### Workshop Papers, Posters, Tech Report, and Abstracts
 * <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents </a> <br>
 EGU General Assembly 2022 Vienna, Austria, 23–27 May 2022 <br>
 Ayers D, Lau J, Amezcua J, Carrassi A, and **Ojha V**
 * <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy</a> <br> _ECMWF Workshop_, Reading, UK (2020) <br> Ayers D, Amezcua J , **Ojha V**, Carrassi A, Leeuwen PJ
 * Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany. German National Library. <br> **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016)
-
-
-
-### Tech Reports
 * <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos</a> <br> _Tech. Report_, ETH Zurich, Switzerland (2017) <br> Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G
-
-
-
-### Edited Proceedings	
-* <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021</a>, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163) <br>
-Nicosia G, **Ojha V**,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R
-* <a href="https://www.springer.com/gp/book/9783030645793" target="_blank">6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020</a>, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565)  <br>
-Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  
 
 
 
