@@ -10,7 +10,7 @@ layout: default
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
-
+## 
 Lecturer (Assistant Professor), University of Reading, United Kingdom
 
 ## Research
