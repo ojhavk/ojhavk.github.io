@@ -3,12 +3,12 @@ title: Research
 layout: default
 ---
 
-<!--- 
+<!-- 
 <a href="{{site.baseurl}}">Home</a> | 
 <a href="{{site.baseurl}}/profile">Profile</a> | 
 <a href="{{site.baseurl}}/publications">Publications</a> | 
 <a href="{{site.baseurl}}/research">Research</a> | 
-<a href="{{site.baseurl}}/teaching">Teaching</a>  --->
+<a href="{{site.baseurl}}/teaching">Teaching</a>  -->
 
 ## 
 Lecturer (Assistant Professor), University of Reading, United Kingdom
@@ -19,9 +19,7 @@ Lecturer (Assistant Professor), University of Reading, United Kingdom
 
 I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. For example, I have worked with researchers from Engineering, Climate Science, Hydrology, Environmental Science and Architecture, Physics, and Biology disciplines. I encourage you to walk through some example research work on this page.
 
-<!-- Example of our work in this webpage should encorage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term.
-
-I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. --->
+<!-- Example of our work in this webpage should encorage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
 
 
 ## Deep Learning 
@@ -35,12 +33,11 @@ My original works have been about developing algorithms like **Backpropagation N
 <!-- ![](/imgs/tree_bio.svg) --->
 
 **Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model (Travis et al., 2005), the middle is a single neuron dendritic tree (Jones and Kording, 2021), and the right is the proposed backpropagation neural tree (<a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank"> Ojha et al 2022 </a>). Check previous related work on trees (<a a href="https://arxiv.org/abs/1705.05592" target="_blank">neural tree</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">fuzzy tree</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory or complex network literature for PhD research are welcomed!
-<!-- <a href="https://www.karger.com/Article/Abstract/86707" target="_blank"> </a> <a href="https://direct.mit.edu/neco/article-abstract/33/6/1554/100576/Might-a-Single-Neuron-Solve-Interesting-Machine?redirectedFrom=fulltext" target="_blank"> This work is published in _Neural Networks_ Elsevier (check PDF <a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank">PDF</a> and <a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>). Also, -->
 
 
 ## Adversarial Deep Learning 
 
-...
+A
 
 ## Interdisciplinary Research
 
