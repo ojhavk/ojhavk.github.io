@@ -24,7 +24,7 @@ I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to
 
 
 ## Deep Learning 
-(Security, Explainability and Trustworthiness of AI) <br>
+(_Security, Explainability and Trustworthiness of AI_) <br>
 In Deep Learniing, I work on work on **Neural Network Architectuere Search and Analysis**. 
 My original works have been about developing algorithms like **Backpropagation Neural Tree** with long term goal to develop _neuroscience_ informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
@@ -41,7 +41,7 @@ My original works have been about developing algorithms like **Backpropagation N
 A
 
 ## Deep Learning and Computer Vison
-
+(_Image Segmentation, Object Detection, Transfer Learning_) <br>
 I like to work on **interdisciplinary research** and **data science** projects. In my recent work in collaboration with the meteorology department, we forecast real flood events of the rivers Severn and Avon, UK. We investigate how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events. Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>). 
 
 <p align="center">
