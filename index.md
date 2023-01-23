@@ -62,13 +62,14 @@ A _Civil Engineering_ problem was solved by applying AI algorithms. In structura
 **Figure.** Twenty Four Member Shallow Truss Structure. Left: Top View and Side View of the structure.
 The central node of the structure is indicated by a lighter color dot and arrow. The arrow indicates a vertical downward external force. Right: The results of adaptive search space decomposition method applied on this benchmark (<a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank"> Ojha et al 2022 </a>).
 
-<br>
+I recommend watching the following video explaining a range of interdisciplinary research projects I have had the opportunity to work on. This talk was for AI starters and will give a simplified overview of AI and its application.
+
 <p align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3U4-7Y-epFw?start=117" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
-### Research Student Projects (Supervised)
+## Research Student Projects (Supervised)
 
 **Postdoc**
 * Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–present) <br> (co-supervision
