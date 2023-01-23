@@ -102,7 +102,10 @@ Nicosia G, **Ojha V**, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, U
 
 
 ### Thesis
-Feature Selection and Function Approximation Using Adaptive Algorithms (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)<br> _Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic_ <br> **Ojha VK** (2016) <br>
-_I proposed two novel general-purpose machine learning algorithms: heterogeneous neural tree and fuzzy inference tree. I investigated these two algorithms on benchmark and two industrial applications. The algorithms successfully demonstrated capabilities of simultaneous feature selection and function approximation with high accuracy,  outperforming compared state-of-the-art algorithms of the time_.
+Feature Selection and Function Approximation Using Adaptive Algorithms (<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">PDF</a>)<br> _Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic_ **Ojha VK** (2016) <br>
+
+<!-- 
+_I proposed two novel general-purpose machine learning algorithms: heterogeneous neural tree and fuzzy inference tree. I investigated these two algorithms on benchmark and two industrial applications. The algorithms successfully demonstrated capabilities of simultaneous feature selection and function approximation with high accuracy,  outperforming compared state-of-the-art algorithms of the time_. 
+-->
 
   
