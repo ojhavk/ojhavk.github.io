@@ -38,7 +38,9 @@ My original works have been about developing algorithms like **Backpropagation N
 
 ## Adversarial Deep Learning 
 
-A
+<p align="center">
+  <img src="/imgs/Adversarial_attack.png" width="700" />
+</p> 
 
 ## Deep Learning and Computer Vison
 (_Image Segmentation, Object Detection, Transfer Learning_) <br>
