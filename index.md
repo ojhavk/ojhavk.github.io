@@ -59,7 +59,7 @@ I like to work on **interdisciplinary research** and **data science** projects. 
 A _Civil Engineering_ problem was solved by applying AI algorithms. In structural engineering, where large steel constructions, such as bridges and domes, are built, whose structural response is characterised by large displacements and are vulnerable to progressive collapses due to buckling effects, leading to sudden failures. A thorough analysis of such buckling was analysed using optimisation algorithms.
 
 <p align="center">
-  <img src="/imgs/Civil_Engg.png" height="300" />
+  <img src="/imgs/Civil_Engg.png" width="500" />
 </p>
 **Figure.** Twenty Four Member Shallow Truss Structure. Left: Top View and Side View of the structure.
 The central node of the structure is indicated by a lighter color dot and arrow. The arrow indicates a vertical downward external force. Right: The results of adaptive search space decomposition method applied on this benchmark (<a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank"> Ojha et al 2022 </a>).
