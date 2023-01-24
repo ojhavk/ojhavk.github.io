@@ -39,8 +39,10 @@ PhD in Computer Science, Technical University of Ostrava, Czech Republic <br>
 
 ### Research Talks 
 
-* Backpropagation Neural Tree 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">Link</a> | <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">PDF</a>) <br> _8th Int Conference on Machine Learning, Optimization, and Data Science, Italy_
-* Sensitivity Analysis of Deep Learning and Optimization Algorithms 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">Link</a> | <a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">PDF</a>) <br> _8th Int Conference on Machine Learning, Optimization, and Data Science, Italy_
+* Backpropagation Neural Tree 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">Link</a>|<a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">PDF</a>) <br> 
+_8th Int Conference on Machine Learning, Optimization, and Data Science, Italy_
+* Sensitivity Analysis of Deep Learning and Optimization Algorithms 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">Link</a>|<a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">PDF</a>) <br> 
+_8th Int Conference on Machine Learning, Optimization, and Data Science, Italy_
 * AI for Engginering and Science Problems 12/2022 (<a href="/data/Research_Talks/Surrey/AI4Eng.pdf" target="_blank">PDF</a>) <br> _University of Surrey, Surrey, UK_
 * Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br> _Public Talk, TVAI Hub, Reading, UK_ 
 * Do the dynamics of the city environment influence us, and how? 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)<br> _The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy_
