@@ -41,9 +41,9 @@ PhD in Computer Science, Technical University of Ostrava, Czech Republic <br>
 ### Research Talks 
 
 * Backpropagation Neural Tree 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">link</a> | <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">PDF</a>) <br>
-University of Surrey, Surrey, UK
+8th Int Conference on Machine Learning, Optimization, and Data Science, Italy
 * Sensitivity Analysis of Deep Learning and Optimization Algorithms 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">link</a> | <a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">PDF</a>) <br>
-University of Surrey, Surrey, UK
+8th Int Conference on Machine Learning, Optimization, and Data Science, Italy
 * AI for Engginering and Science Problems 12/2022 (<a href="/data/Research_Talks/Surrey/AI4Eng.pdf" target="_blank">PDF</a>) <br>
 University of Surrey, Surrey, UK
 * Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
