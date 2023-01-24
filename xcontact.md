@@ -15,5 +15,6 @@ Dr Varun Ojha, PhD <br>
 School of Computing <br>
 Newcastle University <br>
 Urban Sciences Building <br>
-1 Science Square, Newcastle upon Tyne NE4 5TG
+1 Science Square, Newcastle upon Tyne NE4 5TG <br>
+varun.ojha@newcastle.ac.uk
 
