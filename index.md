@@ -33,7 +33,7 @@ My original works have been about developing algorithms like **Backpropagation N
 </p>
 <!-- ![](/imgs/tree_bio.svg) --->
 
-**Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model (Travis et al., 2005), the middle is a single neuron dendritic tree (Jones and Kording, 2021), and the right is the proposed backpropagation neural tree (<a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank"> Ojha et al 2022 </a>). Check previous related work on trees (<a a href="https://arxiv.org/abs/1705.05592" target="_blank">neural tree</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">fuzzy tree</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory or complex network literature for PhD research are welcomed!
+**Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model (Travis et al., 2005), the middle is a single neuron dendritic tree (Jones and Kording, 2021), and the right is the proposed backpropagation neural tree (<a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank"> Ojha et al 2022 </a>). Check previous related work on trees (<a href="https://arxiv.org/abs/1705.05592" target="_blank">Ojha et al 2016</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">Ojha et al 2017</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory or complex network literature for PhD research are welcomed!
 
 
 ## Adversarial Deep Learning 
@@ -44,13 +44,13 @@ My original works have been about developing algorithms like **Backpropagation N
 
 ## Deep Learning and Computer Vison
 (_Image Segmentation, Object Detection, Transfer Learning_) <br>
-In my recent Computer Vison work, we investigated how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events on the rivers (Severn and Avon, UK) Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">paper</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">journal</a>). 
+In my recent Computer Vison work, we investigated how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events on the rivers (Severn and Avon, UK) Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>). 
 
 <p align="center">
   <img src="/imgs/water_segmentation_work.png" width="700" />
 </p> 
 
-**Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions (<a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>).
+**Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions (<a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al 2021</a>).
 
 <!-- ![](/imgs/water_segmentation_work.png) -->
 
