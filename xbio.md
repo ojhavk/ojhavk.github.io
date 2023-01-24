@@ -19,13 +19,12 @@ PhD in Computer Science, Technical University of Ostrava, Czech Republic <br>
 <a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">_Feature Selection and Function Approximation Using Adaptive Algorithms_</a>
 
 
-### Employment
+### Experience
 * Senior Lecturer in Computting, _Newcastle University_, UK (current) <br>
 * Lecturer in Computer Science, _University of Reading_, UK  <br>
 * Postdoctoral Fellow, _ETH Zürich: Zürich_, Switzerland <br>
 * Marie Curie Fellow, _Technical University of Ostrava_, Czech Republic <br>
 * Research Fellow, _Visva-Bharati University_, India <br>
-
 
 ### Administration
 * Deputy Director of Undergraduate Studies <br> _Department of Computer Science, the University of Reading_ (2021 – 2022)
