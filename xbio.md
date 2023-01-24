@@ -38,26 +38,28 @@ PhD in Computer Science, Technical University of Ostrava, Czech Republic <br>
 * Co-I, EPSRC's University of Reading DTP PhD project (£66,000) 2019 - 2023 
 * PI, Kosnic Liting Ltd. PhD project (£33,000) 2019, 2022 and EPSRC's University of Reading DTP PhD project (£33,000) 2019-2022
 
+### Research Talks 
 
-### Awards & Honors
-* Received School’s Excellence in Teaching & Learning Award for implementing an _industrial cooperation on projects_ , UoR, UK, 2022
-* Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
-* Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
-* Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
-* Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering conducted by Indian Institute of Sciences and seven IITs.
-* Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
-* Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
-<!--6. Obtained 3rd place at Breaking the Wall of Perception of Cities at Falling Walls Lab, Paris, France, 2017 -->
-
-<!--
-### Selected Papers
-* **Ojha V**, Nicosia G. (2022) Backpropagation Neural Tree, _Neural Networks_, 149, 66--83, Elsevier. (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="https://arxiv.org/abs/2202.02248" target="_blank">PDF</a>)
-* Pravin C, Martino I, Nicosia G, **Ojha V** (2021). Adversarial robustness in deep learning: Attacks on fragile neurons. _The 30th Int. Conf. on Artificial Neural Networks_, ICANN (pp 16-28), Springer, LNCS, Bratislava, Slovakia. (<a href="https://centaur.reading.ac.uk/99457/" target="_blank">PDF</a>)
-* **Ojha VK**, Snášel V, Abraham A. (2018). Multiobjective programming for type-2 hierarchical fuzzy trees, _IEEE Transaction on Fuzzy Systems, 26_(2), 915--936. (<a href="https://arxiv.org/abs/1705.05769" target="_blank">PDF</a>)
-* Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25(8)_ 4435--4453 (<a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Data, PDF</a>)
-* **Ojha VK**, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G. (2019). Machine learning approaches to understand the influence of urban environments on human's physiological response, _Information Sciences, 474_, 154--169. Elsevier. (<a href="https://arxiv.org/abs/1812.06128" target="_blank">PDF</a>)
-<!-- * **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016) Predictive modelling of die filling of the pharmaceutical granules using the flexible neural tree,  _Neural Computing Application 29_(7), 467--48* Springer. (<a href="https://arxiv.org/abs/1709.04318" target="_blank">PDF</a>)  -->
-
+* Backpropagation Neural Tree 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">link</a> | <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">PDF</a>) <br>
+University of Surrey, Surrey, UK
+* Sensitivity Analysis of Deep Learning and Optimization Algorithms 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">link</a> | <a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">PDF</a>) <br>
+University of Surrey, Surrey, UK
+* AI for Engginering and Science Problems 12/2022 (<a href="/data/Research_Talks/Surrey/AI4Eng.pdf" target="_blank">PDF</a>) <br>
+University of Surrey, Surrey, UK
+* Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
+Public Talk, TVAI Hub, Reading, UK 
+* Do the dynamics of the city environment influence us, and how? 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)<br> The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy
+* Machine Learning is a Search Problem 02/2020 (<a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, UK
+* Machine Learning is a Search Problem, 11/2019 (<a href="https://research.reading.ac.uk/met-darc/news-and-events/darc-seminar-series/" target="_blank">Link</a>, <a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> DARC Seminar, University of Reading, UK
+* Human Perception of the Urban Environment, 09/2019 (<a href="https://www.meetup.com/Thames-Valley-Artificial-Intelligence-Meetup/events/263027968/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br> TVAI public meet-up, Reading, UK, 
+* Do the dynamics of the city environment influence us, and how?, 05/2019 (<a href="https://www.bcs.org/events-calendar/2019/may/uk-symposium-on-knowledge-discovery-and-data-mining-2019-bcs-sgai-the-specialist-group-on-artificial-intelligence/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br>  BCS, SGAI, London, UK 
+* Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>) <br>  BCS Workshop on Open-Source AI, UoR, UK 
+* Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>) <br>  Vellore Institute of Technology, India
+* How we perceive our environment? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/Varun_ITA_talk_14_6_17.pdf" target="_blank">Slides</a>) <br> ITA Seminar, ETH Zürich, Switzerland 
+* A computational intelligenceperspective of modeling and data analysis 10/2015 (<a href="/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>) <br>  Heinrich-Heine-University, Düsseldorf, Germany 
+* Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> NICE Group, Computer Science, University of Surrey, UK
+* Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> Computer Science, Coventry University, UK 
+<!--* Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015 -->
 
 ### Community Services
 * Program Chair of the 7th International Conference Machine Learning, Optimization, and Data Science,
@@ -88,32 +90,7 @@ Pattern Analysis and Application, Springer.
 * Guest Editor of Data-Driven Modeling for Smart Cities, Frontiers in Sustainable Cities, 2021
 * Program Committee Member of KDD (2019,2020, 2021), ACM SDM22
 
-### Research Talks & Presentations
-
-
-#### Invited Talks
-* Backpropagation Neural Tree 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">link</a> | <a href=".." target="_blank">PDF</a>) <br>
-University of Surrey, Surrey, UK
-* Sensitivity Analysis of Deep Learning and Optimization Algorithms 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">link</a> | <a href=".." target="_blank">PDF</a>) <br>
-University of Surrey, Surrey, UK
-* AI for Engginering and Science Problems 12/2022 (<a href=".." target="_blank">PDF</a>) <br>
-University of Surrey, Surrey, UK
-* Anything Repeatable is Replaceable by Artificial Intelligence 03/2022 (<a href="https://youtu.be/3U4-7Y-epFw?t=86" target="_blank">Video</a>) <br>
-Public Talk, TVAI Hub, Reading, UK 
-* Do the dynamics of the city environment influence us, and how? 05/2020 (<a href="https://acdl2020.icas.xyz/lecturers/" target="_blank">Lecture</a>)<br> The 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy
-* Machine Learning is a Search Problem 02/2020 (<a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> University of Surrey, UK
-* Machine Learning is a Search Problem, 11/2019 (<a href="https://research.reading.ac.uk/met-darc/news-and-events/darc-seminar-series/" target="_blank">Link</a>, <a href="/data/Research_Talks/Surrey/ML_Is_A_Search_Prob_VOjha.pdf" target="_blank">Slides</a>) <br> DARC Seminar, University of Reading, UK
-* Human Perception of the Urban Environment, 09/2019 (<a href="https://www.meetup.com/Thames-Valley-Artificial-Intelligence-Meetup/events/263027968/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br> TVAI public meet-up, Reading, UK, 
-* Do the dynamics of the city environment influence us, and how?, 05/2019 (<a href="https://www.bcs.org/events-calendar/2019/may/uk-symposium-on-knowledge-discovery-and-data-mining-2019-bcs-sgai-the-specialist-group-on-artificial-intelligence/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br>  BCS, SGAI, London, UK 
-* Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>) <br>  BCS Workshop on Open-Source AI, UoR, UK 
-* Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>) <br>  Vellore Institute of Technology, India
-* How we perceive our environment? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/Varun_ITA_talk_14_6_17.pdf" target="_blank">Slides</a>) <br> ITA Seminar, ETH Zürich, Switzerland 
-* A computational intelligenceperspective of modeling and data analysis 10/2015 (<a href="/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>) <br>  Heinrich-Heine-University, Düsseldorf, Germany 
-* Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> NICE Group, Computer Science, University of Surrey, UK
-* Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> Computer Science, Coventry University, UK 
-<!--* Cochin University of Science and Technology, India, Advancement in machine learning, 01/2015 -->
-
-#### Conference Presentations
+### Conference Presentations
 * World Congress on Global Optimization, (Online), Athens, Greece, 06/2021 (<a href="/data/Research_Talks/Confrence_Presentations/2021_WCGO.pdf" target="_blank">Slides</a>)
 * IEEE World Congress on Computational Intelligence, (Online) Glasgow, UK, 06/2020 (<a href="/data/Research_Talks/Confrence_Presentations/2020_WCCI.pdf" target="_blank">Slides</a>)
 * 3rd Eur. Netw. Intell. Conf. ENIC 2016 Wrocław, Poland, 09/2016
@@ -150,6 +127,25 @@ Public Talk, TVAI Hub, Reading, UK
 * Jagiellonian University, Kraków, Poland, 11/2015 (<a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Work</a>)
 * Heinrich-Heine-University, Düsseldorf, Germany, 10/2015
 * Indian Institute of Engineering, Science and Technology, India, 2011--2013 (<a href="https://arxiv.org/abs/1707.00561" target="_blank">Work</a>)
+
+### Awards & Honors
+* Received School’s Excellence in Teaching & Learning Award for implementing an _industrial cooperation on projects_ , UoR, UK, 2022
+* Undergraduate Research Opportunities Programme (£1,320), University of Reading fund to host a research internship on complex data visualization (PI).
+* Received School’s Excellence in Teaching & Learning Award for implementing an industrial certification to a Data Mining module, UoR, UK, 2019
+* Received School’s Reward– Celebrating Success in Teaching & Learning for implementing novel ideas in the degree project, UoR, UK, 2019
+* Achieved 98 percentile among 0.14 million candidates in Graduate Aptitude Test in Engineering conducted by Indian Institute of Sciences and seven IITs.
+* Awarded _Certificate of Merit_ for 1st rank in master’s degree cohort
+* Awarded _Certificate of Merit_ for 1st rank in bachelor’s degree cohort
+<!--6. Obtained 3rd place at Breaking the Wall of Perception of Cities at Falling Walls Lab, Paris, France, 2017 -->
+
+<!--
+### Selected Papers
+* **Ojha V**, Nicosia G. (2022) Backpropagation Neural Tree, _Neural Networks_, 149, 66--83, Elsevier. (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="https://arxiv.org/abs/2202.02248" target="_blank">PDF</a>)
+* Pravin C, Martino I, Nicosia G, **Ojha V** (2021). Adversarial robustness in deep learning: Attacks on fragile neurons. _The 30th Int. Conf. on Artificial Neural Networks_, ICANN (pp 16-28), Springer, LNCS, Bratislava, Slovakia. (<a href="https://centaur.reading.ac.uk/99457/" target="_blank">PDF</a>)
+* **Ojha VK**, Snášel V, Abraham A. (2018). Multiobjective programming for type-2 hierarchical fuzzy trees, _IEEE Transaction on Fuzzy Systems, 26_(2), 915--936. (<a href="https://arxiv.org/abs/1705.05769" target="_blank">PDF</a>)
+* Vandaele R, Dance SL, **Ojha V**. (2021). Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning, _Hydrology and Earth System Sciences 25(8)_ 4435--4453 (<a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Data, PDF</a>)
+* **Ojha VK**, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G. (2019). Machine learning approaches to understand the influence of urban environments on human's physiological response, _Information Sciences, 474_, 154--169. Elsevier. (<a href="https://arxiv.org/abs/1812.06128" target="_blank">PDF</a>)
+<!-- * **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V (2016) Predictive modelling of die filling of the pharmaceutical granules using the flexible neural tree,  _Neural Computing Application 29_(7), 467--48* Springer. (<a href="https://arxiv.org/abs/1709.04318" target="_blank">PDF</a>)  -->
 
 <!---### Professional Membership
 * Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
