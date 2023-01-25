@@ -37,7 +37,8 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/93568/" target="_blank">Simultaneous optimization of neural network weights and active nodes using metaheuristics</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> **Ojha VK**, Abraham A, Snášel V 
 
 <br>
-<br>
+
+
 ## **Applied Artificial Intelligence: _Interdisciplinary works_**
 
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, Nicosia G
