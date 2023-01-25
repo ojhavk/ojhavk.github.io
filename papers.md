@@ -13,7 +13,7 @@ title: Publications
 
 ## Publications
 
-### Artificial Intelligence: _Deep Learning, Machine Learning and Optimization_
+### **Artificial Intelligence: _Deep Learning, Machine Learning and Optimization_**
 * <a href="https://arxiv.org/abs/2202.02248" target="_blank">Backpropagation Neural Tree</a> (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Neural Networks_, 149, 66--83, Elsevier. (2022) <br> **Ojha V**, Nicosia G 
 * <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> **Ojha V**, Panto, B, Nicosia G 
 * <a href="https://arxiv.org/pdf/2207.04820.pdf" target="_blank">Assessing ranking and effectiveness of evolutionary algorithm hyperparameters using global sensitivity analysis methodologies </a> (<a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Swarm and Evolutionary Computation_, Elsevier <br> **Ojha V**, Greco A, Timmis J, and Nicosia G   
@@ -38,7 +38,7 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/93568/" target="_blank">Simultaneous optimization of neural network weights and active nodes using metaheuristics</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> **Ojha VK**, Abraham A, Snášel V 
 
 
-### Applied Artificial Intelligence: Interdisciplinary works
+### **Applied Artificial Intelligence: _Interdisciplinary works_**
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, Nicosia G
 * <a href="https://arxiv.org/abs/2109.07279" target="_blank">Design and characterization of effective solar cells </a> <br> _Energy Systems_, 1--28. Springer (2021) <br> **Ojha V**, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G
 * <a href="https://doi.org/10.3390/ijgi8020052" target="_blank">Examining trade-offs between social, psychological and energy potential of urban form </a> <br> _International Journal of Geo-Information, 8_(2), 1--52 (2019) <br> Bielik M, Griego D, Kuliga S, Schneider S,**Ojha VK** Konig R, Donath D, Schmitt G
