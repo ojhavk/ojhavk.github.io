@@ -11,9 +11,7 @@ title: Publications
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
-## Publications
-
-## **Artificial Intelligence: _Deep Learning, Machine Learning and Optimization_**
+## **Artificial Intelligence: _Deep Learning, Machine Learning_**
 * <a href="https://arxiv.org/abs/2202.02248" target="_blank">Backpropagation Neural Tree</a> (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Neural Networks_, 149, 66--83, Elsevier. (2022) <br> **Ojha V**, Nicosia G 
 * <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> **Ojha V**, Panto, B, Nicosia G 
 * <a href="https://arxiv.org/pdf/2207.04820.pdf" target="_blank">Assessing ranking and effectiveness of evolutionary algorithm hyperparameters using global sensitivity analysis methodologies </a> (<a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Swarm and Evolutionary Computation_, Elsevier <br> **Ojha V**, Greco A, Timmis J, and Nicosia G   
