@@ -63,7 +63,7 @@ title: Publications
 * <a href="https://doi.org/10.3390/ijgi8020052" target="_blank">Examining trade-offs between social, psychological and energy potential of urban form </a> <br> _International Journal of Geo-Information, 8_(2), 1--52 (2019) <br> Bielik M, Griego D, Kuliga S, Schneider S,**Ojha VK** Konig R, Donath D, Schmitt G
 <!-- 2018 -->
 * <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> **Ojha VK**, Mishra, DA
-<!-- 2017 -->>
+<!-- 2017 -->
 * <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos</a> <br> _Tech. Report_, ETH Zurich, Switzerland (2017) <br> Griego D, Kuliga S, Bielik M, Standfest M, **Ojha VK**, Schneider S, Konig  R, Donath D, Schmitt  G
 <!-- 2016 -->
 * <a href="https://arxiv.org/abs/1709.04318" target="_blank">Predictive modeling of die filling of pharmaceutical granules using the flexible neural tree </a> <br> _Neural Computing Application 29_(7), 467--481. Springer (2016) <br> **Ojha VK**, Schiano S,  Wu C, Abraham A, Snášel V 
