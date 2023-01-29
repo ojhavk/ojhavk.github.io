@@ -15,7 +15,8 @@ description: The pages are updated intermittently.
 title: Varun Ojha, PhD
 
 author:
-  email: "varun.ojha@newcastle.ac.uk"
+  name: Varun Ojha
+  email: varun.ojha@newcastle.ac.uk
 #permalink: /:title
 
 baseurl: ""
