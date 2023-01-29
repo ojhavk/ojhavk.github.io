@@ -11,7 +11,7 @@ title: Publications
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
-## **Artificial Intelligence: _Deep Learning and Machine Learning_**
+## **Deep Learning and Machine Learning**
 <!-- 2022 -->
 * <a href="https://arxiv.org/abs/2202.02248" target="_blank">Backpropagation Neural Tree</a> (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Neural Networks_, 149, 66--83, Elsevier. (2022) <br> **Ojha V**, Nicosia G
 * <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> **Ojha V**, Panto, B, Nicosia G 
@@ -48,7 +48,7 @@ title: Publications
 <br>
 
 
-## **Applied Artificial Intelligence: _Interdisciplinary works_**
+## **Applied Artificial Intelligence and Interdisciplinary Works**
 <!-- 2022 -->
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> Amaradio MN, **Ojha V**, Jansen G, Pappalardo X, Costanza J, Nicosia G
 * <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents </a> <br> EGU General Assembly 2022 Vienna, Austria, 23–27 May (2022) <br> Ayers D, Lau J, Amezcua J, Carrassi A, and **Ojha V**
