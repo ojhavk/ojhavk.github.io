@@ -12,27 +12,35 @@ title: Publications
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
 ## **Artificial Intelligence: _Deep Learning and Machine Learning_**
-
+<!-- 2022 -->
 * <a href="https://arxiv.org/abs/2202.02248" target="_blank">Backpropagation Neural Tree</a> (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">_Neural Networks_, 149, 66--83, Elsevier. (2022) <br> **Ojha V**, Nicosia G </span>
 * <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> **Ojha V**, Panto, B, Nicosia G 
 * <a href="https://arxiv.org/pdf/2207.04820.pdf" target="_blank">Assessing ranking and effectiveness of evolutionary algorithm hyperparameters using global sensitivity analysis methodologies </a> (<a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Swarm and Evolutionary Computation_, Elsevier (2022) <br> **Ojha V**, Greco A, Timmis J, and Nicosia G  
 * <a href="https://centaur.reading.ac.uk/99457/" target="_blank">CSS–A Cheap-Surrogate-Based Selection Operator for Multi-objective Optimization</a> <br> Int. Conf. on Bioinspired Optimization Methods and Their Appl., BIOMA (pp 54-68), Springer, LNCS, Maribor, Slovenia (2022) <br> Kong L, Kumar A, Snášel V, Das S, Krömer P, **Ojha V**  
-* <a href="<a https://arxiv.org/pdf/2201.12347.pdf" target="_blank">Adversarial robustness in deep learning: Attacks on fragile neurons</a> <br>  _30th Int. Conf. on Artificial Neural Net._, ICANN (pp 16-28), Springer, LNCS, Bratislava (2021) <br> Pravin C, Martino I, Nicosia G, **Ojha V** 
+<!-- 2021 -->
+* <a href="https://arxiv.org/pdf/2201.12347.pdf" target="_blank">Adversarial robustness in deep learning: Attacks on fragile neurons</a> <br>  _30th Int. Conf. on Artificial Neural Net._, ICANN (pp 16-28), Springer, LNCS, Bratislava (2021) <br> Pravin C, Martino I, Nicosia G, **Ojha V** 
 * <a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning </a>  <br> _Hydrology and Earth System Sciences 25_(8) 4435--4453 (2021) <br> Vandaele R, Dance SL, **Ojha V**
 * <a href="https://centaur.reading.ac.uk/100199/" target="_blank">Sensitivity analysis for deep learning: Ranking hyper-parameter influence</a> <br> _33rd IEEE Int. Conf. on Tools with Artificial Intelligence_, ICTAI. IEEE (2021) <br> Taylor R, Martino I, Nicosia G, **Ojha V**
+<!-- 2020 -->
 * <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Automated water segmentation and river level detection on images using transfer learning</a> <br> _42nd DAGM German Conference on Pattern Recognition, DAGM GCPR_, Tubingen, Germany, _Proceedings 42_ (pp 232–245) Springer, LNCS (2020) <br> Vandaele R, Dance SL, **Ojha V**
 * <a href="https://centaur.reading.ac.uk/90076/" target="_blank">Multi-objective optimization of multi-output neural tree</a> <br> _IEEE Congress on Evolutionary Computation_ (CEC), Glasgow, UK (pp 1--8). IEEE. (2020) <br> **Ojha V**, Nicosia G 
 * <a href="https://centaur.reading.ac.uk/94588/" target="_blank">A novel ECG signal denoising filter selection algorithm based on conventional neural networks</a> <br> _19th IEEE Int. Conf. on Machine Learning and Appl._, ICMLA, Miami (pp 1094--1100). (2020) <br> Pravin C, **Ojha V**
+<!-- 2019-->
 * <a href="https://arxiv.org/abs/1908.10122" target="_blank"> Heuristic design of fuzzy inference systems: A review of three decades of research </a> <br> _Engineering Applications in Artificial Intelligence, 85_, 845--864. Elsevier. (2019) <br> **Ojha V** Abraham A, Snášel V
 * <a href="https://arxiv.org/abs/1812.06128" target="_blank">Machine learning approaches to understand the influence of urban environments on human's physiological response </a> <br> _Information Sciences, 474_, 154--169. Elsevier. (2019) <br> **Ojha VK**, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G
+<!-- 2018-->
 * <a href="https://arxiv.org/abs/1705.05769" target="_blank">Multiobjective programming for type-2 hierarchical fuzzy trees </a> (<a href="https://github.com/vojha-code/Hierarchical-Fuzzy-Tree" target="_blank">Code</a>) <br> _IEEE Transaction on Fuzzy Systems, 26_(2), 915--936. (2018) <br> **Ojha VK**, Snášel V, Abraham A
+<!-- 2017-->
 * <a href="https://arxiv.org/abs/1705.05584" target="_blank">Metaheuristic design of feedforward neural networks: a review of two decades of research</a> <br> _Engineering Applications in Artificial Intelligence, 60_, 97-116. Elsevier (2017) <br> **Ojha VK**, Snášel V, Abraham A
 * <a href="https://arxiv.org/abs/1705.05592" target="_blank">Ensemble of heterogeneous flexible neural trees using multiobjective genetic programming </a> <br> _Applied Soft Computing, 52_, 909-924. Elsevier (2017) <br> **Ojha VK**, Abraham A, Snášel V
+<!-- 2016-->
 * <a href="https://doi.org/10.3233/HIS-160216" target="_blank">A multi-agent concurrent neurosimulated annealing algorithm: A case study on intelligent sensing of manhole gases </a> <br> _International Journal of Hybrid Intelligent Systems, 12_(4), 185--202. IOS Press (2016) <br> **Ojha VK**, Dutta P, Chaudhuri A, Saha H 
 * <a href="https://doi.org/10.3233/HIS-160215" target="_blank">Understating continuous ant colony optimization for neural network training: A case study on intelligent sensing of manhole gas components </a> <br>  _International Journal of Hybrid Intelligent Systems, 12_(4), 203--217. IOS Press (2016) <br> **Ojha VK**, Dutta P, Chaudhuri A, Saha H 
 * <a href="https://centaur.reading.ac.uk/93557/" target="_blank">Metaheuristic tuning of type-II fuzzy inference systems for data mining</a> <br> _IEEE Int. Conf. on Fuzzy Systems_, Fuzz-IEEE, Vancouver, Canada (pp 610--617) (2016) <br> **Ojha VK**, Abraham A, Snášel V  
 * <a href="https://centaur.reading.ac.uk/93555/" target="_blank">Substitution of the general partial differential equation with extended polynomial networks</a> <br> _IEEE Int. Jt. Conf. on Neural Netw._, IEEE IJCNN, Vancouver, Canada (pp 4819--4826) (2016) <br> Zjavka L,  Snášel V, **Ojha VK**, Pedrycz W
+<!-- 2015-->
 * <a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Dimensionality reduction and function approximation of poly(lactic-co-glycolic acid) micro-and nano-particle dissolution rate </a> <br> _International Journal of Nanomedicine, 10_, 1119--1129. (2015) <br> **Ojha VK**, Jackowski K, Abraham A, Snášel V   
+<!-- 2014-->
 * <a href="https://centaur.reading.ac.uk/82151/" target="_blank">ACO for continuous function optimization: A performance analysis</a> <br> _14th Int. Conf. on Intell. Syst. Design and Appl._, Okinawa, Japan (pp 145--150) IEEE (2014) <br> **Ojha VK**, Abraham A, Snášel V 
 * <a href="https://centaur.reading.ac.uk/93568/" target="_blank">Simultaneous optimization of neural network weights and active nodes using metaheuristics</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> **Ojha VK**, Abraham A, Snášel V 
 
