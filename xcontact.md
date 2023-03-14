@@ -16,5 +16,5 @@ School of Computing <br>
 Newcastle University <br>
 Urban Sciences Building <br>
 1 Science Square, Newcastle upon Tyne NE4 5TG <br>
-varun[_dot_]ojha[_at_]ncl[_dot_]ac[_dot_]uk
+varun[_dot_]ojha[_at_]ncl.ac.uk
 
