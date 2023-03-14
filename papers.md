@@ -49,6 +49,8 @@ title: Publications
 
 
 ## **Applied Artificial Intelligence and Interdisciplinary Works**
+<!-- 2023 -->
+* <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models </a> <br> _8th International Workshop in Machine Learning, Optimization, and Data Science_, LNCS (2023) <br> Amaradio, M. N., Jansen, G., Ojha, V., Costanza, J., Di Fatta, G., & Nicosia, G.
 <!-- 2022 -->
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G
 * <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents </a> <br> EGU General Assembly 2022 Vienna, Austria, 23–27 May (2022) <br> Ayers D, Lau J, Amezcua J, Carrassi A, and Ojha V
