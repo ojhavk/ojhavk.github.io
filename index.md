@@ -85,6 +85,8 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 <!-- output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) -->
 
 **Select Master Student Projects**
+* Using three GAN-based models to provide modeling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)*
+* Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
 * Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
 * Computing of local Lyapunov exponents using machine learning, Lau J (UoR, 2021, <a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
 * Autoencoders and GANs for addressing imbalance image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
