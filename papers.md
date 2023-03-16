@@ -48,7 +48,7 @@ title: Publications
 <br>
 
 
-## **Applied Artificial Intelligence and Interdisciplinary Works**
+## **Applied Artificial Intelligence (Engineering and Sciences)**
 <!-- 2023 -->
 * <a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-3928.html" target="_blank"> Comparison of deep learning approaches to monitor trash screen blockage from CCTV cameras </a> <br> _EGU23_ (2023) <br> Vandaele, R., Dance, S. L., & Ojha, V. 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43" target="_blank">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models </a> <br> _8th International Workshop in Machine Learning, Optimization, and Data Science_, LNCS (2023) <br> Amaradio, M. N., Jansen, G., Ojha, V., Costanza, J., Di Fatta, G., & Nicosia, G.
