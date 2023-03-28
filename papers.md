@@ -50,6 +50,7 @@ title: Publications
 
 ## **Applied Artificial Intelligence (Engineering and Sciences)**
 <!-- 2023 -->
+* <a href="https://arxiv.org/pdf/2202.04944.pdf" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (2023)  <br> Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V
 * <a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-3928.html" target="_blank"> Comparison of deep learning approaches to monitor trash screen blockage from CCTV cameras </a> <br> _EGU23_ (2023) <br> Vandaele, R., Dance, S. L., & Ojha, V. 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43" target="_blank">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models </a> <br> _8th International Workshop in Machine Learning, Optimization, and Data Science_, LNCS (2023) <br> Amaradio, M. N., Jansen, G., Ojha, V., Costanza, J., Di Fatta, G., & Nicosia, G.
 <!-- 2022 -->
@@ -103,7 +104,7 @@ title: Publications
 **Preprint**
  
 1. <a href="/data/papers/Remy_et_al_EDS.pdf" target="_blank">Calibrated river-level estimation from river-cameras using convolutional neural networks</a> <br> _Environmental Data Science_,Cambridge University Press (in review, Feb 2022) <br> Vandaele R, Dance SL, Ojha V.  
-2. <a href="https://arxiv.org/pdf/2202.04944.pdf" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (in review, Feb 2022)  <br> Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V 
+2.  
 -->
 
 
