@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-
+[Specification](#Deep Learning and Machine Learning)  [Applied Artificial Intelligenc](#Applied Artificial Intelligence (Engineering and Sciences))
 <!--- 
 <a href="{{site.baseurl}}/index">Home</a> | 
 <a href="{{site.baseurl}}/profile">Profile</a> | 
