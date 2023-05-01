@@ -49,7 +49,7 @@ title: Publications
 <br>
 
 
-## [**Applied-Artificial-Intelligence-Engineering-and-Sciences**]
+## [**Applied Artificial Intelligence Engineering and Sciences**]
 <!-- 2023 -->
 * <a href="https://arxiv.org/pdf/2202.04944.pdf" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (2023)  <br> Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G.
