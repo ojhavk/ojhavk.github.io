@@ -12,7 +12,7 @@ title: Publications
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
-## [**Deep Learning and Machine Learning**]
+## **Deep Learning and Machine Learning**
 <!-- 2022 -->
 * <a href="https://arxiv.org/abs/2202.02248" target="_blank">Backpropagation Neural Tree</a> (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Neural Networks_, 149, 66--83, Elsevier. (2022) <br> Ojha V, Nicosia G
 * <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> Ojha V, Panto, B, Nicosia G 
@@ -49,7 +49,7 @@ title: Publications
 <br>
 
 
-## [**Applied Artificial Intelligence Engineering and Sciences**]
+## **Applied Artificial Intelligence Engineering and Sciences**
 <!-- 2023 -->
 * <a href="https://arxiv.org/pdf/2202.04944.pdf" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (2023)  <br> Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G.
