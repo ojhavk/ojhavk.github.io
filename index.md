@@ -4,9 +4,6 @@ layout: default
 ---
 
 <!-- 
-* TOC
-{:toc}
-
 
 <a href="{{site.baseurl}}">Home</a> | 
 <a href="{{site.baseurl}}/profile">Profile</a> | 
