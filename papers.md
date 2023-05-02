@@ -2,7 +2,8 @@
 layout: default
 title: Publications
 ---
-
+* TOC
+{:toc}
 <!--- 
 [Deep Learning and Machine Learning!](#Deep-Learning-and-Machine-Learning) | 
 [Applied Artificial Intelligence!](#Applied-Artificial-Intelligence-Engineering-and-Sciences)
