@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-<div style="text-align: right"> <a href="#deep-learning-and-machine-learning">Deep Learning</a> | <a href="#applied-artificial-intelligence-engineering-and-sciences">Applied Artificial Intelligence </a> </div>
+<div style="text-align: right"> <a href="#deep-learning-and-machine-learning">Deep Learning</a> | <a href="#applied-artificial-intelligence-in-engineering-and-sciences">Applied Artificial Intelligence </a> </div>
 
 <br>
 
@@ -57,7 +57,7 @@ title: Publications
 <br>
 
 
-## **Applied Artificial Intelligence Engineering and Sciences**
+## **Applied Artificial Intelligence in Engineering and Sciences**
 <!-- 2023 -->
 * <a href="https://www.cambridge.org/core/journals/environmental-data-science/article/calibrated-riverlevel-estimation-from-river-cameras-using-convolutional-neural-networks/912B6F25D567B59C38C6D76185829F76" target="_blank"> Calibrated river-level estimation from river cameras using convolutional neural networks </a> <br> _Environmental Data Science_, Cambridge University Press (2023) <br> Vandaele, R., Dance, S. L., & Ojha, V.
 * <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4450" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (2023)  <br> Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V
