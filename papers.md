@@ -2,6 +2,9 @@
 layout: default
 title: Publications
 ---
+
+<div style="text-align: right"> <a href="#deep-learning-and-machine-learning">Deep Learning</a>  <a href="#applied-artificial-intelligence-engineering-and-sciences">Applied Artificial Intelligence </a> </div>
+
 <!--- 
 * TOC
 {:toc}
