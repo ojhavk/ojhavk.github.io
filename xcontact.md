@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-<div style="text-align: right"> <a href="#open-phd-position">Jobs</a> </div> 
+<div style="text-align: center"> <a href="#open-position">Jobs</a> </div> 
 <!---  
 <a href="{{site.baseurl}}/index">Home</a> | 
 <a href="{{site.baseurl}}/profile">Profile</a> | 
@@ -21,9 +21,9 @@ varun[_dot_]ojha[_at_]ncl.ac.uk <br>
 [https://www.ncl.ac.uk/computing/staff/profile/varunojha.html](https://www.ncl.ac.uk/computing/staff/profile/varunojha.html)
 
 
-## Open PhD Position
+## Open Positions
 
 **PhD Studentship in Computer Science: Deep Learning and Foundation Models** 
 
-https://www.ncl.ac.uk/postgraduate/fees-funding/search-funding/?code=comp2143
+[Apply Here](https://www.ncl.ac.uk/postgraduate/fees-funding/search-funding/?code=comp2143)
 
