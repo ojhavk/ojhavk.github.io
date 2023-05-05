@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-<div style="text-align: right"> <a href="#deep-learning-and-machine-learning">Deep Learning</a> | <a href="#applied-artificial-intelligence-in-engineering-and-sciences">Applied Artificial Intelligence </a> </div>
+<div style="text-align: right"> <a href="#deep-learning-and-machine-learning">Deep Learning</a> | <a href="#applied-artificial-intelligence-in-engineering-and-sciences">Applied Artificial Intelligence</a> </div>
 
 <br>
 
