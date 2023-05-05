@@ -9,6 +9,9 @@ title: Talks
 <a href="{{site.baseurl}}/publications">Publications</a> | 
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a> --->
+## Blogs
+
+* <a href="https://serokell.io/blog/neural-networks-with-varun-ojha" target="_blank">NN Research Best Practices</a>  <br> <span style="color:gray"> Article by Inna Logunova </span>
 
 ## Research Talks 
 
