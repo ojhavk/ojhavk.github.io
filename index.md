@@ -3,7 +3,7 @@ title: Research
 layout: default
 ---
 
-<div style="text-align: center"> <a href="{{site.baseurl}}/xcontact">jobs</a> </div> 
+<div style="text-align: left"> <a href="{{site.baseurl}}/xcontact">jobs</a> </div> <br>
 <!-- 
 
 <a href="{{site.baseurl}}">Home</a> | 
