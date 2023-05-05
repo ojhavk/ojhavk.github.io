@@ -9,9 +9,8 @@ title: Talks
 <a href="{{site.baseurl}}/publications">Publications</a> | 
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a> --->
-## Blogs
 
-* <a href="https://serokell.io/blog/neural-networks-with-varun-ojha" target="_blank">NN Research Best Practices</a>  <br> <span style="color:gray"> Article by Inna Logunova </span>
+<div style="text-align: right"> <a href="#research-talks">Talks</a> | <a href="#blogs">Blogs</a> </div>
 
 ## Research Talks 
 
@@ -30,3 +29,8 @@ title: Talks
 * A computational intelligenceperspective of modeling and data analysis 10/2015 (<a href="/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">Heinrich-Heine-University, Düsseldorf, Germany</span> 
 * Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">NICE Group, Computer Science, University of Surrey, UK</span> 
 * Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">Computer Science, Coventry University, UK</span>  
+
+
+## Blogs
+
+* <a href="https://serokell.io/blog/neural-networks-with-varun-ojha" target="_blank">NN Research Best Practices</a>  <br> <span style="color:gray"> Article by Inna Logunova </span>
