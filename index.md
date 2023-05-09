@@ -83,7 +83,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 
 **PhD Projects (completed and present)**
 * Complex Network Analysis of Deep Neural Networks (2023–present) UoR
-* Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (20192023) UoR
+* Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (2019-2023) UoR
 * Using supervised learning to estimate local instabilities in chaotic systems D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
 * Sensitivity Analysis of Deep Neural Networks, (2020-2022) UoR
 
