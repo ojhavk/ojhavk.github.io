@@ -82,10 +82,10 @@ I recommend watching the following video explaining a range of interdisciplinary
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (<a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>)
 
 **PhD Projects (completed and present)**
-* Complex Network Analysis of Deep Neural Networks <br> (2023–present) UoR
-* Signal Processing for the Robustness Analysis of Deep Neural Networks <br> C Parvin (2023) UoR
-* Using supervised learning to estimate local instabilities in chaotic systems <br> D Ayers (2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
-* Sensitivity Analysis of Deep Neural Networks <br> (2022) UoR
+* Complex Network Analysis of Deep Neural Networks (2023–present) UoR
+* Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (20192023) UoR
+* Using supervised learning to estimate local instabilities in chaotic systems D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
+* Sensitivity Analysis of Deep Neural Networks, (2020-2022) UoR
 
 <!-- output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) -->
 
