@@ -20,7 +20,7 @@ title: Contact
 
 ** I will support the application of candidates with a strong background for PhD | PostDoc Scholarship
 * [Commonwealth PhD Scholarship - candidates from commonwealth countries](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
-* [CSC - only for candidates from China](https://www.chinesescholarshipcouncil.com/)
+* [CSC PhD Scholarship - only for candidates from China](https://www.chinesescholarshipcouncil.com/)
 
 * [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
