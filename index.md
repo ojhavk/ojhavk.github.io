@@ -9,7 +9,7 @@ layout: default
 <a href="{{site.baseurl}}/research">Research</a> | 
 <a href="{{site.baseurl}}/teaching">Teaching</a>  -->
 
-<div style="text-align: left"> <a href="{{site.baseurl}}/xcontact">phd|postdoc</a> </div> <br>
+<div style="text-align: left"> <a href="{{site.baseurl}}/xcontact">phd | postdoc</a> </div> <br>
 
 
 
