@@ -34,3 +34,4 @@ title: Talks
 ## Blogs
 
 * <a href="https://serokell.io/blog/neural-networks-with-varun-ojha" target="_blank">NN Research Best Practices</a>  <br> <span style="color:gray"> Article by Inna Logunova </span>
+* <a href="https://archive.arch.ethz.ch/esum/" target="_blank">Human Percepation - Data Science Approach</a>  <br> <span style="color:gray"> Article by V Ojha </span>
