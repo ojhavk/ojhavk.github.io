@@ -18,6 +18,7 @@ title: Contact
 
 [Apply Here](https://www.ncl.ac.uk/postgraduate/fees-funding/search-funding/?code=comp2143)
 
+<!---
 <br>
 
 **I will support the application of candidates with a strong background for PhD | PostDoc Scholarship**
@@ -25,7 +26,7 @@ title: Contact
 * [CSC PhD Scholarship - only for candidates from China](https://www.chinesescholarshipcouncil.com/)
 
 * [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
-
+--->
 
 ### Contact
 
