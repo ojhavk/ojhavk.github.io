@@ -29,7 +29,8 @@ title: Contact
 
 * [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
-
+I am currently working on the Security, Explainability and Trustworthiness of Deep Learning Algorithms and their application to Computer Vision and NLP Problems.  
+Interested candidates should send a research proposal in this area along with your CV. 
 
 ### Contact
 
