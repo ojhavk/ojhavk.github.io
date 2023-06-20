@@ -21,10 +21,10 @@ title: Contact
 
 <br>
 
-**I am open to support candidates with a strong background for PhD | PostDoc Scholarship**
+**I am open to supporting candidates with a strong background for PhD | PostDoc Scholarship**
 * [Commonwealth PhD Scholarship - candidates from commonwealth countries](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
 * [CSC PhD Scholarship - only for candidates from China](https://www.chinesescholarshipcouncil.com/)
-* Other PhD Scholarship specific to condidate's own country
+* Other PhD Scholarship specific to candidate's own country
 * Self-funded candidates with a strong background for PhD
 
 * [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
