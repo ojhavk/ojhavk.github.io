@@ -83,11 +83,11 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 
 **PhD Projects (completed and present)**
 * Complex Network Analysis of Deep Neural Networks (2023–present) UoR
-* Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (2019-2023) UoR
-* Using supervised learning to estimate local instabilities in chaotic systems D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
+* Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (2019-2023) UoR  
+* Supervised learning to estimate instabilities in chaotic systems D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
 * Sensitivity Analysis of Deep Neural Networks, (2020-2022) UoR
 
-<!-- output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) -->
+<!-- <!-- https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf --!> output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) -->
 
 **Select Master Student Projects**
 * Using three GAN-based models to provide modeling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
