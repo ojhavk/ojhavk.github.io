@@ -23,7 +23,7 @@ Currently open to self-funded candidates.
 
 **I am open to supporting candidates with a strong background for PhD | PostDoc Scholarship**
 * [Commonwealth PhD Scholarship - candidates from commonwealth countries](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
-* [CSC PhD Scholarship - only for candidates from China](https://www.chinesescholarshipcouncil.com/)
+* [CSC PhD Scholarship - only for candidates from China](https://www.ncl.ac.uk/mediav8/modern-languages/files/csc-nu-phd-scholarships-regulations-22-23.pdf)
 * Other PhD Scholarship specific to the candidate's own country
 * Self-funded candidates with a strong background for a PhD
 
