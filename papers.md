@@ -21,7 +21,8 @@ title: Publications
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
 ## **Deep Learning and Machine Learning**
-<!-- 2022 -->
+<!-- 2023 -->
+* <a href="/data/papers/Snasel_et_al_2023.pdf" target="_blank">Large-scale Data Classification based on the Integrated Fusion of Fuzzy Learning and Graph Neural Network</a> <br> _Information Fusion_, Elsevier. (2023) <br> Snasel V, Stepnicka M, Ojha V, Suganthan PN, Gao R, Kong L.
 * <a href="https://doi.org/10.1016/j.ins.2023.119108" target="_blank">Low-Rank and Global-Representation-Key-based Attention for Graph Transformers</a> <br> _Information Sciences_, Elsevier. (2023) <br> Kong L, Ojha V, Gao R, Suganthan PN, Snasel V
 * <a href="https://arxiv.org/abs/2202.02248" target="_blank">Backpropagation Neural Tree</a> (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Neural Networks_, 149, 66--83, Elsevier. (2022) <br> Ojha V, Nicosia G
 * <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> Ojha V, Panto, B, Nicosia G 
