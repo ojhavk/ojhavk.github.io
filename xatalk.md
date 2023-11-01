@@ -14,7 +14,7 @@ title: Talks
 
 ## Research Talks 
 
-* Deep Learning for Flood Monitoring Challenges 11/2023 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">Link</a>, <a href="/data/Research_Talks/Durham_Flood_Monitoring.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">Department of Computer Science, Durham University, UK</span>
+* Deep Learning for Flood Monitoring Challenges 11/2023 (<a href="https://vivid.webspace.durham.ac.uk/seminars/" target="_blank">Link</a>, <a href="/data/Research_Talks/Durham_Flood_Monitoring.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">Department of Computer Science, Durham University, UK</span>
 * Backpropagation Neural Tree 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">Link</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">8th Int Conference on Machine Learning, Optimization, and Data Science, Italy</span>
 * Sensitivity Analysis of Deep Learning and Optimization Algorithms 09/2022 (<a href="https://lod2022.icas.cc/tutorial-speakers/" target="_blank">Link</a>, <a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">8th Int Conference on Machine Learning, Optimization, and Data Science, Italy</span>
 * AI for Engginering and Science Problems 12/2022 (<a href="/data/Research_Talks/Surrey/AI4Eng.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">University of Surrey, Surrey, UK</span>
