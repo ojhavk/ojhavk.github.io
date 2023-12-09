@@ -41,7 +41,7 @@ Newcastle University <br>
 Urban Sciences Building <br>
 1 Science Square, Newcastle upon Tyne NE4 5TG <br>
 varun[_dot_]ojha[_at_]ncl.ac.uk <br>
-[https://www.ncl.ac.uk/computing/staff/profile/varunojha.html](https://www.ncl.ac.uk/computing/staff/profile/varunojha.html)
+[ncl.ac.uk/computing/staff/profile/varunojha.html](https://www.ncl.ac.uk/computing/staff/profile/varunojha.html)
 
 
 
