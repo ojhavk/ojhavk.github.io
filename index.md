@@ -29,7 +29,7 @@ I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to
 ## Deep Learning 
 (_Security, Explainability and Trustworthiness of AI_) <br>
 In Deep Learning, I work on **Neural Network Architecture Search and Analysis**. 
-My original works have been about developing algorithms like **Backpropagation Neural Tree** with a long-term goal to developing neuroscience-informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
+My original works have been about developing algorithms like **Backpropagation Neural Tree** with a long-term goal of developing neuroscience-informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
 <p align="center">
   <img src="/imgs/tree_bio.svg" />
@@ -88,7 +88,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 * Adversarial Robustness Federated Deep Learning (2023–present) NCL
 * Complex Network Analysis of Deep Neural Networks (2023–present) NCL
 * Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (2019-2023) UoR  
-* Supervised learning to estimate instabilities in chaotic systems D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
+* Machine learning in chaotic systems D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
 * Sensitivity Analysis of Deep Neural Networks, (2020-2022) UoR
 
 **Select Master Student Projects**
