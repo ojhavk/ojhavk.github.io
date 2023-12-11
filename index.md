@@ -21,15 +21,15 @@ layout: default
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. For example, I have worked with researchers from Engineering, Climate Science, Hydrology, Environmental Science and Architecture, Physics, and Biology disciplines. I encourage you to walk through some example research work on this page.
+I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. For example, I have worked with researchers from the Engineering, Climate Science, Hydrology, Environmental Science and Architecture, Physics, and Biology disciplines. I encourage you to walk through some examples of research work on this page.
 
 <!-- Example of our work in this webpage should encorage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
 
 
 ## Deep Learning 
 (_Security, Explainability and Trustworthiness of AI_) <br>
-In Deep Learniing, I work on work on **Neural Network Architectuere Search and Analysis**. 
-My original works have been about developing algorithms like **Backpropagation Neural Tree** with long term goal to develop _neuroscience_ informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
+In Deep Learning, I work on **Neural Network Architecture Search and Analysis**. 
+My original works have been about developing algorithms like **Backpropagation Neural Tree** with a long-term goal to developing neuroscience-informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
 <p align="center">
   <img src="/imgs/tree_bio.svg" />
@@ -46,7 +46,7 @@ My original works have been about developing algorithms like **Backpropagation N
 </p> 
 **Figure.** Adversarial attck on Deep Learning (<a href="https://arxiv.org/pdf/2201.12347.pdf" target="_blank">Pravin et al 2021</a>) 
 
-## Deep Learning and Computer Vison
+## Deep Learning and Computer Vision
 (_Image Segmentation, Object Detection, Transfer Learning_) <br>
 In my recent Computer Vison work, we investigated how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events on the rivers (Severn and Avon, UK) Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>). 
 
