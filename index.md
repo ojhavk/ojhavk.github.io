@@ -23,7 +23,7 @@ layout: default
 
 I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. For example, I have worked with researchers from the Engineering, Climate Science, Hydrology, Environmental Science and Architecture, Physics, and Biology disciplines. I encourage you to walk through some examples of research work on this page.
 
-<!-- Example of our work in this webpage should encorage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
+<!-- Example of our work in this webpage should encourage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning, focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
 
 
 ## Deep Learning 
@@ -36,7 +36,7 @@ My original works have been about developing algorithms like **Backpropagation N
 </p>
 <!-- ![](/imgs/tree_bio.svg) --->
 
-**Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model (Travis et al., 2005), the middle is a single neuron dendritic tree (Jones and Kording, 2021), and the right is the proposed backpropagation neural tree (<a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank"> Ojha et al 2022 </a>). Check previous related work on trees (<a href="https://arxiv.org/abs/1705.05592" target="_blank">Ojha et al 2016</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">Ojha et al 2017</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory or complex network literature for PhD research are welcomed!
+**Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model (Travis et al., 2005), the middle is a single neuron dendritic tree (Jones and Kording, 2021), and the right is the proposed backpropagation neural tree (<a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank"> Ojha et al. 2022 </a>). Check previous related work on trees (<a href="https://arxiv.org/abs/1705.05592" target="_blank">Ojha et al 2016</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">Ojha et al 2017</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory or complex network literature for PhD research are welcomed!
 
 
 ## Adversarial Deep Learning 
@@ -48,27 +48,27 @@ My original works have been about developing algorithms like **Backpropagation N
 
 ## Deep Learning and Computer Vision
 (_Image Segmentation, Object Detection, Transfer Learning_) <br>
-In my recent Computer Vison work, we investigated how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events on the rivers (Severn and Avon, UK) Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>). 
+In my recent Computer Vison work, we investigated how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events on the rivers (Severn and Avon, UK). Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>). 
 
 <p align="center">
   <img src="/imgs/water_segmentation_work.png" width="700" />
 </p> 
 
-**Figure.** Time-series of river camera images. Water (blue) and non-water pixel predictions (<a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al 2021</a>).
+**Figure.** Time series of river camera images. Water (blue) and non-water pixel predictions (<a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>).
 
 <!-- ![](/imgs/water_segmentation_work.png) -->
 
 ## Interdisciplinary Research
 I like to work on **interdisciplinary research** and **data science** projects. For example, I work with Civil Engineering researchers on the following problem.
-A _Civil Engineering_ problem was solved by applying AI algorithms. In structural engineering, where large steel constructions, such as bridges and domes, are built, whose structural response is characterised by large displacements and are vulnerable to progressive collapses due to buckling effects, leading to sudden failures. A thorough analysis of such buckling was analysed using optimisation algorithms.
+A _Civil Engineering_ problem was solved by applying AI algorithms. In structural engineering, where large steel constructions, such as bridges and domes, are built, whose structural response is characterised by large displacements and are vulnerable to progressive collapses due to buckling effects, leading to sudden failures. A thorough analysis of such buckling was done using optimisation algorithms.
 
 <p align="center">
   <img src="/imgs/Civil_Engg.png" width="500" />
 </p>
-**Figure.** Twenty Four Member Shallow Truss Structure. Left: Top View and Side View of the structure.
-The central node of the structure is indicated by a lighter color dot and arrow. The arrow indicates a vertical downward external force. Right: The results of adaptive search space decomposition method applied on this benchmark (<a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank"> Ojha et al 2022 </a>).
+**Figure.** Twenty-Four Member Shallow Truss Structure. Left: Top View and Side View of the structure.
+The central node of the structure is indicated by a lighter colour dot and arrow. The arrow indicates a vertical downward external force. Right: The results of the adaptive search space decomposition method applied on this benchmark (<a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank"> Ojha et al. 2022 </a>).
 
-I recommend watching the following video explaining a range of interdisciplinary research projects I have had the opportunity to work on. This talk was for AI starters and will give a simplified layman overview of AI and its application.
+I recommend watching the following video explaining a range of interdisciplinary research projects I have had the opportunity to work on. This talk was for AI starters and will provide a simplified overview of AI and its application.
 
 <p align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3U4-7Y-epFw?start=117" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -78,11 +78,15 @@ I recommend watching the following video explaining a range of interdisciplinary
 ## Research Student Projects (Supervised)
 
 **Postdoc**
+* 
 * Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–present) <br> (co-supervision
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (<a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>)
 
 **PhD Projects (completed and present)**
-* Complex Network Analysis of Deep Neural Networks (2023–present) UoR
+* Hyperbolic Neural Networks (2023–present) NCL
+* Adversarial Robustness Training of Deep Learning (2023–present) NCL
+* Adversarial Robustness Federated Deep Learning (2023–present) NCL
+* Complex Network Analysis of Deep Neural Networks (2023–present) NCL
 * Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (2019-2023) UoR  
 * Supervised learning to estimate instabilities in chaotic systems D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
 * Sensitivity Analysis of Deep Neural Networks, (2020-2022) UoR
@@ -90,7 +94,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 <!-- <!-- https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf --!> output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) -->
 
 **Select Master Student Projects**
-* Using three GAN-based models to provide modeling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
+* Using three GAN-based models to provide modelling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
 * Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
 * Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
 * Computing of local Lyapunov exponents using machine learning, Lau J (UoR, 2021, <a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
@@ -98,7 +102,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 * Transfer learning for segmentation of waste bottles using Mask R-CNN, Jaikumar P (2020, <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Paper</a>)
 * Machine Learning modelling of die filling for pharmaceutical powders, Peschiutta P (University of Padua, Padua, Italy, 2020) (external co-supervision with <a href="https://www.surrey.ac.uk/people/charley-wu" target="_blank">Prof C Wu</a>) (<a href="http://tesi.cab.unipd.it/64688/1/Peschiutta_Stefano_1190561.pdf" target="_blank">Thesis</a>)
 * Non-spatial and spatial statistics for analysing human’s perception of the built environment, Heidi S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
-* Convolutional neural network based visual feature extraction for evaluation of the
+* Convolutional neural network-based visual feature extraction for evaluation of the
 urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
 * People’s perception of urban and architectural features, Charlotte S (ETH Zurich, 2017, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
  
