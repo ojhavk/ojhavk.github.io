@@ -23,7 +23,7 @@ layout: default
 
 I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. For example, I have worked with researchers from the Engineering, Climate Science, Hydrology, Environmental Science and Architecture, Physics, and Biology disciplines. I encourage you to walk through some examples of research work on this page.
 
-<!-- Example of our work in this webpage should encourage   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning, focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
+<!-- Example of our work on this webpage should encourage.   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning, focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
 
 
 ## Deep Learning 
@@ -48,7 +48,7 @@ My original works have been about developing algorithms like **Backpropagation N
 
 ## Deep Learning and Computer Vision
 (_Image Segmentation, Object Detection, Transfer Learning_) <br>
-In my recent Computer Vison work, we investigated how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events on the rivers (Severn and Avon, UK). Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>). 
+In my recent Computer Vision work, we investigated how Transfer Learning and Semantic Segmentation can be applied to a time series of images (see Fig below) to predict flood events on the rivers (Severn and Avon, UK). Our to-date results have successfully demonstrated use to Transfer Learning with an accuracy above 91% for these flood events (check out our research: <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>). 
 
 <p align="center">
   <img src="/imgs/water_segmentation_work.png" width="700" />
@@ -78,7 +78,7 @@ I recommend watching the following video explaining a range of interdisciplinary
 ## Research Student Projects (Supervised)
 
 **Postdoc**
-* 
+* Deep learning in Computer Vision
 * Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–present) <br> (co-supervision
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (<a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>)
 
@@ -90,8 +90,6 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 * Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (2019-2023) UoR  
 * Supervised learning to estimate instabilities in chaotic systems D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
 * Sensitivity Analysis of Deep Neural Networks, (2020-2022) UoR
-
-<!-- <!-- https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf --!> output: a <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">poster</a>) -->
 
 **Select Master Student Projects**
 * Using three GAN-based models to provide modelling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
