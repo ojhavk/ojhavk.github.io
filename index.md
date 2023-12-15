@@ -42,7 +42,7 @@ My original works have been about developing algorithms like **Backpropagation N
 ## Adversarial Deep Learning 
 
 <p align="center">
-  <img src="/imgs/Adversarial_attack.png" width="700" />
+  <img src="/imgs/Advesarial_attack_paper.png" width="700" />
 </p> 
 **Figure.** Adversarial attck on Deep Learning (<a href="https://arxiv.org/pdf/2201.12347.pdf" target="_blank">Pravin et al 2021</a>) 
 
