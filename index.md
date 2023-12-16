@@ -28,7 +28,7 @@ I work on Deep Learning and Machine Learning. I apply Artificial Intelligence to
 
 ## Deep Learning 
 (_Security, Explainability and Trustworthiness of AI_) <br>
-In Deep Learning, I work on **Neural Network Architecture Search and Analysis**. 
+In Deep Learning, I work on **Neural Architecture Search and Analysis**. 
 My original works have been about developing algorithms like **Backpropagation Neural Tree** with a long-term goal of developing neuroscience-informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
 
 <p align="center">
