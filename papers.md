@@ -124,17 +124,17 @@ title: Publications
 
 ## Edited Proceedings	
 * <a href="https://www.springer.com/gp/book/.." target="_blank">8th International Conference Machine Learning, Optimization, and Data Science, LOD 2022</a>, Siena, Italy, Sep 18–22, 2022, (Springer LNCS )  <br>
-Nicosia G, Ojha V, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,
+<span style="color:gray">Nicosia G, Ojha V, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R</span>
 * <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021</a>, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163) <br>
-Nicosia G, Ojha V,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R
+<span style="color:gray">Nicosia G, Ojha V,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R</span>
 * <a href="https://www.springer.com/gp/book/9783030645793" target="_blank">6th International Conference Machine Learning, Optimization, and Data Science, LOD 2020</a>, Siena, Italy, July 19–23, 2020, (Springer LNCS, volume 12565)  <br>
-Nicosia G, Ojha V, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R,  
+<span style="color:gray">Nicosia G, Ojha V, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R</span>
 
 
 
 
 ## Thesis
-<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">Feature Selection and Function Approximation Using Adaptive Algorithms</a> <br> _Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic_  <br> Ojha VK (2016)
+<a href="https://dspace.vsb.cz/handle/10084/112274?locale-attribute=en" target="_blank">Feature Selection and Function Approximation Using Adaptive Algorithms</a> <br> _Department of Computer Science, Technical University of Ostrava, Ostrava, Czech Republic_ (2016) <br> <span style="color:gray"> Ojha VK </span>
 
 <!-- 
 _I proposed two novel general-purpose machine learning algorithms: heterogeneous neural tree and fuzzy inference tree. I investigated these two algorithms on benchmark and two industrial applications. The algorithms successfully demonstrated capabilities of simultaneous feature selection and function approximation with high accuracy,  outperforming compared state-of-the-art algorithms of the time_. 
