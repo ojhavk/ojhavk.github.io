@@ -44,7 +44,7 @@ My original works have been about developing algorithms like **Backpropagation N
 <p align="center">
   <img src="/imgs/Advesarial_attack_paper.png" width="700" />
 </p> 
-**Figure.** Adversarial attacks on deep learning: explainability, compactness, adversarial robustness (<a href="https://arxiv.org/abs/2312.09821" target="_blank">Pravin et al 2023</a>). Also, check our previous work on the attacks on fragile neurons (<a href="https://arxiv.org/abs/2201.12347" target="_blank">Pravin et al. 2023</a>). 
+**Figure.** Adversarial attacks on deep learning: explainability, compactness, adversarial robustness (<a href="https://arxiv.org/abs/2312.09821" target="_blank">Pravin et al 2023</a>). Also, check our previous work on the attacks on fragile neurons of deep neural networks (<a href="https://arxiv.org/abs/2201.12347" target="_blank">Pravin et al. 2021</a>). 
 
 ## Deep Learning and Computer Vision
 (_Image Segmentation, Object Detection, Transfer Learning_) <br>
