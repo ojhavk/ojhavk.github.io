@@ -22,7 +22,7 @@ title: Publications
 
 ## **Deep Learning and Machine Learning**
 <!-- 2023 -->
-* <a href="/data/papers/...pdf" target="_blank">Fragility, Robustness and Antifragility in Deep Learning</a> <br> _Artificial Intelligence_, Elsevier. (2023) <br>  <span style="color:gray">Pravin C, Martino I, Nicosia G, Ojha V </span>
+* <a href="http://arxiv.org/abs/2312.09821" target="_blank">Fragility, Robustness and Antifragility in Deep Learning</a> <br> _Artificial Intelligence_, Elsevier. (2023) <br>  <span style="color:gray">Pravin C, Martino I, Nicosia G, Ojha V </span>
 * <a href="/data/papers/Snasel_et_al_2023.pdf" target="_blank">Large-scale Data Classification based on the Integrated Fusion of Fuzzy Learning and Graph Neural Network</a> <br> _Information Fusion_, Elsevier. (2023) <br> <span style="color:gray"> Snasel V, Stepnicka M, Ojha V, Suganthan PN, Gao R, Kong L </span>
 * <a href="https://doi.org/10.1016/j.ins.2023.119108" target="_blank">Low-Rank and Global-Representation-Key-based Attention for Graph Transformers</a> <br> _Information Sciences_, Elsevier. (2023) <br> <span style="color:gray"> Kong L, Ojha V, Gao R, Suganthan PN, Snasel V </span>
 * <a href="https://arxiv.org/abs/2202.02248" target="_blank">Backpropagation Neural Tree</a> (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Neural Networks_, Elsevier. (2022) <br> <span style="color:gray"> Ojha V, Nicosia G </span>
