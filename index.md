@@ -71,7 +71,7 @@ The central node of the structure is indicated by a lighter colour dot and arrow
 I recommend watching the following video explaining a range of interdisciplinary research projects I have had the opportunity to work on. This talk was for AI starters and will provide a simplified overview of AI and its application.
 
 <p align="center">
-  <iframe width="700" hieght="400" src="https://www.youtube.com/embed/3U4-7Y-epFw?start=117" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="700" hieght="500" src="https://www.youtube.com/embed/3U4-7Y-epFw?start=117" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
