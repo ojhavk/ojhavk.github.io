@@ -36,7 +36,7 @@ My original works have been about developing algorithms like **Backpropagation N
 </p>
 <!-- ![](/imgs/tree_bio.svg) --->
 
-**Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model (Travis et al., 2005), the middle is a single neuron dendritic tree (Jones and Kording, 2021), and the right is the proposed backpropagation neural tree (<a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank"> Ojha et al. 2022 </a>). Check previous related work on trees (<a href="https://arxiv.org/abs/1705.05592" target="_blank">Ojha et al 2016</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">Ojha et al 2017</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory or complex network literature for PhD research are welcome!
+**Figure.** Biologically plausible neural computation of dendritic trees. The red circle represents a neuron (soma), black lines are dendrites, and the numbers indicate inputs. Left is a biological neuron model (Travis et al., 2005), the middle is a single neuron dendritic tree (Jones and Kording, 2021), and the right is the proposed backpropagation neural tree (<a href="https://arxiv.org/pdf/2202.02248.pdf" target="_blank"> Ojha et al. 2022 </a>). Check previous related work on trees (<a href="https://arxiv.org/abs/1705.05592" target="_blank">Ojha et al 2016</a> and <a a href="https://arxiv.org/abs/1705.05769" target="_blank">Ojha et al 2017</a>). Students interested in the topics of **neural networks** and **deep learning** network architecture analysis (e.g., using adversarial robustness) and exploring neuroscience, information theory, or complex network literature for PhD research are welcome!
 
 
 ## Adversarial Deep Learning 
@@ -44,7 +44,7 @@ My original works have been about developing algorithms like **Backpropagation N
 <p align="center">
   <img src="/imgs/Advesarial_attack_paper.png" width="700" />
 </p> 
-**Figure.** Adversarial attacks on deep learning: explainability, compactness, adversarial robustness (<a href="https://arxiv.org/abs/2312.09821" target="_blank">Pravin et al 2023</a>). Also, check our previous work on the attacks on fragile neurons of deep neural networks (<a href="https://arxiv.org/abs/2201.12347" target="_blank">Pravin et al. 2021</a>). 
+**Figure.** Adversarial attacks on deep learning: explainability, compactness, adversarial robustness (<a href="https://arxiv.org/abs/2312.09821" target="_blank">Pravin et al. 2023</a>). Also, check our previous work on the attacks on fragile neurons of deep neural networks (<a href="https://arxiv.org/abs/2201.12347" target="_blank">Pravin et al. 2021</a>). 
 
 ## Deep Learning and Computer Vision
 (_Image Segmentation, Object Detection, Transfer Learning_) <br>
@@ -60,13 +60,13 @@ In my recent Computer Vision work, we investigated how Transfer Learning and Sem
 
 ## Interdisciplinary Research
 I like to work on **interdisciplinary research** and **data science** projects. For example, I work with Civil Engineering researchers on the following problem.
-A _Civil Engineering_ problem was solved by applying AI algorithms. In structural engineering, where large steel constructions, such as bridges and domes, are built, whose structural response is characterised by large displacements and are vulnerable to progressive collapses due to buckling effects, leading to sudden failures. A thorough analysis of such buckling was done using optimisation algorithms.
+A _Civil Engineering_ problem was solved by applying AI algorithms. In structural engineering, large steel constructions, such as bridges and domes, are built, whose structural response is characterised by large displacements and are vulnerable to progressive collapses due to buckling effects, leading to sudden failures. A thorough analysis of such buckling was done using optimisation algorithms.
 
 <p align="center">
   <img src="/imgs/Civil_Engg.png" width="700" />
 </p>
 **Figure.** Twenty-Four Member Shallow Truss Structure. Left: Top View and Side View of the structure.
-The central node of the structure is indicated by a lighter colour dot and arrow. The arrow indicates a vertical downward external force. Right: The results of the adaptive search space decomposition method applied on this benchmark (<a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank"> Ojha et al. 2022 </a>).
+The central node of the structure is indicated by a lighter colour dot and arrow. The arrow indicates a vertical downward external force. Right: The results of the adaptive search space decomposition method (Center) applied on this benchmark (<a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank"> Ojha et al. 2022 </a>).
 
 I recommend watching the following video explaining a range of interdisciplinary research projects I have had the opportunity to work on. This talk was for AI starters and will provide a simplified overview of AI and its application.
 
