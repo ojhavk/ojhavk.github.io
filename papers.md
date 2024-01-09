@@ -21,7 +21,7 @@ title: Publications
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
 ## **Deep Learning and Machine Learning**
-<!-- 2023 -->[
+<!-- 2023 -->
 * <a href="http://arxiv.org/abs/2312.09821" target="_blank">Fragility, Robustness and Antifragility in Deep Learning</a> <br> _Artificial Intelligence_, Elsevier. (2023) <br>  <span style="color:gray">Pravin C, Martino I, Nicosia G, Ojha V </span>
 * <a href="https://doi.org/10.1007/978-3-030-54621-2_827-1" target="_blank">Multi-Task Deep Learning as Multi-Objective Optimization</a> <br> _Encyclopedia of Optimization_. (2023) <br>  <span style="color:gray">G Di Fatta, G Nicosia, V Ojha, P Pardalos </span>
 * <a href="/data/papers/Snasel_et_al_2023.pdf" target="_blank">Large-scale Data Classification based on the Integrated Fusion of Fuzzy Learning and Graph Neural Network</a> <br> _Information Fusion_, Elsevier. (2023) <br> <span style="color:gray"> Snasel V, Stepnicka M, Ojha V, Suganthan PN, Gao R, Kong L </span>
