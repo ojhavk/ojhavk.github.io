@@ -78,8 +78,8 @@ I recommend watching the following video explaining a range of interdisciplinary
 ## Research Student Projects (Supervised)
 
 **Postdoc**
-* Deep learning in Computer Vision
-* Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–present) <br> (co-supervision
+* Deep learning in Computer Vision (2024-present)
+* Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–2024) <br> (co-supervision
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (<a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>)
 
 **PhD Projects (completed and present)**
