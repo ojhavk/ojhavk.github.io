@@ -89,7 +89,8 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
   * Complex Network Analysis of Deep Neural Networks (2023–present) NCL
 * Complicated:
   * Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (2023) UoR
-  * Supervised learning to estimate instabilities in chaotic systems, D Ayers (2019-2023) UoR (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
+  * Supervised learning to estimate instabilities in chaotic systems, D Ayers (2024) UoR
+    <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
   
 
