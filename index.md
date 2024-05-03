@@ -95,6 +95,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
   
 
 **Select Master Student Projects**
+* Reconstruction and Parameter Estimation of Dynamical Systems using Neural Networks (2022, <a href="https://thesis.unipd.it/retrieve/c7e3e5f8-34c5-47a3-9776-03edc3578548/Bassi_Alberto.pdf" target="_blank">Thesis</a>)
 * Using three GAN-based models to provide modelling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
 * Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
 * Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
