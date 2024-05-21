@@ -13,6 +13,7 @@ title: Talks
 <div style="text-align: right"> <a href="#research-talks">Talks</a> | <a href="#blogs">Blogs</a> </div>
 
 ## Research Talks 
+* Deep Learning for Flood Monitoring 05/2024 (<a href="/data/Research_Talks/flood_monitoring_ncl.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">School of Engineering, Newcastle University, UK</span>
 * Artificial Intelligence Challenges: Data and Model Quality 05/2024 (<a href="https://edgeaihub.co.uk/" target="_blank">Link</a>, <a href="/data/Research_Talks/edgeai_ai_theme.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">National Edge AI Hub Launch Event, Newcastle University, UK</span>
 * Fragility, Robustness, and Antifragility in Deep Learning 03/2024 (<a href="https://www.lboro.ac.uk/departments/compsci/events/2024/neuromorphic-technology/" target="_blank">Link</a>, <a href="/data/Research_Talks/dnn_fragility_talk.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">AI UK Fringe event, Loughborough University, UK</span>
 * Deep Learning for Flood Monitoring Challenges 11/2023 (<a href="https://vivid.webspace.durham.ac.uk/seminars/" target="_blank">Link</a>, <a href="/data/Research_Talks/Durham_Flood_Monitoring.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">Department of Computer Science, Durham University, UK</span>
