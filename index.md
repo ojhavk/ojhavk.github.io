@@ -86,9 +86,9 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
   * Adversarial Robustness Training of Deep Learning (2023–present) NCL
   * Adversarial Robustness Federated Deep Learning (2023–present) NCL
   * Complex Network Analysis of Deep Neural Networks (2023–present) NCL
-* Complicated:
+* Completed:
+  * Adversarial Robustness Analysis of Deep Neural Networks, C Parvin (2023) UoR
   * Supervised learning to estimate instabilities in chaotic systems, D Ayers (2024) UoR
-  * Signal Processing for the Robustness Analysis of Deep Neural Networks, C Parvin (2023) UoR
     <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
   
