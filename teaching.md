@@ -15,7 +15,7 @@ My teaching interests are in _Artificial Intelligence_ and _Data Science_ areas.
 
 ### Lectures
 I have designed and taught the following courses/modules/subjects at UG and PG levels:
-* Computer Vision and Artificial Intelligence, 2024
+* Computer Vision and Artificial Intelligence, UG, Newcastle University, 2024
 * Computer Networks, PG, Newcastle University, 2023
 * Data Analytics, UG, University of Reading, 2021–2022 (<a href="/data/Data_Analytics_Lectures/CS1AC16_Week7.pdf" target="_blank">Slides: 1</a>,<a href="/data/Data_Analytics_Lectures/CS1AC16_Week_8.pdf" target="_blank">2</a>,<a href="/data/Data_Analytics_Lectures/CS1AC16_Week_9.pdf" target="_blank">3</a>)
 * Artificial Intelligence, UG/PG, University of Reading, 2020–2021 (<a href="/data/Artificial_Intelligence_Lecturers/01_Lecture_(Introduction)_V_Ojha.pdf" target="_blank">Slides: 1</a>,<a href="/data/Artificial_Intelligence_Lecturers/02_Lecture_(Problem_solving_EAs)_V_Ojha.pdf" target="_blank">2</a>,<a href="/data/Artificial_Intelligence_Lecturers/03_Lecture_(Problem_solving_CSP)_V_Ojha.pdf" target="_blank">3</a>,<a href="/data/Artificial_Intelligence_Lecturers/04_Lecture_(Search_Reasoning)_V_Ojha.pdf" target="_blank">4</a>,<a href="/data/Artificial_Intelligence_Lecturers/05_Lecture_(Learning_NBC)_V_Ojha.pdf" target="_blank">5</a>,<a href="/data/Artificial_Intelligence_Lecturers/06_Lecture_(Learning_Fundamentals)_V_Ojha.pdf" target="_blank">6</a>,<a href="/data/Artificial_Intelligence_Lecturers/07_Lecture_(Deep_Learning)_V_Ojha.pdf" target="_blank">7</a>,<a href="/data/Artificial_Intelligence_Lecturers/08_Lecture_(NLP)_V_Ojha.pdf" target="_blank">8</a>)
