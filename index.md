@@ -101,7 +101,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 * Northumbria University, UK  
 
 **Select Master Student Projects**
-* Self-supervised representation learning for medical image processing (2023, <a href="/data/Student_Projects/PG/2023_Manish_Bhardawaj_MSc.pdf" target="_blank">Thesis</a>)
+* Self-supervised representation learning for medical image processing, Bhardwaj M (2023, <a href="/data/Student_Projects/PG/2023_Manish_Bhardawaj_MSc.pdf" target="_blank">Thesis</a>)
 * Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
 * Reconstruction and parameter estimation of dynamical systems using DNNs (2022, <a href="https://thesis.unipd.it/retrieve/c7e3e5f8-34c5-47a3-9776-03edc3578548/Bassi_Alberto.pdf" target="_blank">Thesis</a>)
 * Using three GAN-based models to provide modelling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
