@@ -42,7 +42,6 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/94588/" target="_blank">A novel ECG signal denoising filter selection algorithm based on conventional neural networks</a> <br> _19th IEEE Int. Conf. on Machine Learning and Appl._, ICMLA, Miami (pp 1094--1100). (2020) <br> <span style="color:gray">Pravin C, Ojha V </span>
 <!-- 2019-->
 * <a href="https://arxiv.org/abs/1908.10122" target="_blank"> Heuristic design of fuzzy inference systems: A review of three decades of research </a> <br> _Engineering Applications in Artificial Intelligence, 85_, 845--864. Elsevier. (2019) <br>  <span style="color:gray">Ojha V Abraham A, Snášel V </span>
-* <a href="https://arxiv.org/abs/1812.06128" target="_blank">Machine learning approaches to understand the influence of urban environments on human's physiological response </a> <br> _Information Sciences, 474_, 154--169. Elsevier. (2019) <br> <span style="color:gray">Ojha VK, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G </span>
 <!-- 2018-->
 * <a href="https://arxiv.org/abs/1705.05769" target="_blank">Multiobjective programming for type-2 hierarchical fuzzy trees </a> (<a href="https://github.com/vojha-code/Hierarchical-Fuzzy-Tree" target="_blank">Code</a>) <br> _IEEE Transaction on Fuzzy Systems, 26_(2), 915--936. (2018) <br> <span style="color:gray"> Ojha VK, Snášel V, Abraham A </span>
 <!-- 2017-->
@@ -57,7 +56,7 @@ title: Publications
 <!-- 2014-->
 * <a href="https://centaur.reading.ac.uk/82151/" target="_blank">ACO for continuous function optimization: A performance analysis</a> <br> _14th Int. Conf. on Intell. Syst. Design and Appl._, Okinawa, Japan (pp 145--150) IEEE (2014) <br> <span style="color:gray"> Ojha VK, Abraham A, Snášel V </span>
 * <a href="https://centaur.reading.ac.uk/93568/" target="_blank">Simultaneous optimization of neural network weights and active nodes using metaheuristics</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> <span style="color:gray"> Ojha VK, Abraham A, Snášel V </span>
-
+* <a href="https://centaur.reading.ac.uk/93562/" target="_blank">A framework of secured and bio-inspired image steganography using chaotic encryption with genetic algorithm optimization</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 271--280) Springer (2014) <br> <span style="color:gray">Bandyopadhyay D, Dasgupta K, Mandal JK, Ojha VK, Snášel V </span>
 <br>
 
 
@@ -80,41 +79,31 @@ title: Publications
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> <span style="color:gray">Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G</span>
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> <span style="color:gray">Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G</span>
 
-<!-- 2021 -->
-* <a href="https://arxiv.org/abs/2109.07279" target="_blank">Design and characterization of effective solar cells </a> <br> _Energy Systems_, 1--28. Springer (2021) <br> <span style="color:gray">Ojha V, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G</span>
-
-* <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Accent and gender recognition from English language speech and audio using signal processing and deep learning</a> <br> _20th Int. Conf. on Hybrid Intelligent Systems_ (pp 62--72) Springer (2020) <br> <span style="color:gray">Shergill JS, Pravin C, Ojha V </span>
-* <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Classification of musical preference in generation Z through EEG signal processing and machine learning</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 117-127) Springer (2020) <br> <span style="color:gray">Ward B, Pravin C, Chetcuti A, Hayashi Y, Ojha V </span>
-
-Built Environment
+**Built Environment**
+* <a href="https://arxiv.org/abs/1812.06128" target="_blank">Machine learning approaches to understand the influence of urban environments on human's physiological response </a> <br> _Information Sciences, 474_, 154--169. Elsevier. (2019) <br> <span style="color:gray">Ojha VK, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G </span>
 * <a href="https://doi.org/10.3390/ijgi8020052" target="_blank">Examining trade-offs between social, psychological and energy potential of urban form </a> <br> _International Journal of Geo-Information, 8_(2), 1--52 (2019) <br> <span style="color:gray">Bielik M, Griego D, Kuliga S, Schneider S,Ojha VK Konig R, Donath D, Schmitt G</span>
 * <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos</a> <br> _Tech. Report_, ETH Zurich, Switzerland (2017) <br> <span style="color:gray"> Griego D, Kuliga S, Bielik M, Standfest M, Ojha VK, Schneider S, Konig  R, Donath D, Schmitt  G</span>
 
-<!-- 2018 -->
-* <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
-
-<!-- 2016 -->
-* <a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Dimensionality reduction and function approximation of poly(lactic-co-glycolic acid) micro-and nano-particle dissolution rate </a> <br> _International Journal of Nanomedicine, 10_, 1119--1129. (2015) <br> <span style="color:gray"> Ojha VK, Jackowski K, Abraham A, Snášel V </span>  
-* <a href="https://arxiv.org/abs/1709.04318" target="_blank">Predictive modeling of die filling of pharmaceutical granules using the flexible neural tree </a> <br> _Neural Computing Application 29_(7), 467--481. Springer (2016) <br> <span style="color:gray">Ojha VK, Schiano S,  Wu C, Abraham A, Snášel V </span>
-* <a href="https://centaur.reading.ac.uk/93556/" target="_blank">Ensemble of heterogeneous flexible neural trees for the approximation and feature-selection of Poly (lactic-co-glycolic acid) micro-and nano-particle </a> <br> _Proc. of the 2nd Int. Afro-European Conf. Ind. Adv._, Paris (pp 155--165) Springer (2016) <br> <span style="color:gray">Ojha VK, Abraham A, Snášel V </span>
-* <a href="https://centaur.reading.ac.uk/93564/" target="_blank">Feature selection and ensemble of regression models for predicting the protein macromolecule dissolution profile</a> <br> _6th World Congr. on Nature and Bio Inspired Comput._ NaBIC, Porto (pp 121--126) IEEE (2014) <br> <span style="color:gray">Ojha VK, Jackowski K, Abraham A, Snášel V </span>
-* <a href="https://centaur.reading.ac.uk/94619/" target="_blank">Dimensionality reduction and prediction of the protein macromolecule dissolution profile </a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. Appl._, Ostrava (pp 301--310) Springer (2014) <br> <span style="color:gray">Ojha VK, Jackowski K, Snášel V, Abraham A  </span>
-
+**Cloud Computing**
 * <a href="https://centaur.reading.ac.uk/93558/" target="_blank">Neuro-fuzzy risk prediction model for computational grids</a> <br> _Proc. of the 2nd Int. Afro-European Conf. Ind. Adv._, Paris. (pp 127--136) Springer (2016) <br> <span style="color:gray">Abdelwahab S,  Ojha VK, Abraham A </span>
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13" target="_blank">Ensemble of flexible neural trees for predicting risk in a grid computing environment</a> <br> _6th Int. Conf. on Innov. in Bio-Inspired Comput. Appl._,  Kochi (pp 151--161) Springer (2016) <br> <span style="color:gray">Abdelwahab S, Ojha VK, Abraham A</span>
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-27400-3_3" target="_blank">An ensemble of neuro-fuzzy models for assessing risk in a cloud computing environment</a> <br> _Advances in Nature and Biologically Inspired Computing_ (pp 27--36) Springer (2016) <br> <span style="color:gray">Ahmed N,  Ojha VK, Abraham A </span>
 * <a href="https://centaur.reading.ac.uk/93563/" target="_blank">Design and implementation of an improved datacenter broker policy to improve the QoS of a cloud</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 281--290) Springer (2014) <br><span style="color:gray"> Chatterjee T, Ojha VK, Adhikari M,  Banerjee S, Biswas U, Snášel V </span>
 
 
-* <a href="https://arxiv.org/abs/1707.00561" target="_blank">Identifying hazardousness of sewer-pipeline gas-mixture using classification methods </a> <br> _Neural Computing Application, 28_(6), 1343--1354. Springer(2016) <br> <span style="color:gray">Ojha VK, Dutta P, Chaudhuri A</span>
+**Pharmaceutical and Powder Technology**
+<!-- 2016 -->
+* <a href="https://arxiv.org/abs/1709.04318" target="_blank">Predictive modeling of die filling of pharmaceutical granules using the flexible neural tree </a> <br> _Neural Computing Application 29_(7), 467--481. Springer (2016) <br> <span style="color:gray">Ojha VK, Schiano S,  Wu C, Abraham A, Snášel V </span>
+* <a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Dimensionality reduction and function approximation of poly(lactic-co-glycolic acid) micro-and nano-particle dissolution rate </a> <br> _International Journal of Nanomedicine, 10_, 1119--1129. (2015) <br> <span style="color:gray"> Ojha VK, Jackowski K, Abraham A, Snášel V </span>  
+* <a href="https://centaur.reading.ac.uk/93556/" target="_blank">Ensemble of heterogeneous flexible neural trees for the approximation and feature-selection of Poly (lactic-co-glycolic acid) micro-and nano-particle </a> <br> _Proc. of the 2nd Int. Afro-European Conf. Ind. Adv._, Paris (pp 155--165) Springer (2016) <br> <span style="color:gray">Ojha VK, Abraham A, Snášel V </span>
+* <a href="https://centaur.reading.ac.uk/93564/" target="_blank">Feature selection and ensemble of regression models for predicting the protein macromolecule dissolution profile</a> <br> _6th World Congr. on Nature and Bio Inspired Comput._ NaBIC, Porto (pp 121--126) IEEE (2014) <br> <span style="color:gray">Ojha VK, Jackowski K, Abraham A, Snášel V </span>
+* <a href="https://centaur.reading.ac.uk/94619/" target="_blank">Dimensionality reduction and prediction of the protein macromolecule dissolution profile </a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. Appl._, Ostrava (pp 301--310) Springer (2014) <br> <span style="color:gray">Ojha VK, Jackowski K, Snášel V, Abraham A  </span>
 * Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany (2016). German National Library. <br> <span style="color:gray">Ojha VK, Schiano S,  Wu C, Abraham A, Snášel V </span>
-<!-- 2014 -->
-* <a href="https://centaur.reading.ac.uk/93562/" target="_blank">A framework of secured and bio-inspired image steganography using chaotic encryption with genetic algorithm optimization</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 271--280) Springer (2014) <br> <span style="color:gray">Bandyopadhyay D, Dasgupta K, Mandal JK, Ojha VK, Snášel V </span>
-* <a href="https://arxiv.org/abs/1707.01821" target="_blank">Convergence analysis of backpropagation algorithm for designing an intelligent system for sensing manhole gases</a> <br> _Hybrid Soft Computing Approaches_ (pp 215--236) Springer (2014) <br> <span style="color:gray">Ojha VK, Dutta P, Chaudhuri A, Saha H  </span>
-* <a href="http://www.softcomputing.net/his2014_3.pdf" target="_blank">Ensemble of adaptive neuro-fuzzy inference system using particle swarm optimization for prediction of crude oil prices</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> <span style="color:gray"> Gabralla LA, Wahby TM, Ojha VK, Abraham A  </span>
 
-<!-- 2013 -->
+**Sensors** 
+* <a href="https://arxiv.org/abs/1707.00561" target="_blank">Identifying hazardousness of sewer-pipeline gas-mixture using classification methods </a> <br> _Neural Computing Application, 28_(6), 1343--1354. Springer(2016) <br> <span style="color:gray">Ojha VK, Dutta P, Chaudhuri A</span>
 * <a href="https://ieeexplore.ieee.org/document/6724328" target="_blank">Study of various conjugate gradient based ANN training methods for designing intelligent manhole gas detection system</a> <br> _2nd Int. Symp. on Comput. and Business Intell._, New Delhi, India (pp 83--87) IEEE (2013) <br> <span style="color:gray">Ojha VK, Dutta P, Chaudhuri A, Saha H </span>
+* <a href="https://arxiv.org/abs/1707.01821" target="_blank">Convergence analysis of backpropagation algorithm for designing an intelligent system for sensing manhole gases</a> <br> _Hybrid Soft Computing Approaches_ (pp 215--236) Springer (2014) <br> <span style="color:gray">Ojha VK, Dutta P, Chaudhuri A, Saha H  </span>
 * <a href="https://irma-international.org/viewtitle/72516/?isxn=9781466625181" target="_blank">Performance comparison of different intelligent techniques applied on detecting proportion of different components in manhole gas mixture</a> <br>  _Handbook of Research on Comput. Intel. for Eng, and Sci._ (pp 758--785) IGI Global (2013) <br> <span style="color:gray">Ojha VK, Dutta P  </span>
 * <a href="https://www.researchgate.net/publication/272093711_Conjugate_Gradient_Trained_Neural_Network_for_Intelligent_Sensing_of_Manhole_Gases_to_Avoid_Human_Fatality_Conjugate_Gradient_Trained_Neural_Network_for_Intelligent_Sensing_of_Manhole_Gases" target="_blank" > Conjugate gradient trained neural network for intelligent sensing of manhole gases to avoid human fatality</a> <br> _Adv. in Secure Comput., Internet Services, and Appl._ (pp 257--280) IGI Global (2013) <br><span style="color:gray"> Dutta P, Ojha VK </span>
 <!-- 2012 -->
@@ -124,6 +113,15 @@ Built Environment
 * <a href="https://www.scilit.net/article/c294793bc91388396473a8c4b54cd69b" target="_blank">Linear regression based statistical approach for detecting proportion of component gases in manhole gas mixture</a> <br> _1st Int Symp. on Physics and Technology of Sensors_, Mumbai (pp 17-20) IEEE (2012) <br> <span style="color:gray">Ojha VK, Dutta P, Saha H, Ghosh S  </span>
 * <a href="https://ieeexplore.ieee.org/document/6461748" target="_blank">Portable sensor array system for intelligent recognizer of manhole gases </a> <br> _6th Int. Conf. on Sensing Technology_, Kolkata, India (pp 589-594) IEEE (2012) <br> <span style="color:gray"> Ghosh S, Saha H, Roychaudhuri C, Ojha VK, Dutta P </span>
 * <a href="https://ieeexplore.ieee.org/document/6260863" target="_blank">Sensor array for manhole gas analysis </a> <br> _1st Int. Symp. on Physics and Technology of Sensors_, Mumbai (pp 9--12) IEEE (2012) <br><span style="color:gray"> Ghosh S, Roy A, Singh S,  Ojha VK, Dutta P  </span>
+
+**Science and Engineering Problems**
+* <a href="https://arxiv.org/abs/2109.07279" target="_blank">Design and characterization of effective solar cells </a> <br> _Energy Systems_, 1--28. Springer (2021) <br> <span style="color:gray">Ojha V, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G</span>
+* <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Accent and gender recognition from English language speech and audio using signal processing and deep learning</a> <br> _20th Int. Conf. on Hybrid Intelligent Systems_ (pp 62--72) Springer (2020) <br> <span style="color:gray">Shergill JS, Pravin C, Ojha V </span>
+* <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Classification of musical preference in generation Z through EEG signal processing and machine learning</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 117-127) Springer (2020) <br> <span style="color:gray">Ward B, Pravin C, Chetcuti A, Hayashi Y, Ojha V </span>
+* <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
+* <a href="http://www.softcomputing.net/his2014_3.pdf" target="_blank">Ensemble of adaptive neuro-fuzzy inference system using particle swarm optimization for prediction of crude oil prices</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> <span style="color:gray"> Gabralla LA, Wahby TM, Ojha VK, Abraham A  </span>
+
+
 
 
 
