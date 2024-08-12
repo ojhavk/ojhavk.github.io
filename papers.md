@@ -60,7 +60,7 @@ title: Publications
 <br>
 
 
-## **Applied Artificial Intelligence in Engineering and Sciences**
+## **Applied Artificial Intelligence**
 <!-- 2023 -->
 **Hydrology**
 * <a href="https://doi.org/10.2166/hydro.2024.013" target="_blank"> Deep Learning for Automated Trash Screen Blockage Detection Using Cameras: Actionable Information for Flood Risk Management </a> <br> _Journal of Hydroinformatics_, (2024) <br> <span style="color:gray">Vandaele, R., Dance, S L, & Ojha, V</span>
