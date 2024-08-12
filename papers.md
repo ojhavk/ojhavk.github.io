@@ -136,7 +136,10 @@ title: Publications
 
 
 ## Edited Proceedings	
-* <a href="https://www.springer.com/gp/book/.." target="_blank">8th International Conference Machine Learning, Optimization, and Data Science, LOD 2022</a>, Siena, Italy, Sep 18–22, 2022, (Springer LNCS )  <br>
+
+* <a href="https://link.springer.com/book/10.1007/978-3-031-53966-4" target="_blank">9th International Conference Machine Learning, Optimization, and Data Science, LOD 2023</a>, Grasmere, Lake District, UK, Sep 22 - 26, 2023, (Springer LNCS )  <br>
+<span style="color:gray">Nicosia G, Ojha V, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R</span>
+* <a href="https://link.springer.com/book/10.1007/978-3-031-25891-6" target="_blank">8th International Conference Machine Learning, Optimization, and Data Science, LOD 2022</a>, Siena, Italy, Sep 18–22, 2022, (Springer LNCS )  <br>
 <span style="color:gray">Nicosia G, Ojha V, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R</span>
 * <a href="https://link.springer.com/book/10.1007/978-3-030-95467-3" target="_blank">7th International Conference Machine Learning, Optimization, and Data Science, LOD 2021</a>, Grasmere, Lake District, UK, October 4 – 8, 2021 (LNCS, volume 13163) <br>
 <span style="color:gray">Nicosia G, Ojha V,  Malfa EL, Jansen G, Pardalos P, Giuffrida G, Umeton R</span>
