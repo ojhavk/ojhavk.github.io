@@ -63,17 +63,20 @@ title: Publications
 
 ## **Applied Artificial Intelligence in Engineering and Sciences**
 <!-- 2023 -->
+**Hydrology and Environmental Science**
 * <a href="https://doi.org/10.2166/hydro.2024.013" target="_blank"> Deep Learning for Automated Trash Screen Blockage Detection Using Cameras: Actionable Information for Flood Risk Management </a> <br> _Journal of Hydroinformatics_, (2024) <br> <span style="color:gray">Vandaele, R., Dance, S L, & Ojha, V</span>
 * <a href="https://www.cambridge.org/core/journals/environmental-data-science/article/calibrated-riverlevel-estimation-from-river-cameras-using-convolutional-neural-networks/912B6F25D567B59C38C6D76185829F76" target="_blank"> Calibrated river-level estimation from river cameras using convolutional neural networks </a> <br> _Environmental Data Science_, Cambridge University Press (2023) <br> <span style="color:gray">Vandaele, R., Dance, S L, & Ojha, V</span>
 * <a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-3928.html" target="_blank"> Comparison of deep learning approaches to monitor trash screen blockage from CCTV cameras </a> <br> _EGU23_ (2023) <br> <span style="color:gray"> Vandaele, R., Dance, S. L., & Ojha, V</span>
 * <a href="https://doi.org/10.5194/hess-25-4435-2021" target="_blank">Deep learning for automated river-level monitoring through river camera images: an approach based on water segmentation and transfer learning </a>  <br> _Hydrology and Earth System Sciences 25_(8) 4435--4453 (2021) <br> <span style="color:gray"> Vandaele R, Dance SL, Ojha V </span>
+* <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Transfer learning for instance segmentation of waste bottles using Mask R-CNN algorithm</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 140--149) Springer (2020) <br> <span style="color:gray"> Jaikumar P, Vandaele R, Ojha V </span>
 * <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Automated water segmentation and river level detection on images using transfer learning</a> <br> _42nd DAGM German Conference on Pattern Recognition, DAGM GCPR_, Tubingen, Germany, _Proceedings 42_ (pp 232–245) Springer, LNCS (2020) <br> <span style="color:gray"> Vandaele R, Dance SL, Ojha V </span>
 
+**Climate Science**
 * <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4450" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (2023)  <br> <span style="color:gray">Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V</span>
 * <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents </a> <br> EGU General Assembly 2022 Vienna, Austria, 23–27 May (2022) <br> <span style="color:gray">Ayers D, Lau J, Amezcua J, Carrassi A, and Ojha V</span>
-* <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Transfer learning for instance segmentation of waste bottles using Mask R-CNN algorithm</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 140--149) Springer (2020) <br> <span style="color:gray"> Jaikumar P, Vandaele R, Ojha V </span>
 * <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy</a> <br> _ECMWF Workshop_, Reading, UK (2020) <br> <span style="color:gray">Ayers D, Amezcua J , Ojha V, Carrassi A, Leeuwen PJ</span>
 
+**System Biology**
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> <span style="color:gray">Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G</span>
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> <span style="color:gray">Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G</span>
 
@@ -83,7 +86,7 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Accent and gender recognition from English language speech and audio using signal processing and deep learning</a> <br> _20th Int. Conf. on Hybrid Intelligent Systems_ (pp 62--72) Springer (2020) <br> <span style="color:gray">Shergill JS, Pravin C, Ojha V </span>
 * <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Classification of musical preference in generation Z through EEG signal processing and machine learning</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 117-127) Springer (2020) <br> <span style="color:gray">Ward B, Pravin C, Chetcuti A, Hayashi Y, Ojha V </span>
 
-<!-- 2019 -->
+Built Environment
 * <a href="https://doi.org/10.3390/ijgi8020052" target="_blank">Examining trade-offs between social, psychological and energy potential of urban form </a> <br> _International Journal of Geo-Information, 8_(2), 1--52 (2019) <br> <span style="color:gray">Bielik M, Griego D, Kuliga S, Schneider S,Ojha VK Konig R, Donath D, Schmitt G</span>
 * <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos</a> <br> _Tech. Report_, ETH Zurich, Switzerland (2017) <br> <span style="color:gray"> Griego D, Kuliga S, Bielik M, Standfest M, Ojha VK, Schneider S, Konig  R, Donath D, Schmitt  G</span>
 
