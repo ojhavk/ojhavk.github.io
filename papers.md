@@ -53,6 +53,7 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/93557/" target="_blank">Metaheuristic tuning of type-II fuzzy inference systems for data mining</a> <br> _IEEE Int. Conf. on Fuzzy Systems_, Fuzz-IEEE, Vancouver, Canada (pp 610--617) (2016) <br> <span style="color:gray"> Ojha VK, Abraham A, Snášel V </span> 
 * <a href="https://centaur.reading.ac.uk/93555/" target="_blank">Substitution of the general partial differential equation with extended polynomial networks</a> <br> _IEEE Int. Jt. Conf. on Neural Netw._, IEEE IJCNN, Vancouver, Canada (pp 4819--4826) (2016) <br> <span style="color:gray"> Zjavka L,  Snášel V, Ojha VK, Pedrycz W </span> 
 <!-- 2014-->
+* <a href="http://www.softcomputing.net/his2014_3.pdf" target="_blank">Ensemble of adaptive neuro-fuzzy inference system using particle swarm optimization for prediction of crude oil prices</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> <span style="color:gray"> Gabralla LA, Wahby TM, Ojha VK, Abraham A  </span>
 * <a href="https://centaur.reading.ac.uk/82151/" target="_blank">ACO for continuous function optimization: A performance analysis</a> <br> _14th Int. Conf. on Intell. Syst. Design and Appl._, Okinawa, Japan (pp 145--150) IEEE (2014) <br> <span style="color:gray"> Ojha VK, Abraham A, Snášel V </span>
 * <a href="https://centaur.reading.ac.uk/93568/" target="_blank">Simultaneous optimization of neural network weights and active nodes using metaheuristics</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> <span style="color:gray"> Ojha VK, Abraham A, Snášel V </span>
 * <a href="https://centaur.reading.ac.uk/93562/" target="_blank">A framework of secured and bio-inspired image steganography using chaotic encryption with genetic algorithm optimization</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 271--280) Springer (2014) <br> <span style="color:gray">Bandyopadhyay D, Dasgupta K, Mandal JK, Ojha VK, Snášel V </span>
@@ -71,7 +72,7 @@ title: Publications
 
 **Civil Engineering**
 * <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> <span style="color:gray">Ojha V, Panto, B, Nicosia G </span>
-
+* <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
 
 **Climate Science**
 * <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4450" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (2023)  <br> <span style="color:gray">Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V</span>
@@ -84,7 +85,6 @@ title: Publications
 
 **Solar Cells**
 * <a href="https://arxiv.org/abs/2109.07279" target="_blank">Design and characterization of effective solar cells </a> <br> _Energy Systems_, 1--28. Springer (2021) <br> <span style="color:gray">Ojha V, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G</span>
-
 
 **Built Environment**
 * <a href="https://arxiv.org/abs/1812.06128" target="_blank">Machine learning approaches to understand the influence of urban environments on human's physiological response </a> <br> _Information Sciences, 474_, 154--169. Elsevier. (2019) <br> <span style="color:gray">Ojha VK, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G </span>
@@ -121,15 +121,9 @@ title: Publications
 * <a href="https://ieeexplore.ieee.org/document/6461748" target="_blank">Portable sensor array system for intelligent recognizer of manhole gases </a> <br> _6th Int. Conf. on Sensing Technology_, Kolkata, India (pp 589-594) IEEE (2012) <br> <span style="color:gray"> Ghosh S, Saha H, Roychaudhuri C, Ojha VK, Dutta P </span>
 * <a href="https://ieeexplore.ieee.org/document/6260863" target="_blank">Sensor array for manhole gas analysis </a> <br> _1st Int. Symp. on Physics and Technology of Sensors_, Mumbai (pp 9--12) IEEE (2012) <br><span style="color:gray"> Ghosh S, Roy A, Singh S,  Ojha VK, Dutta P  </span>
 
-Others
+**Signal Processing**
 * <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Accent and gender recognition from English language speech and audio using signal processing and deep learning</a> <br> _20th Int. Conf. on Hybrid Intelligent Systems_ (pp 62--72) Springer (2020) <br> <span style="color:gray">Shergill JS, Pravin C, Ojha V </span>
 * <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Classification of musical preference in generation Z through EEG signal processing and machine learning</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 117-127) Springer (2020) <br> <span style="color:gray">Ward B, Pravin C, Chetcuti A, Hayashi Y, Ojha V </span>
-* <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
-* <a href="http://www.softcomputing.net/his2014_3.pdf" target="_blank">Ensemble of adaptive neuro-fuzzy inference system using particle swarm optimization for prediction of crude oil prices</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> <span style="color:gray"> Gabralla LA, Wahby TM, Ojha VK, Abraham A  </span>
-
-
-
-
 
 
 
