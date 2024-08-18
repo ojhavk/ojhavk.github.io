@@ -31,7 +31,6 @@ title: Publications
 * <a href="/data/papers/Snasel_et_al_2023.pdf" target="_blank">Large-scale Data Classification based on the Integrated Fusion of Fuzzy Learning and Graph Neural Network</a> <br> _Information Fusion_, Elsevier. (2023) <br> <span style="color:gray"> Snasel V, Stepnicka M, Ojha V, Suganthan PN, Gao R, Kong L </span>
 * <a href="https://doi.org/10.1016/j.ins.2023.119108" target="_blank">Low-Rank and Global-Representation-Key-based Attention for Graph Transformers</a> <br> _Information Sciences_, Elsevier. (2023) <br> <span style="color:gray"> Kong L, Ojha V, Gao R, Suganthan PN, Snasel V </span>
 * <a href="https://arxiv.org/abs/2202.02248" target="_blank">Backpropagation Neural Tree</a> (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_NeuralTree_tutorial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Neural Networks_, Elsevier. (2022) <br> <span style="color:gray"> Ojha V, Nicosia G </span>
-* <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> <span style="color:gray">Ojha V, Panto, B, Nicosia G </span>
 * <a href="https://arxiv.org/pdf/2207.04820.pdf" target="_blank">Assessing ranking and effectiveness of evolutionary algorithm hyperparameters using global sensitivity analysis methodologies </a> (<a href="https://github.com/vojha-code/SAofEAs" target="_blank">Code</a>, <a href="/data/Research_Talks/LOD_SensitivityAnalysis_tutotial_OjhaV.pdf" target="_blank">Slides</a>) <br> _Swarm and Evolutionary Computation_, Elsevier (2022) <br> <span style="color:gray"> Ojha V, Greco A, Timmis J, and Nicosia G </span>
 * <a href="https://centaur.reading.ac.uk/99457/" target="_blank">CSS–A Cheap-Surrogate-Based Selection Operator for Multi-objective Optimization</a> <br> Int. Conf. on Bioinspired Optimization Methods and Their Appl., BIOMA (pp 54-68), Springer, LNCS, Maribor, Slovenia (2022) <br> <span style="color:gray"> Kong L, Kumar A, Snášel V, Das S, Krömer P, Ojha V </span>
 <!-- 2021 -->
@@ -70,6 +69,10 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Transfer learning for instance segmentation of waste bottles using Mask R-CNN algorithm</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 140--149) Springer (2020) <br> <span style="color:gray"> Jaikumar P, Vandaele R, Ojha V </span>
 * <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Automated water segmentation and river level detection on images using transfer learning</a> <br> _42nd DAGM German Conference on Pattern Recognition, DAGM GCPR_, Tubingen, Germany, _Proceedings 42_ (pp 232–245) Springer, LNCS (2020) <br> <span style="color:gray"> Vandaele R, Dance SL, Ojha V </span>
 
+**Civil Engineering**
+* <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> <span style="color:gray">Ojha V, Panto, B, Nicosia G </span>
+
+
 **Climate Science**
 * <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4450" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (2023)  <br> <span style="color:gray">Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V</span>
 * <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents </a> <br> EGU General Assembly 2022 Vienna, Austria, 23–27 May (2022) <br> <span style="color:gray">Ayers D, Lau J, Amezcua J, Carrassi A, and Ojha V</span>
@@ -78,6 +81,10 @@ title: Publications
 **System Biology**
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> <span style="color:gray">Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G</span>
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> <span style="color:gray">Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G</span>
+
+**Solar Cells**
+* <a href="https://arxiv.org/abs/2109.07279" target="_blank">Design and characterization of effective solar cells </a> <br> _Energy Systems_, 1--28. Springer (2021) <br> <span style="color:gray">Ojha V, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G</span>
+
 
 **Built Environment**
 * <a href="https://arxiv.org/abs/1812.06128" target="_blank">Machine learning approaches to understand the influence of urban environments on human's physiological response </a> <br> _Information Sciences, 474_, 154--169. Elsevier. (2019) <br> <span style="color:gray">Ojha VK, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G </span>
@@ -114,8 +121,7 @@ title: Publications
 * <a href="https://ieeexplore.ieee.org/document/6461748" target="_blank">Portable sensor array system for intelligent recognizer of manhole gases </a> <br> _6th Int. Conf. on Sensing Technology_, Kolkata, India (pp 589-594) IEEE (2012) <br> <span style="color:gray"> Ghosh S, Saha H, Roychaudhuri C, Ojha VK, Dutta P </span>
 * <a href="https://ieeexplore.ieee.org/document/6260863" target="_blank">Sensor array for manhole gas analysis </a> <br> _1st Int. Symp. on Physics and Technology of Sensors_, Mumbai (pp 9--12) IEEE (2012) <br><span style="color:gray"> Ghosh S, Roy A, Singh S,  Ojha VK, Dutta P  </span>
 
-**Science and Engineering Problems**
-* <a href="https://arxiv.org/abs/2109.07279" target="_blank">Design and characterization of effective solar cells </a> <br> _Energy Systems_, 1--28. Springer (2021) <br> <span style="color:gray">Ojha V, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G</span>
+Others
 * <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Accent and gender recognition from English language speech and audio using signal processing and deep learning</a> <br> _20th Int. Conf. on Hybrid Intelligent Systems_ (pp 62--72) Springer (2020) <br> <span style="color:gray">Shergill JS, Pravin C, Ojha V </span>
 * <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Classification of musical preference in generation Z through EEG signal processing and machine learning</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 117-127) Springer (2020) <br> <span style="color:gray">Ward B, Pravin C, Chetcuti A, Hayashi Y, Ojha V </span>
 * <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
