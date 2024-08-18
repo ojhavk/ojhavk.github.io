@@ -107,7 +107,7 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/94619/" target="_blank">Dimensionality reduction and prediction of the protein macromolecule dissolution profile </a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. Appl._, Ostrava (pp 301--310) Springer (2014) <br> <span style="color:gray">Ojha VK, Jackowski K, Snášel V, Abraham A  </span>
 * Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany (2016). German National Library. <br> <span style="color:gray">Ojha VK, Schiano S,  Wu C, Abraham A, Snášel V </span>
 
-**Sensors** 
+**Sensors and Signal Processing** 
 * <a href="https://arxiv.org/abs/1707.00561" target="_blank">Identifying hazardousness of sewer-pipeline gas-mixture using classification methods </a> <br> _Neural Computing Application, 28_(6), 1343--1354. Springer(2016) <br> <span style="color:gray">Ojha VK, Dutta P, Chaudhuri A</span>
 * <a href="https://ieeexplore.ieee.org/document/6724328" target="_blank">Study of various conjugate gradient based ANN training methods for designing intelligent manhole gas detection system</a> <br> _2nd Int. Symp. on Comput. and Business Intell._, New Delhi, India (pp 83--87) IEEE (2013) <br> <span style="color:gray">Ojha VK, Dutta P, Chaudhuri A, Saha H </span>
 * <a href="https://arxiv.org/abs/1707.01821" target="_blank">Convergence analysis of backpropagation algorithm for designing an intelligent system for sensing manhole gases</a> <br> _Hybrid Soft Computing Approaches_ (pp 215--236) Springer (2014) <br> <span style="color:gray">Ojha VK, Dutta P, Chaudhuri A, Saha H  </span>
@@ -120,8 +120,6 @@ title: Publications
 * <a href="https://www.scilit.net/article/c294793bc91388396473a8c4b54cd69b" target="_blank">Linear regression based statistical approach for detecting proportion of component gases in manhole gas mixture</a> <br> _1st Int Symp. on Physics and Technology of Sensors_, Mumbai (pp 17-20) IEEE (2012) <br> <span style="color:gray">Ojha VK, Dutta P, Saha H, Ghosh S  </span>
 * <a href="https://ieeexplore.ieee.org/document/6461748" target="_blank">Portable sensor array system for intelligent recognizer of manhole gases </a> <br> _6th Int. Conf. on Sensing Technology_, Kolkata, India (pp 589-594) IEEE (2012) <br> <span style="color:gray"> Ghosh S, Saha H, Roychaudhuri C, Ojha VK, Dutta P </span>
 * <a href="https://ieeexplore.ieee.org/document/6260863" target="_blank">Sensor array for manhole gas analysis </a> <br> _1st Int. Symp. on Physics and Technology of Sensors_, Mumbai (pp 9--12) IEEE (2012) <br><span style="color:gray"> Ghosh S, Roy A, Singh S,  Ojha VK, Dutta P  </span>
-
-**Signal Processing**
 * <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Accent and gender recognition from English language speech and audio using signal processing and deep learning</a> <br> _20th Int. Conf. on Hybrid Intelligent Systems_ (pp 62--72) Springer (2020) <br> <span style="color:gray">Shergill JS, Pravin C, Ojha V </span>
 * <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Classification of musical preference in generation Z through EEG signal processing and machine learning</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 117-127) Springer (2020) <br> <span style="color:gray">Ward B, Pravin C, Chetcuti A, Hayashi Y, Ojha V </span>
 
