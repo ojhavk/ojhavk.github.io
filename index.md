@@ -92,7 +92,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
     <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
   
-**Examiner of PhD Theiss**
+**Examiner of PhD Thesis**
 * Queensland University of Technology (QUT), Australia
 * Durham University, UK
 * University of Essex, UK
