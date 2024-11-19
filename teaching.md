@@ -15,7 +15,7 @@ My teaching interests are in _Artificial Intelligence_ and _Data Science_ areas.
 
 ### Lectures
 I have designed and taught the following courses/modules/subjects at UG and PG levels:
-* Artificial Intelligence and Computer Vision, UG, Newcastle University, 2024
+* Artificial Intelligence and Computer Vision, UG, Newcastle University, 2024 (<a href="/data/Artificial_Intelligence_Lecturers/Lecture_1_Shallow_and_Deep Neural_Nets.pdf" target="_blank">Slides: 1</a>,<a href="/data/Artificial_Intelligence_Lecturers/Lecture_2_Vision_Conv_Nets.pdf" target="_blank">2</a>,<a href="/data/Artificial_Intelligence_Lecturers/...pdf" target="_blank">3</a>)
 * Engineering for Artificial Intelligence, PG, Newcastle University, 2024
 * Artificial Intelligence Ethics (Strategic Case Studies), PG, Newcastle University, 2024 (<a href="/data/AI_Ethics/AI_Ethics.pdf" target="_blank">Slides: 1</a>, <a href="/data/AI_Ethics/AI_Safety.pdf" target="_blank">2</a>)
 * Data Science, UG, University of Reading, 2021–2022 (<a href="/data/Data_Analytics_Lectures/CS1AC16_Week7.pdf" target="_blank">Slides: 1</a>,<a href="/data/Data_Analytics_Lectures/CS1AC16_Week_8.pdf" target="_blank">2</a>,<a href="/data/Data_Analytics_Lectures/CS1AC16_Week_9.pdf" target="_blank">3</a>)
