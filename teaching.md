@@ -27,9 +27,7 @@ I have designed and taught the following courses/modules/subjects at UG and PG l
   
 * Computer Networks, PG, Newcastle University, 2023
 * Emerging Technologies, PG, Newcastle University, 2023 - 2024
-  
 * Fundamentals of Computer Science, UG, Reading, 2020 – 2021 (<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_01_Analysis_of_Algorithm.pdf" target="_blank">Slides: 1</a>,<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_02_Complexity_Analysis.pdf" target="_blank">2</a>,<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_03_Searching.pdf" target="_blank">3</a>,<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_04_Sorting.pdf" target="_blank">4</a>,<a href="/data/Fundamentals_of_Computer_Science/CS1FC16_Lecture_05_data_structure.pdf" target="_blank">5</a>)
-  
 * Programming Java (filliped lecture), UG University of Reading, 2020 – 2022
 
 
