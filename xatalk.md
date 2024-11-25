@@ -14,7 +14,7 @@ title: Talks
 
 ## Research Talks 
 * Energy and resource efficient Artificial Intelligence 11/2024 (<a href="/data/Research_Talks/....pdf" target="_blank">PDF</a>) <br> <span style="color:gray">April Hub, University of Edinburgh</span>
-* Artificial Intelligence Safety for Medical Sciences 01/2024 (<a href="/data/Research_Talks/....pdf" target="_blank">PDF</a>) <br> <span style="color:gray"> Newcastle University Workshop </span>
+* Artificial Intelligence Safety for Medical Sciences 11/2024 (<a href="/data/Research_Talks/....pdf" target="_blank">PDF</a>) <br> <span style="color:gray"> Newcastle University Workshop </span>
 * Artificial Intelligence for Real World Problems 07/2024 (<a href="/data/Research_Talks/AI4Engv1.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">North East Finance Leaders' Group Event, Newcastle Collage </span>
 * Deep Learning for Flood Monitoring 05/2024 (<a href="/data/Research_Talks/flood_monitoring_ncl.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">School of Engineering, Newcastle University, UK</span>
 * Artificial Intelligence Challenges: Data and Model Quality 05/2024 (<a href="https://edgeaihub.co.uk/" target="_blank">Link</a>, <a href="/data/Research_Talks/edgeai_ai_theme.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">National Edge AI Hub Launch Event, Newcastle University, UK</span>
