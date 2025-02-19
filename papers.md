@@ -66,7 +66,7 @@ title: Publications
 ## **Applied Artificial Intelligence**
 <!-- 2023 -->
 **Hydrology**
-* <a href=".." target="_blank"> Automated trash screen blockage segmentation using deep learning </a> <br> _British Machine Vision Conference_, (2024) <br> <span style="color:gray">Vandaele, R., Dance, S L, Williams H., & Ojha, V</span>
+* <a href="https://bmva-archive.org.uk/bmvc/2024/workshops/MVEO/paper4.pdf" target="_blank"> Automated trash screen blockage segmentation using deep learning </a> <br> _British Machine Vision Conference_, (2024) <br> <span style="color:gray">Vandaele, R., Dance, S L, Williams H., & Ojha, V</span>
 * <a href="https://doi.org/10.2166/hydro.2024.013" target="_blank"> Deep Learning for Automated Trash Screen Blockage Detection Using Cameras: Actionable Information for Flood Risk Management </a> <br> _Journal of Hydroinformatics_, (2024) <br> <span style="color:gray">Vandaele, R., Dance, S L, & Ojha, V</span>
 * <a href="https://www.cambridge.org/core/journals/environmental-data-science/article/calibrated-riverlevel-estimation-from-river-cameras-using-convolutional-neural-networks/912B6F25D567B59C38C6D76185829F76" target="_blank"> Calibrated river-level estimation from river cameras using convolutional neural networks </a> <br> _Environmental Data Science_, Cambridge University Press (2023) <br> <span style="color:gray">Vandaele, R., Dance, S L, & Ojha, V</span>
 * <a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-3928.html" target="_blank"> Comparison of deep learning approaches to monitor trash screen blockage from CCTV cameras </a> <br> _EGU23_ (2023) <br> <span style="color:gray"> Vandaele, R., Dance, S. L., & Ojha, V</span>
