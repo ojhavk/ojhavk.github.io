@@ -75,6 +75,10 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Automated water segmentation and river level detection on images using transfer learning</a> <br> _42nd DAGM German Conference on Pattern Recognition, DAGM GCPR_, Tubingen, Germany, _Proceedings 42_ (pp 232–245) Springer, LNCS (2020) <br> <span style="color:gray"> Vandaele R, Dance SL, Ojha V </span>
 
 **Civil Engineering**
+
+
+arXiv preprint arXiv:2501.09203
+* <a href="https://arxiv.org/pdf/2501.09203" target="_blank">Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures</a> <br>  (2022) <br> <span style="color:gray">P Deng, J Yao, C Li, S Wang, X Li, V Ojha, X He, T Matsumoto </span>
 * <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> <span style="color:gray">Ojha V, Panto, B, Nicosia G </span>
 * <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
 
