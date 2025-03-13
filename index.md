@@ -84,16 +84,17 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 
 **PhD Projects (completed and present)**
 * Ongoing:
-  * Adversarial Robustness Training of Deep Learning (2023–present) NCL
-  * Adversarial Robustness Federated Deep Learning (2023–present) NCL
+  * Adversarial Robustness Training of Deep Learning (2023–present) NCL  
   * Complex Network Analysis of Deep Neural Networks (2023–present) NCL
 * Completed:
+  * Security of Distributed and Federated Deep Learning Systems, Duaa Alqattan (2025) NCL
   * Adversarial Robustness Analysis of Deep Neural Networks, C Parvin (2023, <a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
   * Supervised learning to estimate instabilities in chaotic systems, D Ayers (2024) UoR
     <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
   
 **Examiner of PhD Thesis**
+* Macquarie University, Australia
 * Queensland University of Technology (QUT), Australia
 * Durham University, UK
 * University of Essex, UK
