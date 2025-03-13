@@ -84,6 +84,8 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 
 **PhD Projects (completed and present)**
 * Ongoing:
+  * Adversarial Robustness of Milti-models Large Language Models (2025 - present), NCL
+  * Visual 3D Seane Understanding/Perception (2025 - present), NCL
   * Adversarial Robustness Training of Deep Learning (2023–present) NCL  
   * Complex Network Analysis of Deep Neural Networks (2023–present) NCL
 * Completed:
