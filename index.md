@@ -83,15 +83,16 @@ I recommend watching the following video explaining a range of interdisciplinary
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (<a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>)
 
 **PhD Projects (completed and present)**
-* Ongoing:
-  * Adversarial Robustness of Milti-models Large Language Models (2025 - present), NCL
-  * Visual 3D Seane Understanding/Perception (2025 - present), NCL
-  * Adversarial Robustness Training of Deep Learning (2023–present) NCL  
-  * Complex Network Analysis of Deep Neural Networks (2023–present) NCL
+* Ongoing: 
+  * L Huang, Adversarial Robustness of Multi-models Large Language Models (2025 - present), NCL
+  * X Li, Visual 3D Seane Understanding/Perception (2025 - present), NCL
+  * Z Liu, Adversarial Robustness Training of Deep Learning (2023–present) NCL  
+  * Z Zhang, Complex Network Analysis of Deep Neural Networks (2023–present) NCL
+  * N Alzahrani, Human activity recognition using multi-models large language models (2022 - present), NCL
 * Completed:
-  * Security of Distributed and Federated Deep Learning Systems, Duaa Alqattan (2025) NCL
-  * Adversarial Robustness Analysis of Deep Neural Networks, C Parvin (2023, <a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
-  * Supervised learning to estimate instabilities in chaotic systems, D Ayers (2024) UoR
+  * Duaa Alqattan (2025) Security of Distributed and Federated Deep Learning Systems, NCL
+  * C Parvin (2023) Adversarial Robustness Analysis of Deep Neural Networks, (<a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
+  * D Ayers (2024) Supervised learning to estimate instabilities in chaotic systems, UoR
     <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
   
