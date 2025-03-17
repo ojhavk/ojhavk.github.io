@@ -74,14 +74,22 @@ I recommend watching the following video explaining a range of interdisciplinary
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3U4-7Y-epFw?start=117" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
+## Examiner of PhD Thesis
+* Macquarie University, Australia
+* Queensland University of Technology (QUT), Australia
+* Durham University, UK
+* University of Essex, UK
+* University of Reading, UK
+* Newcastle University, UK
+* Northumbria University, UK  
 
 ## Research Student Projects (Supervised)
-
+<!--
 **Postdoc**
 * Deep learning in Computer Vision (2024-present)
 * Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–2024) <br> (co-supervision
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (<a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>)
-
+-->
 **PhD Projects (completed and present)**
 * Ongoing: 
   * L Huang, Adversarial Robustness of Multi-models Large Language Models (2025 - present), NCL
@@ -95,15 +103,6 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
   * D Ayers (2024) Supervised learning to estimate instabilities in chaotic systems, UoR
     <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
-  
-**Examiner of PhD Thesis**
-* Macquarie University, Australia
-* Queensland University of Technology (QUT), Australia
-* Durham University, UK
-* University of Essex, UK
-* University of Reading, UK
-* Newcastle University, UK
-* Northumbria University, UK  
 
 **Select Master Student Projects**
 * Completion of ancient pottery based on deep learning, Li X (2024, <a href="/data/Student_Projects/PG/2024_Xuening_Li_MSc.pdf" target="_blank">Thesis</a>)
