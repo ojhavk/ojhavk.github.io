@@ -21,7 +21,8 @@ title: Publications
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
 ## **Deep Learning and Machine Learning**
-<!-- 2023 -->
+* <a href="https://doi.org/10.1016/j.inffus.2025.103087" target="_blank">D2Fusion: Dual-domain fusion with feature superposition for deepfake detection</a> <br> _Information Fusion_, Elsevier. (2025) <br>  <span style="color:gray">Qiu X, Miao X, Wan F, Duan H, Shah T, Ojha V, Long Y, Ranjan R</span>
+<!-- 2024 -->
 * <a href="http://arxiv.org/abs/2312.09821" target="_blank">Fragility, Robustness and Antifragility in Deep Learning</a> <br> _Artificial Intelligence_, Elsevier. (2024) <br>  <span style="color:gray">Pravin C, Martino I, Nicosia G, Ojha V </span>
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835762" target="_blank">Euclidean and Poincaré Space Ensemble Xgboost</a> <br> _Information Fusion_, Elsevier. (2024) <br>  <span style="color:gray">Suganthan PN, Kong L, Snasel V, Ojha V, Aly HAH </span>
 * <a href="https://www.arxiv.org/abs/2408.13102" target="_blank"> Dynamic Label Adversarial Training for Deep Learning Robustness Against Adversarial Attacks </a> <br> _31st International Conference on Neural Information Processing (ICONIP)_. (2024) <br>  <span style="color:gray"> Liu Z, Duan H, Liang H, Long Y,  Snasel V, Nicosia G, Ranjan R and  Ojha V</span>
