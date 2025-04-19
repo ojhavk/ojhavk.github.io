@@ -22,7 +22,7 @@ title: Publications
 
 ## **Deep Learning and Machine Learning**
 * <a href="https://doi.org/10.1016/j.inffus.2025.103087" target="_blank">D2Fusion: Dual-domain fusion with feature superposition for deepfake detection</a> <br> _Information Fusion_, Elsevier. (2025) <br>  <span style="color:gray">Qiu X, Miao X, Wan F, Duan H, Shah T, Ojha V, Long Y, Ranjan R</span>
-* <a href="https://arxiv.org/pdf/2405.13900" target="_blank">Rehearsal-free federated domain-incremental learning</a> <br> (2025) <br> _45th IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2025)_ <span style="color:gray">R Sun, H Duan, J Dong, V Ojha, T Shah, R Ranjan </span>
+* <a href="https://arxiv.org/pdf/2405.13900" target="_blank">Rehearsal-free federated domain-incremental learning</a> <br> _45th IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2025)_  <br> <span style="color:gray">R Sun, H Duan, J Dong, V Ojha, T Shah, R Ranjan </span>
 * <a href="https://doi.org/10.1016/j.hcc.2025.100321" target="_blank">Analysis of deep learning under adversarial attacks in Hierarchical Federated Learning</a> <br> _High-Confidence Computing_, Elsevier. (2025) <br>  <span style="color:gray">Alqattan DS, Snasel V, Ranjan R, Ojha V </span>
 <!-- 2024 -->
 * <a href="http://arxiv.org/abs/2312.09821" target="_blank">Fragility, Robustness and Antifragility in Deep Learning</a> <br> _Artificial Intelligence_, Elsevier. (2024) <br>  <span style="color:gray">Pravin C, Martino I, Nicosia G, Ojha V </span>
