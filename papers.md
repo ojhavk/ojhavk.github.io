@@ -22,6 +22,7 @@ title: Publications
 
 ## **Deep Learning and Machine Learning**
 * <a href="https://doi.org/10.1016/j.inffus.2025.103087" target="_blank">D2Fusion: Dual-domain fusion with feature superposition for deepfake detection</a> <br> _Information Fusion_, Elsevier. (2025) <br>  <span style="color:gray">Qiu X, Miao X, Wan F, Duan H, Shah T, Ojha V, Long Y, Ranjan R</span>
+* <a href="https://doi.org/10.1016/j.hcc.2025.100321" target="_blank">Analysis of deep learning under adversarial attacks in Hierarchical Federated Learning</a> <br> _High-Confidence Computing_, Elsevier. (2025) <br>  <span style="color:gray">Alqattan DS, Snasel V, Ranjan R, Ojha V </span>
 <!-- 2024 -->
 * <a href="http://arxiv.org/abs/2312.09821" target="_blank">Fragility, Robustness and Antifragility in Deep Learning</a> <br> _Artificial Intelligence_, Elsevier. (2024) <br>  <span style="color:gray">Pravin C, Martino I, Nicosia G, Ojha V </span>
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835762" target="_blank">Euclidean and Poincaré Space Ensemble Xgboost</a> <br> _Information Fusion_, Elsevier. (2024) <br>  <span style="color:gray">Suganthan PN, Kong L, Snasel V, Ojha V, Aly HAH </span>
