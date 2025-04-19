@@ -14,7 +14,7 @@ title: Talks
 
 ## Research Talks 
 * The future of AI is on the Edge 02/2025 (<a href="https://www.ncl.ac.uk/ncl-in-action/events/ai-edge/" target="_blank">Link</a>, <a href="/data/Research_Talks/ncl_action_2025.pdf" target="_blank">PDF</a>, <a href="https://www.youtube.com/watch?v=hkMdo4o8EEA" target="_blank">Video</a>) <br> <span style="color:gray">Newcastle in Action Discover Event, Newcastle, UK</span>
-* Keynote: Security of Advanced AI Models on the Edge 11/2024 (<a href="https://antic.co.in/" target="_blank">Link</a>) <br> <span style="color:gray">4th International Conference on Advanced Network Technologies and Intelligent Computing</span>
+* Keynote: Security of Advanced AI Models on the Edge 12/2024 (<a href="https://antic.co.in/" target="_blank">Link</a>) <br> <span style="color:gray">4th International Conference on Advanced Network Technologies and Intelligent Computing</span>
 * Energy and resource efficient Artificial Intelligence 11/2024 (<a href="/data/Research_Talks/UoE_AI_Theme_Presentation.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">April Hub, University of Edinburgh</span>
 * Artificial Intelligence Safety for Medical Sciences 11/2024 (<a href="/data/Research_Talks/AI_Safety_Institute_FMS_V_Ojha.pdf" target="_blank">PDF</a>) <br> <span style="color:gray"> Newcastle University Workshop </span>
 * Artificial Intelligence for Real World Problems 07/2024 (<a href="/data/Research_Talks/AI4Engv1.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">North East Finance Leaders' Group Event, Newcastle Collage </span>
