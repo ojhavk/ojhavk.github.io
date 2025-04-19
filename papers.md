@@ -141,7 +141,8 @@ title: Publications
 
 
 ## Edited Books	
-
+* <a href="https://link.springer.com/book/10.1007/978-3-031-82484-5" target="_blank">10th International Conference Machine Learning, Optimization, and Data Science, LOD 2024</a>, Grasmere, Lake District, UK, Sep 22 - 26, 2024, (Springer LNCS )  <br>
+<span style="color:gray">Nicosia G, Ojha V, Giesselbach S, Pardalos P, Umeton R</span>
 * <a href="https://link.springer.com/book/10.1007/978-3-031-53966-4" target="_blank">9th International Conference Machine Learning, Optimization, and Data Science, LOD 2023</a>, Grasmere, Lake District, UK, Sep 22 - 26, 2023, (Springer LNCS )  <br>
 <span style="color:gray">Nicosia G, Ojha V, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R</span>
 * <a href="https://link.springer.com/book/10.1007/978-3-031-25891-6" target="_blank">8th International Conference Machine Learning, Optimization, and Data Science, LOD 2022</a>, Siena, Italy, Sep 18–22, 2022, (Springer LNCS )  <br>
