@@ -33,6 +33,21 @@ I am working on the Security, Explainability and Trustworthiness of Deep Learnin
 
 Interested candidates should send a research proposal in this area along with your CV. 
 
+**PhD Projects (completed and present)**
+* Completed:
+  * Duaa Alqattan (2025) Security of Distributed and Federated Deep Learning Systems, NCL
+  * C Parvin (2023) Adversarial Robustness Analysis of Deep Neural Networks, (<a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
+  * D Ayers (2024) Supervised learning to estimate instabilities in chaotic systems, UoR
+    <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
+  * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
+
+* Ongoing: 
+  * L Huang, Adversarial Robustness of Multi-models LLMs (2025 - present), NCL
+  * X Li, Visual 3D Seane Understanding/Perception (2025 - present), NCL
+  * Z Liu, Adversarial Robustness Training of Deep Learning (2023–present) NCL  
+  * Z Zhang, Complex Network Analysis of Deep Neural Networks (2023–present) NCL
+  * N Alzahrani, Human activity recognition using deep learning models (2022 - present), NCL
+
 ### Contact
 
 Dr Varun Ojha, PhD <br>
