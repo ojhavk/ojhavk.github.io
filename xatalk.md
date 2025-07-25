@@ -13,6 +13,7 @@ title: Talks
 <div style="text-align: right"> <a href="#research-talks">Talks</a> | <a href="#blogs">Blogs</a> </div>
 
 ## Research Talks 
+* Keynote: Safeguarding AI, 07/2025 (<a href="https://eurochinaconference.github.io/ECC2025/" target="_blank">Link</a>, <a href="..." target="_blank">PFD</a>) <br> <span style="color:gray">The 9th Euro-China Conference on Intelligent Data Analysis and Applications</span>
 * The future of AI is on the Edge 02/2025 (<a href="https://www.ncl.ac.uk/ncl-in-action/events/ai-edge/" target="_blank">Link</a>, <a href="/data/Research_Talks/ncl_action_2025.pdf" target="_blank">PDF</a>, <a href="https://www.youtube.com/watch?v=hkMdo4o8EEA" target="_blank">Video</a>) <br> <span style="color:gray">Newcastle in Action Discover Event, Newcastle, UK</span>
 * Keynote: Security of Advanced AI Models on the Edge 12/2024 (<a href="https://antic.co.in/" target="_blank">Link</a>) <br> <span style="color:gray">4th International Conference on Advanced Network Technologies and Intelligent Computing</span>
 * Energy and resource efficient Artificial Intelligence 11/2024 (<a href="/data/Research_Talks/UoE_AI_Theme_Presentation.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">April Hub, University of Edinburgh</span>
