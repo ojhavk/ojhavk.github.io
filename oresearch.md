@@ -15,7 +15,7 @@ layout: default
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I work on Deep Learning and Machine Learning. My recent major focus has been Adversarial Deep Learning and Neural Architecture Search and Analysis. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. My recent major interdisciplinary works include Flood Monitoring, Climate Science, Civil Engineering, and System Biology. I encourage you to walk through some examples of research work on this page.
+I work on Deep Learning and Machine Learning. My recent major focus has been on Adversarial Deep Learning, Neural Architecture Search, and Analysis. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. My recent major interdisciplinary works include Flood Monitoring, Climate Science, Civil Engineering, and Systems Biology. I encourage you to walk through some examples of research work on this page.
 
 <!-- Example of our work on this webpage should encourage.   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning, focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
 ## Major Funded Project
@@ -23,7 +23,7 @@ I am leading the Artificial Intelligence Theme (as one of the Co-I) of the EPSRC
 
 ## Deep Learning 
 (_Security, Explainability and Trustworthiness of AI_) <br>
-My original works have been about developing algorithms like **Backpropagation Neural Tree** with a long-term goal of developing neuroscience-informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models of the literature.
+My original works have been about developing algorithms like **Backpropagation Neural Tree** with a long-term goal of developing neuroscience-informed new neural network algorithm design. The image below shows the computation of this neural tree algorithm and other computational models from the literature.
 
 <p align="center">
   <img src="/imgs/tree_bio.svg" />
@@ -83,11 +83,11 @@ I recommend watching the following video explaining a range of interdisciplinary
 * Deep learning in Computer Vision (2024-present)
 * Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–2024) <br> (co-supervision
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (<a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>)
--->
+
 **PhD Projects (completed and present)**
 * Ongoing: 
-  * L Huang, Adversarial Robustness of Multi-models LLMs (2025 - present), NCL
-  * X Li, Visual 3D Seane Understanding/Perception (2025 - present), NCL
+  * L Huang, Adversarial Robustness of Multi-model LLMs (2025 - present), NCL
+  * X Li, Visual 3D Scene Understanding/Perception (2025 - present), NCL
   * Z Liu, Adversarial Robustness Training of Deep Learning (2023–present) NCL  
   * Z Zhang, Complex Network Analysis of Deep Neural Networks (2023–present) NCL
   * N Alzahrani, Human activity recognition using deep learning models (2022 - present), NCL
@@ -95,8 +95,8 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
   * Duaa Alqattan (2025) Security of Distributed and Federated Deep Learning Systems, NCL
   * C Parvin (2023) Adversarial Robustness Analysis of Deep Neural Networks, (<a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
   * D Ayers (2024) Supervised learning to estimate instabilities in chaotic systems, UoR
-    <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
-  * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
+     (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
+  * Sensitivity Analysis of Deep Neural Networks, (2022) UoR  -->
 
 **Select Master Student Projects**
 * Completion of ancient pottery based on deep learning, Li X (2024, <a href="/data/Student_Projects/PG/2024_Xuening_Li_MSc.pdf" target="_blank">Thesis</a>)
