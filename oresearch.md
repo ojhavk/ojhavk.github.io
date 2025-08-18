@@ -53,7 +53,7 @@ In my recent Computer Vision work, we investigated how Transfer Learning and Sem
 <!-- ![](/imgs/water_segmentation_work.png) -->
 
 ## Interdisciplinary Research
-I like to work on **interdisciplinary research** and **data science** projects. For example, I work with Civil Engineering researchers on the following problem.
+I like to work on **interdisciplinary research** and **data science** projects. See <a href="{{site.baseurl}}/papers">Publications</a>. For example, I work with Civil Engineering researchers on the following problem.
 A _Civil Engineering_ problem was solved by applying AI algorithms. In structural engineering, large steel constructions, such as bridges and domes, are built, whose structural response is characterised by large displacements and are vulnerable to progressive collapses due to buckling effects, leading to sudden failures. A thorough analysis of such buckling was done using optimisation algorithms.
 
 <p align="center">
@@ -62,11 +62,12 @@ A _Civil Engineering_ problem was solved by applying AI algorithms. In structura
 **Figure.** Twenty-Four Member Shallow Truss Structure. Left: Top View and Side View of the structure.
 The central node of the structure is indicated by a lighter colour dot and arrow. The arrow indicates a vertical downward external force. Right: The results of the adaptive search space decomposition method (Center) applied on this benchmark (<a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank"> Ojha et al. 2022 </a>).
 
+<!--
 I recommend watching the following video explaining a range of interdisciplinary research projects I have had the opportunity to work on. This talk was for AI starters and will provide a simplified overview of AI and its application.
 
 <p align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3U4-7Y-epFw?start=117" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
+</p> --->
 
 ## Examiner of PhD Thesis
 * Macquarie University, Australia
