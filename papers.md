@@ -93,7 +93,9 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
 
 
-**System Biology**
+**Medical Sciences and Systems Biology**
+* <a href="...">Deep Learning–Assisted Detection of Sarcopenia in Cross-Sectional Computed Tomography Imaging</a> <br> The 9th Euro-China Conference on Intelligent Data Analysis and Applications<br> <span style="color:gray">M Bhardwaj, H Liang, A Sivaharan, S Nandhra,V Snasel, T El-Sayed, and V Ojha</span>
+
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> <span style="color:gray">Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G</span>
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> <span style="color:gray">Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G</span>
 
