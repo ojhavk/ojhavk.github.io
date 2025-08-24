@@ -100,14 +100,6 @@ title: Publications
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> <span style="color:gray">Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G</span>
 
 
-
-**Cloud Computing**
-* <a href="https://centaur.reading.ac.uk/93558/" target="_blank">Neuro-fuzzy risk prediction model for computational grids</a> <br> _Proc. of the 2nd Int. Afro-European Conf. Ind. Adv._, Paris. (pp 127--136) Springer (2016) <br> <span style="color:gray">Abdelwahab S,  Ojha VK, Abraham A </span>
-* <a href="https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13" target="_blank">Ensemble of flexible neural trees for predicting risk in a grid computing environment</a> <br> _6th Int. Conf. on Innov. in Bio-Inspired Comput. Appl._,  Kochi (pp 151--161) Springer (2016) <br> <span style="color:gray">Abdelwahab S, Ojha VK, Abraham A</span>
-* <a href="https://link.springer.com/chapter/10.1007/978-3-319-27400-3_3" target="_blank">An ensemble of neuro-fuzzy models for assessing risk in a cloud computing environment</a> <br> _Advances in Nature and Biologically Inspired Computing_ (pp 27--36) Springer (2016) <br> <span style="color:gray">Ahmed N,  Ojha VK, Abraham A </span>
-* <a href="https://centaur.reading.ac.uk/93563/" target="_blank">Design and implementation of an improved datacenter broker policy to improve the QoS of a cloud</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 281--290) Springer (2014) <br><span style="color:gray"> Chatterjee T, Ojha VK, Adhikari M,  Banerjee S, Biswas U, Snášel V </span>
-
-
 **Pharmaceutical and Powder Technology**
 <!-- 2016 -->
 * <a href="https://arxiv.org/abs/1709.04318" target="_blank">Predictive modeling of die filling of pharmaceutical granules using the flexible neural tree </a> <br> _Neural Computing Application 29_(7), 467--481. Springer (2016) <br> <span style="color:gray">Ojha VK, Schiano S,  Wu C, Abraham A, Snášel V </span>
@@ -116,6 +108,12 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/93564/" target="_blank">Feature selection and ensemble of regression models for predicting the protein macromolecule dissolution profile</a> <br> _6th World Congr. on Nature and Bio Inspired Comput._ NaBIC, Porto (pp 121--126) IEEE (2014) <br> <span style="color:gray">Ojha VK, Jackowski K, Abraham A, Snášel V </span>
 * <a href="https://centaur.reading.ac.uk/94619/" target="_blank">Dimensionality reduction and prediction of the protein macromolecule dissolution profile </a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. Appl._, Ostrava (pp 301--310) Springer (2014) <br> <span style="color:gray">Ojha VK, Jackowski K, Snášel V, Abraham A  </span>
 * Machine learning tools for modeling of powder mixing <br> _Int. Congress on Particle Technology_, Nurnberg, Germany (2016). German National Library. <br> <span style="color:gray">Ojha VK, Schiano S,  Wu C, Abraham A, Snášel V </span>
+
+**Cloud Computing**
+* <a href="https://centaur.reading.ac.uk/93558/" target="_blank">Neuro-fuzzy risk prediction model for computational grids</a> <br> _Proc. of the 2nd Int. Afro-European Conf. Ind. Adv._, Paris. (pp 127--136) Springer (2016) <br> <span style="color:gray">Abdelwahab S,  Ojha VK, Abraham A </span>
+* <a href="https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13" target="_blank">Ensemble of flexible neural trees for predicting risk in a grid computing environment</a> <br> _6th Int. Conf. on Innov. in Bio-Inspired Comput. Appl._,  Kochi (pp 151--161) Springer (2016) <br> <span style="color:gray">Abdelwahab S, Ojha VK, Abraham A</span>
+* <a href="https://link.springer.com/chapter/10.1007/978-3-319-27400-3_3" target="_blank">An ensemble of neuro-fuzzy models for assessing risk in a cloud computing environment</a> <br> _Advances in Nature and Biologically Inspired Computing_ (pp 27--36) Springer (2016) <br> <span style="color:gray">Ahmed N,  Ojha VK, Abraham A </span>
+* <a href="https://centaur.reading.ac.uk/93563/" target="_blank">Design and implementation of an improved datacenter broker policy to improve the QoS of a cloud</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 281--290) Springer (2014) <br><span style="color:gray"> Chatterjee T, Ojha VK, Adhikari M,  Banerjee S, Biswas U, Snášel V </span>
 
 **Sensors and Signal Processing** 
 * <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Accent and gender recognition from English language speech and audio using signal processing and deep learning</a> <br> _20th Int. Conf. on Hybrid Intelligent Systems_ (pp 62--72) Springer (2020) <br> <span style="color:gray">Shergill JS, Pravin C, Ojha V </span>
