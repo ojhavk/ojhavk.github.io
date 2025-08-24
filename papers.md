@@ -93,14 +93,12 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
 
 
-**Medical Sciences and Systems Biology**
+**Medical Sciences, Systems Biology and Medicine**
 * <a href="...">Deep Learning–Assisted Detection of Sarcopenia in Cross-Sectional Computed Tomography Imaging</a> <br> The 9th Euro-China Conference on Intelligent Data Analysis and Applications<br> <span style="color:gray">M Bhardwaj, H Liang, A Sivaharan, S Nandhra,V Snasel, T El-Sayed, and V Ojha</span>
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> <span style="color:gray">Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G</span>
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> <span style="color:gray">Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G</span>
 
-
-**Pharmaceutical and Powder Technology**
 <!-- 2016 -->
 * <a href="https://arxiv.org/abs/1709.04318" target="_blank">Predictive modeling of die filling of pharmaceutical granules using the flexible neural tree </a> <br> _Neural Computing Application 29_(7), 467--481. Springer (2016) <br> <span style="color:gray">Ojha VK, Schiano S,  Wu C, Abraham A, Snášel V </span>
 * <a href="https://doi.org/10.2147/IJN.S71847" target="_blank">Dimensionality reduction and function approximation of poly(lactic-co-glycolic acid) micro-and nano-particle dissolution rate </a> <br> _International Journal of Nanomedicine, 10_, 1119--1129. (2015) <br> <span style="color:gray"> Ojha VK, Jackowski K, Abraham A, Snášel V </span>  
