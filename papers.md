@@ -68,8 +68,7 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/82151/" target="_blank">ACO for continuous function optimization: A performance analysis</a> <br> _14th Int. Conf. on Intell. Syst. Design and Appl._, Okinawa, Japan (pp 145--150) IEEE (2014) <br> <span style="color:gray"> Ojha VK, Abraham A, Snášel V </span>
 * <a href="https://centaur.reading.ac.uk/93568/" target="_blank">Simultaneous optimization of neural network weights and active nodes using metaheuristics</a> <br> _14th Int. Conf. on Hybrid Intell. Syst._, Kuwait (pp 248--253) IEEE (2014) <br> <span style="color:gray"> Ojha VK, Abraham A, Snášel V </span>
 * <a href="https://centaur.reading.ac.uk/93562/" target="_blank">A framework of secured and bio-inspired image steganography using chaotic encryption with genetic algorithm optimization</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 271--280) Springer (2014) <br> <span style="color:gray">Bandyopadhyay D, Dasgupta K, Mandal JK, Ojha VK, Snášel V </span>
-<br>
-* <a href="https://centaur.reading.ac.uk/93563/" target="_blank">Design and implementation of an improved datacenter broker policy to improve the QoS of a cloud</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 281--290) Springer (2014) <br><span style="color:gray"> Chatterjee T, Ojha VK, Adhikari M,  Banerjee S, Biswas U, Snášel V </span>
+* <a href="https://centaur.reading.ac.uk/93563/" target="_blank">Design and implementation of an improved datacenter broker policy to improve the QoS of a cloud</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 281--290) Springer (2014) <br><span style="color:gray"> Chatterjee T, Ojha VK, Adhikari M,  Banerjee S, Biswas U, Snášel V </span><br>
 
 
 ## **Applied Artificial Intelligence**
