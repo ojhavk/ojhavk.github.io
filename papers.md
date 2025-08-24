@@ -70,7 +70,7 @@ title: Publications
 
 ## **Applied Artificial Intelligence**
 <!-- 2023 -->
-**Hydrology**
+**Hydrology and Climate Science**
 * <a href="https://bmva-archive.org.uk/bmvc/2024/workshops/MVEO/paper4.pdf" target="_blank"> Automated trash screen blockage segmentation using deep learning </a> <br> _British Machine Vision Conference_, (2024) <br> <span style="color:gray">Vandaele, R., Dance, S L, Williams H., & Ojha, V</span>
 * <a href="https://doi.org/10.2166/hydro.2024.013" target="_blank"> Deep Learning for Automated Trash Screen Blockage Detection Using Cameras: Actionable Information for Flood Risk Management </a> <br> _Journal of Hydroinformatics_, (2024) <br> <span style="color:gray">Vandaele, R., Dance, S L, & Ojha, V</span>
 * <a href="https://www.cambridge.org/core/journals/environmental-data-science/article/calibrated-riverlevel-estimation-from-river-cameras-using-convolutional-neural-networks/912B6F25D567B59C38C6D76185829F76" target="_blank"> Calibrated river-level estimation from river cameras using convolutional neural networks </a> <br> _Environmental Data Science_, Cambridge University Press (2023) <br> <span style="color:gray">Vandaele, R., Dance, S L, & Ojha, V</span>
@@ -79,27 +79,25 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Transfer learning for instance segmentation of waste bottles using Mask R-CNN algorithm</a> <br> _20th Int. Conf. on Intelligent Systems Design and Applications_ (pp 140--149) Springer (2020) <br> <span style="color:gray"> Jaikumar P, Vandaele R, Ojha V </span>
 * <a href="https://centaur.reading.ac.uk/93823/" target="_blank">Automated water segmentation and river level detection on images using transfer learning</a> <br> _42nd DAGM German Conference on Pattern Recognition, DAGM GCPR_, Tubingen, Germany, _Proceedings 42_ (pp 232–245) Springer, LNCS (2020) <br> <span style="color:gray"> Vandaele R, Dance SL, Ojha V </span>
 
-**Civil Engineering**
-* <a href="https://arxiv.org/pdf/2501.09203" target="_blank">Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures</a> <br>  (2022) <br> <span style="color:gray">P Deng, J Yao, C Li, S Wang, X Li, V Ojha, X He, T Matsumoto </span>
-* <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> <span style="color:gray">Ojha V, Panto, B, Nicosia G </span>
-* <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
-
-**Climate Science**
 * <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4450" target="_blank">Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents</a> <br> _Quarterly Journal of the Royal Meteorological Society_, Wiley (2023)  <br> <span style="color:gray">Ayers D, Lau J, Amezcua J, Carrassi A, Ojha V</span>
 * <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-12765.html" target="_blank"> Supervised machine learning to estimate instabilities in chaotic systems: computation of local Lyapunov exponents </a> <br> EGU General Assembly 2022 Vienna, Austria, 23–27 May (2022) <br> <span style="color:gray">Ayers D, Lau J, Amezcua J, Carrassi A, and Ojha V</span>
 * <a href="https://events.ecmwf.int/event/172/contributions/1739/attachments/865/1538/Machine-Learning-WS_Ayers.pdf" target="_blank">Toward an adaptive numerical integration scheme dependent on ML-predicted accuracy</a> <br> _ECMWF Workshop_, Reading, UK (2020) <br> <span style="color:gray">Ayers D, Amezcua J , Ojha V, Carrassi A, Leeuwen PJ</span>
+
+**Civil Engineering and Built Environment**
+* <a href="https://arxiv.org/pdf/2501.09203" target="_blank">Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures</a> <br>  (2022) <br> <span style="color:gray">P Deng, J Yao, C Li, S Wang, X Li, V Ojha, X He, T Matsumoto </span>
+* <a href="https://arxiv.org/pdf/2211.07519.pdf" target="_blank">Adaptive search space decomposition method for pre and post buckling analyses of space truss structures</a> <br> _Engineering Applications in Artificial Intelligence_, Elsevier  (2022) <br> <span style="color:gray">Ojha V, Panto, B, Nicosia G </span>
+* <a href="https://arxiv.org/abs/2109.07279" target="_blank">Design and characterization of effective solar cells </a> <br> _Energy Systems_, 1--28. Springer (2021) <br> <span style="color:gray">Ojha V, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G</span>
+* <a href="https://arxiv.org/abs/1812.06128" target="_blank">Machine learning approaches to understand the influence of urban environments on human's physiological response </a> <br> _Information Sciences, 474_, 154--169. Elsevier. (2019) <br> <span style="color:gray">Ojha VK, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G </span>
+* <a href="https://doi.org/10.3390/ijgi8020052" target="_blank">Examining trade-offs between social, psychological and energy potential of urban form </a> <br> _International Journal of Geo-Information, 8_(2), 1--52 (2019) <br> <span style="color:gray">Bielik M, Griego D, Kuliga S, Schneider S,Ojha VK Konig R, Donath D, Schmitt G</span>
+* <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos</a> <br> _Tech. Report_, ETH Zurich, Switzerland (2017) <br> <span style="color:gray"> Griego D, Kuliga S, Bielik M, Standfest M, Ojha VK, Schneider S, Konig  R, Donath D, Schmitt  G</span>
+* <a href="https://centaur.reading.ac.uk/93553/" target="_blank">Neural tree for estimating the uniaxial compressive strength</a> <br> _17th Int. Conf. Hybrid Intelligence System_, New Delhi, India (pp 1--10) Springer (2018) <br> <span style="color:gray">Ojha VK, Mishra, DA</span>
+
 
 **System Biology**
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> <span style="color:gray">Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G</span>
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> <span style="color:gray">Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G</span>
 
-**Solar Cells**
-* <a href="https://arxiv.org/abs/2109.07279" target="_blank">Design and characterization of effective solar cells </a> <br> _Energy Systems_, 1--28. Springer (2021) <br> <span style="color:gray">Ojha V, Jansen G, Patanè A, Magna AL, Romano V, Nicosia G</span>
 
-**Built Environment**
-* <a href="https://arxiv.org/abs/1812.06128" target="_blank">Machine learning approaches to understand the influence of urban environments on human's physiological response </a> <br> _Information Sciences, 474_, 154--169. Elsevier. (2019) <br> <span style="color:gray">Ojha VK, Griego D, Kuliga S, Bielik M, Bus P, Schaeben C, Treyer L, Standfest M, Schneider S, Konig R, Donath D,  Schmitt G </span>
-* <a href="https://doi.org/10.3390/ijgi8020052" target="_blank">Examining trade-offs between social, psychological and energy potential of urban form </a> <br> _International Journal of Geo-Information, 8_(2), 1--52 (2019) <br> <span style="color:gray">Bielik M, Griego D, Kuliga S, Schneider S,Ojha VK Konig R, Donath D, Schmitt G</span>
-* <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/184587?show=full" target="_blank">ESUM urban sensing handbook: component, assembly and operational guide: sensor backpack & 360 videos</a> <br> _Tech. Report_, ETH Zurich, Switzerland (2017) <br> <span style="color:gray"> Griego D, Kuliga S, Bielik M, Standfest M, Ojha VK, Schneider S, Konig  R, Donath D, Schmitt  G</span>
 
 **Cloud Computing**
 * <a href="https://centaur.reading.ac.uk/93558/" target="_blank">Neuro-fuzzy risk prediction model for computational grids</a> <br> _Proc. of the 2nd Int. Afro-European Conf. Ind. Adv._, Paris. (pp 127--136) Springer (2016) <br> <span style="color:gray">Abdelwahab S,  Ojha VK, Abraham A </span>
@@ -143,7 +141,7 @@ title: Publications
 
 
 ## Edited Books	
-* <a href="https://link.springer.com/book/10.1007/978-3-031-82484-5" target="_blank">10th International Conference Machine Learning, Optimization, and Data Science, LOD 2024</a>, Grasmere, Lake District, UK, Sep 22 - 26, 2024, (Springer LNCS )  <br>
+* <a href="https://link.springer.com/book/10.1007/978-3-031-82484-5" target="_blank">10th International Conference Machine Learning, Optimization, and Data Science, LOD 2024</a>, Tuscuanny, Italy, Sep 22 - 26, 2024, (Springer LNCS )  <br>
 <span style="color:gray">Nicosia G, Ojha V, Giesselbach S, Pardalos P, Umeton R</span>
 * <a href="https://link.springer.com/book/10.1007/978-3-031-53966-4" target="_blank">9th International Conference Machine Learning, Optimization, and Data Science, LOD 2023</a>, Grasmere, Lake District, UK, Sep 22 - 26, 2023, (Springer LNCS )  <br>
 <span style="color:gray">Nicosia G, Ojha V, Malfa EL, Jansen G, Sciacca V, Pardalos P, Giuffrida G, Umeton R</span>
