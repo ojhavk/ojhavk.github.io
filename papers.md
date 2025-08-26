@@ -22,7 +22,7 @@ title: Publications
 
 ## **Deep Learning and Machine Learning**
 * <a href="https://arxiv.org/pdf/2506.07056" target="_blank">D2R: dual regularization loss with collaborative adversarial generation for model robustness</a> <br> _34th International Conference on Artificial Neural Networks_ (ICANN 2025)  <br> <span style="color:gray">Z Liu,  H Liang, R Ranjan, Z Zhu, V Snasel, V Ojha</span>
-* <a href="..." target="_blank">AdaGAT: Adaptive Guidance Adversarial Training for the Robustness of Deep Neural Networks</a> <br> _8th Chinese Conference on Pattern Recognition and Computer Vision_ (PRCV 2025)  <br> <span style="color:gray">Z Liu,  H Liang, X Li, V Snasel, V Ojha</span>
+* <a href="https://arxiv.org/pdf/2508.17265" target="_blank">AdaGAT: Adaptive Guidance Adversarial Training for the Robustness of Deep Neural Networks</a> <br> _8th Chinese Conference on Pattern Recognition and Computer Vision_ (PRCV 2025)  <br> <span style="color:gray">Z Liu,  H Liang, X Li, V Snasel, V Ojha</span>
 * <a href="https://doi.org/10.1016/j.inffus.2025.103087" target="_blank">D2Fusion: Dual-domain fusion with feature superposition for deepfake detection</a> <br> _Information Fusion_, Elsevier. (2025) <br>  <span style="color:gray">Qiu X, Miao X, Wan F, Duan H, Shah T, Ojha V, Long Y, Ranjan R</span>
 * <a href="https://arxiv.org/pdf/2405.13900" target="_blank">Rehearsal-free federated domain-incremental learning</a> <br> _45th IEEE International Conference on Distributed Computing Systems_ (IEEE ICDCS 2025)  <br> <span style="color:gray">R Sun, H Duan, J Dong, V Ojha, T Shah, R Ranjan </span>
 * <a href="https://doi.org/10.1016/j.hcc.2025.100321" target="_blank">Analysis of deep learning under adversarial attacks in Hierarchical Federated Learning</a> <br> _High-Confidence Computing_, Elsevier. (2025) <br>  <span style="color:gray">Alqattan DS, Snasel V, Ranjan R, Ojha V </span>
@@ -97,7 +97,7 @@ title: Publications
 
 
 **Medical Sciences, Systems Biology and Medicine**
-* <a href="...">Deep Learning–Assisted Detection of Sarcopenia in Cross-Sectional Computed Tomography Imaging</a> <br> The 9th Euro-China Conference on Intelligent Data Analysis and Applications<br> <span style="color:gray">M Bhardwaj, H Liang, A Sivaharan, S Nandhra,V Snasel, T El-Sayed, and V Ojha</span>
+* <a href="https://arxiv.org/pdf/2508.17275">Deep Learning–Assisted Detection of Sarcopenia in Cross-Sectional Computed Tomography Imaging</a> <br> The 9th Euro-China Conference on Intelligent Data Analysis and Applications<br> <span style="color:gray">M Bhardwaj, H Liang, A Sivaharan, S Nandhra,V Snasel, T El-Sayed, and V Ojha</span>
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-25599-1_43">Inferring Pathological Metabolic Patterns in Breast Cancer Tissue from Genome-Scale Models</a> <br> International Conference on Machine Learning, Optimization, and Data Science (LNCS) <br> <span style="color:gray">Amaradio MN ,Jansen G, Ojha V, Costanza J, Di-Fatta G, Nicosia G</span>
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28103" target="_blank">Pareto Optimal Metabolic Engineering for the Growth-coupled Overproduction of Sustainable Chemicals </a> <br> _Biotechnology and Bioengineering_, Wiley (2022) <br> <span style="color:gray">Amaradio MN, Ojha V, Jansen G, Pappalardo X, Costanza J, Nicosia G</span>
