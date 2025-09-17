@@ -18,7 +18,7 @@ layout: default
 I work on Deep Learning and Machine Learning. My recent major focus has been on Adversarial Deep Learning, Neural Architecture Search, and Analysis. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. My recent major interdisciplinary works include Flood Monitoring, Climate Science, Civil Engineering, and Systems Biology. I encourage you to walk through some examples of research work on this page.
 
 <!-- Example of our work on this webpage should encourage.   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning, focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
-## Major Funded Project
+## Funded Project
 * EPSRC | National Edge AI Hub. ~12 million GBP.
 * EPSRC | Federated Edge–HPC Architectures for AI Workflows £200,000
 * EU | 6G Path- RESCUE project £60,000
