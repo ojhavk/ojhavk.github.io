@@ -19,7 +19,14 @@ I work on Deep Learning and Machine Learning. My recent major focus has been on 
 
 <!-- Example of our work on this webpage should encourage.   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning, focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
 ## Major Funded Project
-I am leading the Artificial Intelligence Theme (as one of the Co-I) of the EPSRC-funded National Edge AI Hub. The National Edge AI Hub is a ~12m GBP project.  
+* EPSRC | National Edge AI Hub. ~12 million GBP.
+* EPSRC | Federated Edge–HPC Architectures for AI Workflows £200,000
+* EU | 6G Path- RESCUE project £60,000
+* Innovate UK | AI for focasting EV Charging £116,007
+* Innovate UK | AI for Energy Usage Optimization £113,740
+* EPSRC PhD | Adversarial Attacks on Deep Leanring ~ £70,000
+* EPSRC PhD | Ai for Climate/Dynamical Systems~ £70,000
+
 
 ## Deep Learning 
 (_Security, Explainability and Trustworthiness of AI_) <br>
