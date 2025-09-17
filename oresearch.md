@@ -24,10 +24,12 @@ _Engineering and Science Applications of AI_. I work on Artificial Intelligence 
 * EPSRC &#124; National Edge AI Hub. ~12 million GBP.
 * EPSRC &#124; Federated Edge–HPC Architectures for AI Workflows £200,000
 * EU &#124; 6G Path- RESCUE project £60,000
+* Industry-funded projects &#124; with multiple companies  ~£148,000
 * Innovate UK &#124; AI for focasting EV Charging £116,007
 * Innovate UK &#124; AI for Energy Usage Optimization £113,740
 * EPSRC PhD &#124; Adversarial Attacks on Deep Leanring ~ £70,000
-* EPSRC PhD &#124; Ai for Climate/Dynamical Systems~ £70,000
+* EPSRC PhD &#124; AI for Climate/Dynamical Systems~ £70,000
+
 
 
 ## Deep Learning 
