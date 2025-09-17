@@ -11,11 +11,13 @@ layout: default
 
 <div style="text-align: left"> <a href="{{site.baseurl}}/xcontact">phd | postdoc</a> </div> <br>
 
-## Research 
+## Research Interest
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-I work on Deep Learning and Machine Learning. My recent major focus has been on Adversarial Deep Learning, Neural Architecture Search, and Analysis. I apply Artificial Intelligence to solve complex Engineering and Science problems of a highly interdisciplinary nature. I am open to collaborating with researchers from a diverse range of disciplines. My recent major interdisciplinary works include Flood Monitoring, Climate Science, Civil Engineering, and Systems Biology. I encourage you to walk through some examples of research work on this page.
+**Trustworthiness Artificial Intelligence**. I work on Deep Learning and Machine Learning. My primary research goals are to work on Deep Neural Networks towards the Security, Explainability, and Trustworthiness of AI.
+**Engineering and Science Applications of AI**. I work on Artificial Intelligence Algorithms to solve complex Engineering and Science problems. For example, I have collaborated with researchers from various disciplines, including Engineering, Climate Science, Hydrology, Environmental Science,  and Biology, to innovate and apply AI in solving problems across these fields.
+
 
 <!-- Example of our work on this webpage should encourage.   My main focus is on neural networks. I am interested in sparse neural computation in order to create fast, robust, and optimal learning systems. I am currently working on neural networks and deep learning, focusing on neural architecture search and analysis to achieve this goal. I aim to integrate inspiration from neuroscience to inform neural design in the long term. I like to collaborate with interdisciplinary researchers where problems introduce challenges to deep learning, neural networks, and optimization. Do read examples of my work and do get in touch at v.k.ojha[at]reading.ac.uk. -->
 ## Funded Project
