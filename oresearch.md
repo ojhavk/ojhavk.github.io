@@ -95,8 +95,10 @@ I recommend watching the following video explaining a range of interdisciplinary
 * Deep learning in Computer Vision (2024-present)
 * Machine learning for high-impact weather and flood prediction <br> Remy Vandaele (2020–2024) <br> (co-supervision
 with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh Dance</a>), UoR, UK. (<a href="https://centaur.reading.ac.uk/93823/" target="_blank">Vandaele et al. 2020</a> and <a href="https://hess.copernicus.org/articles/25/4435/2021/" target="_blank">Vandaele et al. 2021</a>)
-
+-->
 **PhD Projects (completed and present)**
+<div style="text-align: left"> <a href="{{site.baseurl}}/xcontact">List of PhD Students</a> </div> <br>
+<!--
 * Ongoing: 
   * L Huang, Adversarial Robustness of Multi-model LLMs (2025 - present), NCL
   * X Li, Visual 3D Scene Understanding/Perception (2025 - present), NCL
