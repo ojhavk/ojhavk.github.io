@@ -110,7 +110,8 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
   * C Parvin (2023) Adversarial Robustness Analysis of Deep Neural Networks, (<a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
   * D Ayers (2024) Supervised learning to estimate instabilities in chaotic systems, UoR
      (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) 
-  * Sensitivity Analysis of Deep Neural Networks, (2022) UoR  -->
+  * Sensitivity Analysis of Deep Neural Networks, (2022) UoR  
+-->
 
 **Select Master Student Projects**
 * Completion of ancient pottery based on deep learning, Li X (2024, <a href="/data/Student_Projects/PG/2024_Xuening_Li_MSc.pdf" target="_blank">Thesis</a>)
