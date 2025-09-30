@@ -35,10 +35,11 @@ Interested candidates should send a research proposal in this area along with yo
 
 **PhD Projects (completed and present)**
 * Completed:
-  * Zhenyu Liu (2025), Adaptive and Regularized Adversarial Training for Robust Deep Learning, NCL 
+  * Zhenyu Liu (2025), Adaptive and Regularized Adversarial Training for Robust Deep Learning, NCL
+  * Naif Alzahrani, Advancing Generative Models for Synthetic Multichannel Sensor Data for Human Activity Recognition (2022 - 2025), NCL
   * Duaa Alqattan (2025) Security of Distributed and Federated Deep Learning Systems, NCL
-  * C Parvin (2023) Fragility, Robustness and Antifragility of Deep Neural Networks, (<a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
-  * D Ayers (2024) Supervised learning to estimate instabilities in chaotic systems, UoR
+  * Chandresh Parvin (2023) Fragility, Robustness and Antifragility of Deep Neural Networks, (<a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
+  * Daniel Ayers (2024) Supervised learning to estimate instabilities in chaotic systems, UoR
     <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
 
@@ -47,7 +48,7 @@ Interested candidates should send a research proposal in this area along with yo
   * L Huang, Adversarial Robustness of Multi-model LLMs (2025 - present), NCL
   * X Li, Visual 3D Scene Understanding/Perception (2025 - present), NCL 
   * Z Zhang, On Learnability, Compression, and Topology of Deep Learning (2023–2025) NCL
-  * N Alzahrani, Advancing Generative Models for Synthetic Multichannel Sensor Data for Human Activity Recognition (2022 - 2025), NCL
+  
 
 ### Contact
 
