@@ -21,17 +21,17 @@ Currently open to self-funded candidates.
 
 <br>
 
-**I am open to supporting candidates with a strong background for PhD | PostDoc Scholarship**
-* [Commonwealth PhD Scholarship - candidates from commonwealth countries](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
+**I am open to supporting candidates with a strong background for a PhD | PostDoc Scholarship**
+* [Commonwealth PhD Scholarship - candidates from Commonwealth countries](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
 * [CSC PhD Scholarship - only for candidates from China](https://www.ncl.ac.uk/mediav8/modern-languages/files/csc-nu-phd-scholarships-regulations-22-23.pdf)
-* Other PhD Scholarship specific to the candidate's own country
+* Other PhD Scholarships specific to the candidate's own country
 * Self-funded candidates with a strong background for a PhD
 
 * [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
-I am working on the Security, Explainability and Trustworthiness of Deep Learning, Transformers, Foundation Models, and their application to Computer Vision and NLP Problems.
+I am working on the Security, Explainability, and Trustworthiness of Deep Learning, Transformers, and Foundation Models, as well as their applications to Computer Vision and NLP Problems.
 
-Interested candidates should send a research proposal in this area along with your CV. 
+Interested candidates should send a research proposal in this area along with their CV. 
 
 **PhD Projects (completed and present)**
 * Completed:
