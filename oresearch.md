@@ -108,10 +108,10 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 * Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
 * Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
 * Computing of local Lyapunov exponents using machine learning, Lau J (UoR, 2021, <a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
-* Autoencoders and GANs for addressing imbalance image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
+* Autoencoders and GANs for addressing imbalanced image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
 * Transfer learning for segmentation of waste bottles using Mask R-CNN, Jaikumar P (2020, <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Paper</a>)
 * Machine Learning modelling of die filling for pharmaceutical powders, Peschiutta P (University of Padua, Padua, Italy, 2020) (external co-supervision with <a href="https://www.surrey.ac.uk/people/charley-wu" target="_blank">Prof C Wu</a>) (<a href="http://tesi.cab.unipd.it/64688/1/Peschiutta_Stefano_1190561.pdf" target="_blank">Thesis</a>)
-* Non-spatial and spatial statistics for analysing human’s perception of the built environment, Heidi S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
+* Non-spatial and spatial statistics for analysing humans’ perception of the built environment, Heidi S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
 * Convolutional neural network-based visual feature extraction for evaluation of the
 urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
 * People’s perception of urban and architectural features, Charlotte S (ETH Zurich, 2017, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
