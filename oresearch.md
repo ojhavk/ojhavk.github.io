@@ -133,7 +133,7 @@ urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-col
 
 
 ## Code Repository at GitHub (<a href="https://github.com/vojha-code/" target="_blank">github.com/vojha-code</a>) 
-I program in Java (mainly), Python (mostly these days for machine learning), MATLAB (occasionally when need be), and C++ (when I am looking to speed up my code). Following are a few examples of algorithms, tools, and software I have developed over the years.
+I program in Java (mainly), Python (mostly these days for machine learning), MATLAB (occasionally when need be), and C++ (when I am looking to speed up my code). The following are a few examples of algorithms, tools, and software I have developed over the years.
 
 * Adversarial Deep Learning (<a href="https://github.com/vojha-code/InferLink" target="_blank">Code</a>)
 * Backpropagation Neural Tree (BNeuralT) (<a href="https://github.com/vojha-code/BNeuralT" target="_blank">Code</a>)
