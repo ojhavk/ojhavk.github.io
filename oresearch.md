@@ -101,11 +101,11 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 
 **Select Master/Bachelor Student Projects**
 
-* AI Safety and Security
+* _AI Safety and Security_
   * Adversarial attacks and defenses on autonomous vehicles, Vaicius I, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_I_Vaicius.pdf" target="_blank">Report</a>)
   * Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
 
-* Computer Vision and Image Data Processing_
+* _Computer Vision and Image Data Processing_
   * Self-supervised representation learning for medical image processing, Bhardwaj M (2023, <a href="/data/Student_Projects/PG/2023_Manish_Bhardawaj_MSc.pdf" target="_blank">Thesis</a>)
   * Ancient artifact (pottery) reconstruction  based on deep learning, Li X (2024, <a href="/data/Student_Projects/PG/2024_Xuening_Li_MSc.pdf" target="_blank">Thesis</a>)
   * Monocular depth estimation for autonomous vehicles utilising a self-supervised learning, Murph C, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_Calum_Murphy.pdf" target="_blank">Report</a>)
@@ -116,24 +116,24 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
   * Autoencoders and GANs for addressing imbalanced image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
   * Using three GAN-based models to provide modelling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
 
-* Natural Language Processing / Text Data Processing
+* _Natural Language Processing / Text Data Processing_
   * Fake news detection with neural networks, Mehring C (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) 
   * An analysis of NLP techniques applied to generating tweets, Rickard J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
   * Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, Braund T (UoR, 2019, <a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
 
-* Audio/Speech Data Processing
+* _Audio/Speech Data Processing_
   * Audio classification using machine learning techniques, Taemur A (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
   * Classification of musical preferences through signal processing, Ward B (UoR, 2020, <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
   * Machine learning for speech classification, Shergill JS (UoR, 2020, <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Paper</a>)
 
-* Time-series analysis and forecasting
+* _Time-series analysis and forecasting_
   * Using neural networks for time-series analysis of UK river flow data, Neele M (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
   * A study into the effectiveness of RNNs for trading, Doidge KB (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
   * Reading bus time prediction-A data science approach, Ford J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
   * Computing of local Lyapunov exponents using machine learning, Lau J (UoR, 2021, <a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
   * Reconstruction and parameter estimation of dynamical systems using DNNs (2022, <a href="https://thesis.unipd.it/retrieve/c7e3e5f8-34c5-47a3-9776-03edc3578548/Bassi_Alberto.pdf" target="_blank">Thesis</a>)
 
-* Data Science Projects
+* _Data Science Projects_
   * Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
   * Non-spatial and spatial statistics for analysing humans’ perception of the built environment, Heidi S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
   * People’s perception of urban and architectural features, Charlotte S (ETH Zurich, 2017, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
