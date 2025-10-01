@@ -64,7 +64,7 @@ In my recent Computer Vision work, we investigated how Transfer Learning and Sem
 <!-- ![](/imgs/water_segmentation_work.png) -->
 
 ## Interdisciplinary Research
-I like to work on **interdisciplinary research** and **data science** projects. See <a href="{{site.baseurl}}/papers">Publications</a>. For example, I work with Civil Engineering researchers on the following problem.
+I enjoy working on interdisciplinary research and data science projects. See <a href="{{site.baseurl}}/papers">Publications</a>. For example, I work with Civil Engineering researchers on the following problem.
 A _Civil Engineering_ problem was solved by applying AI algorithms. In structural engineering, large steel constructions, such as bridges and domes, are built, whose structural response is characterised by large displacements and are vulnerable to progressive collapses due to buckling effects, leading to sudden failures. A thorough analysis of such buckling was done using optimisation algorithms.
 
 <p align="center">
@@ -101,43 +101,43 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 
 **Select Master/Bachelor Student Projects**
 
-**AI Safety and Security**
+* AI Safety and Security
 * Adversarial attacks and defenses on autonomous vehicles, Vaicius I, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_I_Vaicius.pdf" target="_blank">Report</a>)
 * Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
 
-**Computer Vision and Image Data Processing**
-* Self-supervised representation learning for medical image processing, Bhardwaj M (2023, <a href="/data/Student_Projects/PG/2023_Manish_Bhardawaj_MSc.pdf" target="_blank">Thesis</a>)
-* Ancient artifact (pottery) reconstruction  based on deep learning, Li X (2024, <a href="/data/Student_Projects/PG/2024_Xuening_Li_MSc.pdf" target="_blank">Thesis</a>)
-* Monocular depth estimation for autonomous vehicles utilising a self-supervised learning, Murph C, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_Calum_Murphy.pdf" target="_blank">Report</a>)
-* DL and box speed calibration for predicting rowing boat speed, Young R (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
-* Convolutional neural network-based visual feature extraction for evaluation of the
-urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
-* Transfer learning for segmentation of waste bottles using Mask R-CNN, Jaikumar P (2020, <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Paper</a>)
-* Autoencoders and GANs for addressing imbalanced image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
-* Using three GAN-based models to provide modelling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
+* Computer Vision and Image Data Processing_
+  * Self-supervised representation learning for medical image processing, Bhardwaj M (2023, <a href="/data/Student_Projects/PG/2023_Manish_Bhardawaj_MSc.pdf" target="_blank">Thesis</a>)
+  * Ancient artifact (pottery) reconstruction  based on deep learning, Li X (2024, <a href="/data/Student_Projects/PG/2024_Xuening_Li_MSc.pdf" target="_blank">Thesis</a>)
+  * Monocular depth estimation for autonomous vehicles utilising a self-supervised learning, Murph C, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_Calum_Murphy.pdf" target="_blank">Report</a>)
+  * DL and box speed calibration for predicting rowing boat speed, Young R (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
+  * Convolutional neural network-based visual feature extraction for evaluation of the
+  urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
+  * Transfer learning for segmentation of waste bottles using Mask R-CNN, Jaikumar P (2020, <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Paper</a>)
+  * Autoencoders and GANs for addressing imbalanced image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
+  * Using three GAN-based models to provide modelling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
 
-**Natural Language Processing / Text Data Processing**
-* Fake news detection with neural networks, Mehring C (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) 
-* An analysis of NLP techniques applied to generating tweets, Rickard J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
-* Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, Braund T (UoR, 2019, <a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
+* Natural Language Processing / Text Data Processing
+  * Fake news detection with neural networks, Mehring C (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) 
+  * An analysis of NLP techniques applied to generating tweets, Rickard J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Joe_Richard.pdf" target="_blank">Report</a>)
+  * Analysing and presenting the general public opinions of feature films through data mining from social media feeds and a chatbot, Braund T (UoR, 2019, <a href="/data/Student_Projects/UG/2018_19_Thomas_Braund.pdf" target="_blank">Report</a>)
 
-**Audio/Speech Data Processing**
-* Audio classification using machine learning techniques, Taemur A (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
-* Classification of musical preferences through signal processing, Ward B (UoR, 2020, <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
-* Machine learning for speech classification, Shergill JS (UoR, 2020, <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Paper</a>)
+*Audio/Speech Data Processing
+  * Audio classification using machine learning techniques, Taemur A (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Adam_Taemur.pdf" target="_blank">Report</a>)
+  * Classification of musical preferences through signal processing, Ward B (UoR, 2020, <a href="https://centaur.reading.ac.uk/98568/" target="_blank">Paper</a>)
+  * Machine learning for speech classification, Shergill JS (UoR, 2020, <a href="https://centaur.reading.ac.uk/97785/" target="_blank">Paper</a>)
 
-**Time-series analysis and forecasting**
-* Using neural networks for time-series analysis of UK river flow data, Neele M (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
-* A study into the effectiveness of RNNs for trading, Doidge KB (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
-* Reading bus time prediction-A data science approach, Ford J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
-* Computing of local Lyapunov exponents using machine learning, Lau J (UoR, 2021, <a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
-* Reconstruction and parameter estimation of dynamical systems using DNNs (2022, <a href="https://thesis.unipd.it/retrieve/c7e3e5f8-34c5-47a3-9776-03edc3578548/Bassi_Alberto.pdf" target="_blank">Thesis</a>)
+*Time-series analysis and forecasting
+  * Using neural networks for time-series analysis of UK river flow data, Neele M (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Michale_Neel.pdf" target="_blank">Report</a>)
+  * A study into the effectiveness of RNNs for trading, Doidge KB (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Kyle_Doidge.pdf" target="_blank">Report</a>)
+  * Reading bus time prediction-A data science approach, Ford J (UoR, 2020, <a href="/data/Student_Projects/UG/2019_20_Jade_Ford.pdf" target="_blank">Report</a>)
+  * Computing of local Lyapunov exponents using machine learning, Lau J (UoR, 2021, <a href="/data/Student_Projects/PG/2021_Jack_Lau_MSc.pdf" target="_blank">Thesis</a>)
+  * Reconstruction and parameter estimation of dynamical systems using DNNs (2022, <a href="https://thesis.unipd.it/retrieve/c7e3e5f8-34c5-47a3-9776-03edc3578548/Bassi_Alberto.pdf" target="_blank">Thesis</a>)
 
-**Data Science Projects**
-* Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
-* Non-spatial and spatial statistics for analysing humans’ perception of the built environment, Heidi S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
-* People’s perception of urban and architectural features, Charlotte S (ETH Zurich, 2017, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
-* Machine Learning modelling of die filling for pharmaceutical powders, Peschiutta P (University of Padua, Padua, Italy, 2020) (external co-supervision with <a href="https://www.surrey.ac.uk/people/charley-wu" target="_blank">Prof C Wu</a>) (<a href="http://tesi.cab.unipd.it/64688/1/Peschiutta_Stefano_1190561.pdf" target="_blank">Thesis</a>)
+*Data Science Projects
+  * Study of diffusion of nano-particles in polymer and ferrofluids using ML, Desai SV (2021, <a href="/data/Student_Projects/PG/2021_Shreya_Desai_MSc.pdf" target="_blank">Thesis</a>)
+  * Non-spatial and spatial statistics for analysing humans’ perception of the built environment, Heidi S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/290292" target="_blank">Thesis</a>)
+  * People’s perception of urban and architectural features, Charlotte S (ETH Zurich, 2017, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/266634" target="_blank">Thesis</a>)
+  * Machine Learning modelling of die filling for pharmaceutical powders, Peschiutta P (University of Padua, Padua, Italy, 2020) (external co-supervision with <a href="https://www.surrey.ac.uk/people/charley-wu" target="_blank">Prof C Wu</a>) (<a href="http://tesi.cab.unipd.it/64688/1/Peschiutta_Stefano_1190561.pdf" target="_blank">Thesis</a>)
   
 
 
