@@ -102,8 +102,8 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 **Select Master/Bachelor Student Projects**
 
 * AI Safety and Security
-* Adversarial attacks and defenses on autonomous vehicles, Vaicius I, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_I_Vaicius.pdf" target="_blank">Report</a>)
-* Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
+  * Adversarial attacks and defenses on autonomous vehicles, Vaicius I, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_I_Vaicius.pdf" target="_blank">Report</a>)
+  * Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
 
 * Computer Vision and Image Data Processing_
   * Self-supervised representation learning for medical image processing, Bhardwaj M (2023, <a href="/data/Student_Projects/PG/2023_Manish_Bhardawaj_MSc.pdf" target="_blank">Thesis</a>)
