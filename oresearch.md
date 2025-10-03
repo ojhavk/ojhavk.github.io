@@ -104,7 +104,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 * _AI Safety and Security_
   * Adversarial attacks and defenses on autonomous vehicles, Vaicius I, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_I_Vaicius.pdf" target="_blank">Report</a>)
   * Robustness Analysis Of Neural Networks (2022, <a href="/data/Student_Projects/PG/2022_Yuqiao_Chen_MSc.pdf" target="_blank">Thesis</a>)
-  * Deep learning for detecting attacks on lidar in autonomous vehicles
+  * Deep learning for detecting attacks on LiDAR in autonomous vehicles
   * Out-of-Distribution Detection under Lens Contamination
   * Adversarial Attacks on Object Detection via Federated Learning
   * Robust Training Pipelines using Adversarial Augmentations
