@@ -107,6 +107,7 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
   * Deep learning for detecting attacks on lidar in autonomous vehicles
   * Out-of-Distribution Detection under Lens Contamination
   * Adversarial Attacks on Object Detection via Federated Learning
+  * Robust Training Pipelines using Adversarial Augmentations
 
 * _Computer Vision and Image Data Processing_
   * Self-supervised representation learning for medical image processing, Bhardwaj M (2023, <a href="/data/Student_Projects/PG/2023_Manish_Bhardawaj_MSc.pdf" target="_blank">Thesis</a>)
