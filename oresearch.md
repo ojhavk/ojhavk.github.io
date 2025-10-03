@@ -111,13 +111,13 @@ with <a href="http://www.met.reading.ac.uk/~sws01sld/" target="_blank">Prof Sarh
 * _Computer Vision and Image Data Processing_
   * Self-supervised representation learning for medical image processing, Bhardwaj M (2023, <a href="/data/Student_Projects/PG/2023_Manish_Bhardawaj_MSc.pdf" target="_blank">Thesis</a>)
   * Ancient artifact (pottery) reconstruction  based on deep learning, Li X (2024, <a href="/data/Student_Projects/PG/2024_Xuening_Li_MSc.pdf" target="_blank">Thesis</a>)
-  * Monocular depth estimation for autonomous vehicles utilising a self-supervised learning, Murph C, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_Calum_Murphy.pdf" target="_blank">Report</a>)
   * DL and box speed calibration for predicting rowing boat speed, Young R (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Rob_Young.pdf" target="_blank">Report</a>)
   * Convolutional neural network-based visual feature extraction for evaluation of the
   urban environment, Victor S (ETH Zurich, 2018, <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/293677" target="_blank">Thesis</a>)
   * Transfer learning for segmentation of waste bottles using Mask R-CNN, Jaikumar P (2020, <a href="https://centaur.reading.ac.uk/98569/" target="_blank">Paper</a>)
   * Autoencoders and GANs for addressing imbalanced image data, Ashokan V (UoR, 2021, (<a href="/data/Student_Projects/PG/2021_Vijayakumar_Asokan_Msc.pdf" target="_blank">Thesis</a>)
   * Using three GAN-based models to provide modelling inspiration (2022, <a href="/data/Student_Projects/PG/2022_Linfeng_Jia_MSc.pdf" target="_blank">Thesis</a>)
+  * Monocular depth estimation for autonomous vehicles utilising a self-supervised learning, Murph C, (NCL, 2023, <a href="/data/Student_Projects/UG/2023_Calum_Murphy.pdf" target="_blank">Report</a>)
 
 * _Natural Language Processing / Text Data Processing_
   * Fake news detection with neural networks, Mehring C (UoR, 2021, <a href="/data/Student_Projects/UG/2020_21_Conor_Mehrin.pdf" target="_blank">Report</a>) 
