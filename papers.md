@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-<div style="text-align: right"> <a href="#deep-learning-and-machine-learning">Deep Learning</a> | <a href="#applied-artificial-intelligence">Applied Artificial Intelligence</a> </div>
+<div style="text-align: right"> <a href="#deep-learning-and-machine-learning">Deep Learning</a> | <a href="#ai-for-science"> AI for Science</a> </div>
 
 <br>
 
@@ -72,7 +72,7 @@ title: Publications
 * <a href="https://centaur.reading.ac.uk/93563/" target="_blank">Design and implementation of an improved datacenter broker policy to improve the QoS of a cloud</a> <br> _5th Int. Conf. on Innov. in Bio-Inspired Comput. and Appl._, Ostrava (pp 281--290) Springer (2014) <br><span style="color:gray"> Chatterjee T, Ojha VK, Adhikari M,  Banerjee S, Biswas U, Snášel V </span><br>
 
 
-## **Applied Artificial Intelligence**
+## **AI for Science**
 <!-- 2023 -->
 **Hydrology and Climate Science**
 * <a href="https://bmva-archive.org.uk/bmvc/2024/workshops/MVEO/paper4.pdf" target="_blank"> Automated trash screen blockage segmentation using deep learning </a> <br> _British Machine Vision Conference_, (2024) <br> <span style="color:gray">Vandaele, R., Dance, S L, Williams H., & Ojha, V</span>
