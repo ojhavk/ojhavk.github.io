@@ -15,7 +15,7 @@ layout: default
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-_Trustworthy Artificial Intelligence_. I work on Deep Learning and Machine Learning. My primary research goals are to work on Deep Neural Networks towards the Security, Explainability, and Trustworthiness of AI.
+_Trustworthy Artificial Intelligence_. I work on Deep Learning and Machine Learning. My primary research goals are to work on Deep Neural Networks towards the Security, Explainability, and Trustworthiness of AI.<br>
 _Artificial Intelligence for Science Engineering Applications_. I work on Artificial Intelligence Algorithms to solve complex Engineering and Science problems. For example, I have collaborated with researchers from various disciplines, including Engineering, Climate Science, Hydrology, Environmental Science,  and Biology, to innovate and apply AI in solving problems across these fields.
 
 
