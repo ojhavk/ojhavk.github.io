@@ -15,7 +15,7 @@ layout: default
 
 <!-- <sub>[Research Supervision](#research-supervision)</sub> -->
 
-<span style="color:#FA5F55">Trustworthy Artificial Intelligence</span>. I work on Deep Learning and Machine Learning. My primary research goals are to work on the Security, Explainability, and Trustworthiness of AI. Some of my pioneering works are backpropagation neural tree, fragility and antifragility of deep learning, and Poincaré space ensemble Xgboost algorithms. <br>
+<span style="color:#FA5F55">Trustworthy Artificial Intelligence</span>. I work on Deep Learning and Machine Learning. My primary research goals are to work on the Security, Explainability, and Trustworthiness of AI. Some of my pioneering works are backpropagation neural tree, fragility and antifragility of deep learning, and hyperbolic machine learning algorithms. <br>
 <span style="color:#FA5F55">Artificial Intelligence for Science</span>. I work on Artificial Intelligence Algorithms to solve complex Engineering and Science problems. I have achieved remarkable success in interdisciplinary research with notable results and outputs in climate science and hydrology, engineering and built environment, medical and systems biology, and signal processing.
 
 
