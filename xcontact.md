@@ -35,7 +35,7 @@ Interested candidates should send a research proposal in this area along with th
 
 **PhD Projects (completed and present)**
 * Completed:
-  * Z Zhang (2026), On Learnability, Compression, and Topology of Deep Learning, NCL
+  * Ziwei Zhang (2026), On Learnability, Compression, and Topology of Deep Learning, NCL
   * Zhenyu Liu (2025), Adaptive and Regularized Adversarial Training for Robust Deep Learning, NCL
   * Naif Alzahrani, Advancing Generative Models for Synthetic Multichannel Sensor Data for Human Activity Recognition, NCL
   * Duaa Alqattan (2025) Security of Distributed and Federated Deep Learning Systems, NCL
