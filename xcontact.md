@@ -36,11 +36,11 @@ Interested candidates should send a research proposal in this area along with th
 **PhD Projects (completed and present)**
 * Completed:
   * Ziwei Zhang (2026), On Learnability, Compression, and Topology of Deep Learning, NCL
-  * Zhenyu Liu (2025), Adaptive and Regularized Adversarial Training for Robust Deep Learning, NCL
-  * Naif Alzahrani, Advancing Generative Models for Synthetic Multichannel Sensor Data for Human Activity Recognition, NCL
+  * Naif Alzahrani (2026), Advancing Generative Models for Synthetic Multichannel Sensor Data for Human Activity Recognition, NCL
+  * Zhenyu Liu (2025), Adaptive and Regularized Adversarial Training for Robust Deep Learning, NCL  
   * Duaa Alqattan (2025) Security of Distributed and Federated Deep Learning Systems, NCL
-  * Chandresh Parvin (2023) Fragility, Robustness and Antifragility of Deep Neural Networks, (<a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
   * Daniel Ayers (2024) Supervised learning to estimate instabilities in chaotic systems, UoR
+  * Chandresh Parvin (2023) Fragility, Robustness and Antifragility of Deep Neural Networks, (<a href="https://centaur.reading.ac.uk/112630/1/Pravin_thesis.pdf" target="_blank">eCopy</a>) UoR
     <!--- (co-supervision with <a href="https://scholar.google.com/citations?user=hiMvzDYAAAAJ&hl=en" target="_blank">Prof Alberto Carrassi</a>) --->
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
 
