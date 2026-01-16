@@ -45,7 +45,7 @@ Interested candidates should send a research proposal in this area along with th
   * Sensitivity Analysis of Deep Neural Networks, (2022) UoR
 
 * Ongoing: 
-  * M Wang, Hyperbolic deep learning, (2025 - present), NCL
+  * M Wang, Geometric deep learning, (2025 - present), NCL
   * L Huang, Adversarial Robustness of Multi-model LLMs (2025 - present), NCL
   * X Li, Visual 3D Scene Understanding/Perception (2025 - present), NCL
   * J Xu, Vision-Language Models (2025 - present), NCL 
