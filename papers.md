@@ -21,7 +21,7 @@ title: Publications
 <a href="{{site.baseurl}}/teaching">Teaching</a>  --->
 
 ## **Deep Learning and Machine Learning**
-* <a href="https://arxiv.org/abs/" target="_blank">V</span>Ensemble Feature Engineering in Sampling for XGBoost</a> <br> _Pattern Recognition_. (2026) <br>  <span style="color:gray">PN Suganthan, V Snasel, V Ojha, JS Pan</span>
+* <a href="https://arxiv.org/abs/" target="_blank">Ensemble Feature Engineering in Sampling for XGBoost</a> <br> _Pattern Recognition_. (2026) <br>  <span style="color:gray">PN Suganthan, V Snasel, V Ojha, JS Pan</span>
 * <a href="https://arxiv.org/abs/" target="_blank">Systematic Characterization of Minimal Deep Learning Architectures: A Unified Analysis of Convergence, Pruning, and Quantization</a> <br> _IEEE Conference on Artificial Intelligence 2026 (IEEE CAI)_. (2026) <br>  <span style="color:gray">Zheng Z, Liang H, Snasel V, Latora V, Pardalos P, Nicosia G, and Ojha V</span>
 * <a href="https://arxiv.org/pdf/2506.07056" target="_blank">D2R: dual regularization loss with collaborative adversarial generation for model robustness</a> <br> _34th International Conference on Artificial Neural Networks_ (ICANN 2025)  <br> <span style="color:gray">Z Liu,  H Liang, R Ranjan, Z Zhu, V Snasel, V Ojha</span>
 * <a href="https://arxiv.org/pdf/2510.05317" target="_blank">RegMix: Adversarial Mutual and Generalization Regularization for Enhancing DNN Robustness</a> <br> _24th IEEE International Conference on Trust, Security and Privacy in Computing and Communications_ (IEEE Trustcom 2025)  <br> <span style="color:gray">Z Liu and V Ojha</span>
