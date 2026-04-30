@@ -13,6 +13,7 @@ title: Talks
 <div style="text-align: right"> <a href="#research-talks">Talks</a> | <a href="#blogs">Blogs</a> </div>
 
 ## Research Talks 
+* Safe and Suistainable Artificial Intelligence, 04/2026 (<a href="/data/Research_Talks/acm_safe_ai.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">  Dalian University of Technology <br> Taiyuan University of Technology  </span> 
 * Keynote: Safeguarding Artificial Intelligence, 12/2025 (<a href="/data/Research_Talks/acm_safe_ai.pdf" target="_blank">PDF</a>) <br> <span style="color:gray"> Indian Institute of Science, ACM India Winter School on Edge AI</span> (<a href="https://www.samy101.com/acm-winter-school-edge-ai/#top" target="_blank">Link</a>)
 * Keynote: Resource-Efficient Artificial Intelligence, 12/2025 (<a href="/data/Research_Talks/acm_enargy_ai.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">Indian Institute of Science, ACM India Winter School on Edge AI</span> (<a href="https://www.samy101.com/acm-winter-school-edge-ai/#top" target="_blank">Link</a>)
 * Euclidean and Poincaré space ensemble Xgboost, 09/2025 (<a href="/data/Research_Talks/ukairs_slides_vo.pdf" target="_blank">PDF</a>) <br> <span style="color:gray">UKAIRS Research Symposium</span>
