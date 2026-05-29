@@ -40,13 +40,17 @@ title: Talks
 * Do the dynamics of the city environment influence us, and how?, 05/2019 (<a href="https://www.bcs.org/events-calendar/2019/may/uk-symposium-on-knowledge-discovery-and-data-mining-2019-bcs-sgai-the-specialist-group-on-artificial-intelligence/" target="_blank">Link</a>, <a href="https://archive.arch.ethz.ch/esum/downloads/presentations/ESUM_Full_presenation.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">BCS, SGAI, London, UK</span> 
 * Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">BCS Workshop on Open-Source AI, UoR, UK</span> 
 * Adaptive Learning Machines, 05/2019 (<a href="https://ossg.bcs.org/blog/event/open-source-ai-april-2019/" target="_blank">Link</a>, <a href="https://ossg.bcs.org/wp-content/uploads/04-19-varun.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">Vellore Institute of Technology, India</span> 
-* How we perceive our environment? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/Varun_ITA_talk_14_6_17.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">ITA Seminar, ETH Zürich, Switzerland</span> 
-* A computational intelligenceperspective of modeling and data analysis 10/2015 (<a href="/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">Heinrich-Heine-University, Düsseldorf, Germany</span> 
+* How do we perceive our environment? 06/2017 (<a href="https://archive.arch.ethz.ch/esum/downloads/presentations/Varun_ITA_talk_14_6_17.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">ITA Seminar, ETH Zürich, Switzerland</span> 
+* A computational intelligence perspective of modeling and data analysis 10/2015 (<a href="/data/Research_Talks/Dusseldorf/Varun_Dusseldorf_IPROCOM.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">Heinrich-Heine-University, Düsseldorf, Germany</span> 
 * Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">NICE Group, Computer Science, University of Surrey, UK</span> 
 * Adaptive tool for function approximation, 03/2015 (<a href="/data/Research_Talks/Surrey/03_2015_Varun_UK_FNT_CS.pdf" target="_blank">Slides</a>) <br> <span style="color:gray">Computer Science, Coventry University, UK</span>  
 
 
 ## Blogs
+* <a href="https://www.youtube.com/watch?v=zBUk3S9jr5M" target="_blank">AI Safety</a>  <br> <span style="color:gray"> Introduction to AI Safety and Security Lab</span>
+* <a href="https://www.youtube.com/watch?v=CbuUcin-M-w" target="_blank">AI Security on Drone Swarm Federated Learning</a>  <br> <span style="color:gray"> Introduction to AI Security on Distrubted Learning</span>
+* <a href="https://www.youtube.com/watch?v=wCfCqbAhy90" target="_blank">Deepfake </a>  <br> <span style="color:gray"> Poscast on Deepfake </span>
+* <a href="https://youtu.be/hkMdo4o8EEA?si=3SkqUr34kcXbleXm&t=132" target="_blank">Future of the AI on the Edge </a>  <br> <span style="color:gray">Video on Sustainable AI </span>
 
 * <a href="https://serokell.io/blog/neural-networks-with-varun-ojha" target="_blank">NN Research Best Practices</a>  <br> <span style="color:gray"> Article by Inna Logunova </span>
 * <a href="https://archive.arch.ethz.ch/esum/" target="_blank">Human Percepation - Data Science Approach</a>  <br> <span style="color:gray"> Article by V Ojha </span>
