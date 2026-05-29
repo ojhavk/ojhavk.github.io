@@ -51,6 +51,8 @@ title: Talks
 * <a href="https://www.youtube.com/watch?v=CbuUcin-M-w" target="_blank">AI Security on Drone Swarm Federated Learning</a>  <br> <span style="color:gray"> Introduction to AI Security on Distrubted Learning</span>
 * <a href="https://www.youtube.com/watch?v=wCfCqbAhy90" target="_blank">Deepfake </a>  <br> <span style="color:gray"> Poscast on Deepfake </span>
 * <a href="https://youtu.be/hkMdo4o8EEA?si=3SkqUr34kcXbleXm&t=132" target="_blank">Future of the AI on the Edge </a>  <br> <span style="color:gray">Video on Sustainable AI </span>
+* <a href="https://www.youtube.com/watch?v=3U4-7Y-epFw&t=142s" target="_blank">Anything Repeatable is Replaceable by AI</a>  <br> <span style="color:gray">Video on AI Applications</span>
+
 
 * <a href="https://serokell.io/blog/neural-networks-with-varun-ojha" target="_blank">NN Research Best Practices</a>  <br> <span style="color:gray"> Article by Inna Logunova </span>
 * <a href="https://archive.arch.ethz.ch/esum/" target="_blank">Human Percepation - Data Science Approach</a>  <br> <span style="color:gray"> Article by V Ojha </span>
